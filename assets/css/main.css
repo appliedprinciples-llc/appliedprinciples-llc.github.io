@@ -1291,6 +1291,7 @@ input, select, textarea {
 			}
 
             #header .logo {
+				margin-right: 1px;
                 width: 5.5rem;
                 height: 5.5rem;
                 line-height: 5.5rem;
@@ -1299,7 +1300,6 @@ input, select, textarea {
                 flex-direction: column;
                 justify-content: flex-end;
                 align-items: center;
-                margin: 0;
             }
 
             #header .logo img {
