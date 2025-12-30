@@ -577,6 +577,59 @@ input, select, textarea {
 		opacity: 1.0;
 	}
 
+.paper-layout{
+	display: grid;
+	grid-template-columns: 16rem minmax(0, 1fr);
+	gap: 2rem;
+	align-items: start;
+}
+
+/* Sticky TOC */
+.toc{
+	position: sticky;
+	top: 1rem;
+	align-self: start;
+}
+
+.toc-inner{
+	padding: 1.25rem 1rem;
+	border-radius: 0.5rem;
+	background: rgba(255,255,255,0.06);
+}
+
+.toc-title{
+	font-weight: 600;
+	margin-bottom: 0.75rem;
+	opacity: 0.9;
+}
+
+.toc nav a{
+	display: block;
+	padding: 0.35rem 0;
+	text-decoration: none;
+	opacity: 0.85;
+	line-height: 1.25;
+}
+
+.toc nav a:hover{
+	opacity: 1;
+	text-decoration: underline;
+}
+
+/* Mobile: TOC becomes a normal block (no sticky sidebar) */
+@media (max-width: 900px){
+	.paper-layout{
+		grid-template-columns: 1fr;
+	}
+	.toc{
+		position: relative;
+		top: auto;
+	}
+	.paper{
+		padding: 1.75rem 1.25rem;
+	}
+}
+
 /* Paper */
 .paper {
 	max-width: 48rem;        /* readable line length */
