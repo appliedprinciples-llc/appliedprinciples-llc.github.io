@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>Phase-Locked Discourse After Starbucks’ 4-Day RTO Mandate</title>
+    <meta name="description" content="A preregistered, dictionary-based analysis of public Reddit posts to test ICT predictions about legitimacy conflict, structural memory, and exit framing across policy phases." />
+
+    <!-- Match your other /writing pages (adjust paths if your site differs) -->
+    <link rel="stylesheet" href="../assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+
+    <!-- Small, page-local helpers (kept minimal to avoid fighting your shared CSS) -->
+    <style>
+        .meta { color: rgba(255,255,255,0.7); font-size: 0.9rem; margin-bottom: 1.5rem; }
+        .kicker { letter-spacing: .18rem; text-transform: uppercase; font-size: .75rem; opacity:.85; margin-bottom:.35rem; }
+        .callout {
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.22);
+            border-radius: 6px;
+            padding: 1rem 1.1rem;
+            margin: 1.5rem 0 2rem 0;
+        }
+        .callout p { margin-bottom: 0.9rem; }
+        .callout p:last-child { margin-bottom: 0; }
+        figure { margin: 0 0 2rem 0; }
+        figcaption { color: rgba(255,255,255,0.75); font-size: 0.95rem; margin-top: .75rem; }
+        .note { color: rgba(255,255,255,0.75); font-size: .92rem; }
+        .small { font-size: .92rem; color: rgba(255,255,255,0.8); }
+        .mono { font-family: var(--mono); }
+        .tight td, .tight th { padding: 0.55em 0.7em; }
+    </style>
+</head>
+
+<body class="is-preload">
+<div id="page-wrapper">
+    <div class="topbar">
+        <div class="topbar-inner">
+            <div class="brand">
+                <span>Applied Principles</span>
+                <small>Working Paper</small>
+            </div>
+            <div class="toplinks">
+                <a href="https://appliedprinciples-llc.com/#articles">Articles</a>
+            </div>
+        </div>
+    </div>
+
+    <section id="writing" class="wrapper style2">
+        <div class="inner">
+            <div class="paper-layout">
+            <!-- TOC -->
+            <aside class="toc" aria-label="Table of contents">
+                <div class="toc-inner">
+                    <div class="toc-title">On this page</div>
+                    <nav>
+                        <a href="#abstract">Abstract</a>
+                        <a href="#background">Background</a>
+                        <a href="#hypotheses">Hypotheses</a>
+                        <a href="#methods">Statistical Methods</a>
+                        <a href="#results">Results</a>
+                        <a href="#figure1">Figure 1</a>
+                        <a href="#discussion">Discussion</a>
+                        <a href="#limitations">Limitations</a>
+                        <a href="#conclusion">Conclusion</a>
+                        <a href="#appendix">Appendix</a>
+                        <a href="#data-availability">Data Availability</a>
+                        <a href="#references">References</a>
+                    </nav>
+                </div>
+            </aside>
+
+            <!-- Paper -->
+                <article class="paper" id="paper" aria-label="Paper">
+
+                    <div class="kicker">Interpretive Conditions Theory — public-data-only test</div>
+                    <h1 class="major">Phase-Locked Discourse After Starbucks’ 4-Day Return-to-Office Mandate</h1>
+
+                    <div class="meta">
+                        <div><strong>Author:</strong> Matthew Carlson</div>
+                        <div><strong>Status:</strong> Working paper (HTML)</div>
+                    </div>
+
+                    <div class="callout">
+                        <p><strong>What this paper tests:</strong> a falsifiable ICT claim about <em>temporal ordering</em> of interpretive frames under a mandate: legitimacy conflict (early/persistent), structural memory (late), and exit/decoupling framing (latest).</p>
+                        <p><strong>What it does not test:</strong> badge compliance, internal morale, or HR attrition. This is analysis of <em>public discourse traces</em> using a reproducible dictionary method.</p>
+                    </div>
+
+                    <h2 id="abstract" class="major">Abstract</h2>
+                    <p>
+                        This study tests three Interpretive Conditions Theory (ICT) hypotheses about how discourse changes across the lifecycle of a return-to-office (RTO) mandate.
+                        Using only publicly available Reddit submissions and a preregistered dictionary approach, the analysis tracks three constructs across four policy phases:
+                        <strong>(H1)</strong> legitimacy conflict persists beyond announcement,
+                        <strong>(H2)</strong> structural memory framing appears primarily after the policy becomes lived and consequential, and
+                        <strong>(H3)</strong> exit/decoupling framing emerges primarily during stabilization rather than during announcement or early enforcement.
+                    </p>
+                    <p>
+                        In the observed analytic subset (<span class="mono">N = 24</span> RTO-relevant posts), legitimacy framing appears in multiple phases (T1–T3),
+                        memory framing appears only in stabilization (T3),
+                        and exit/decoupling framing appears only in stabilization (T3).
+                        Given small window sizes and coarse measurement, results are treated as evidence about temporal ordering rather than population estimates.
+                    </p>
+
+                    <h2 id="intro" class="major">1. Introduction</h2>
+                    <p>
+                        Mandates often produce immediate disagreement but delayed interpretive resolution. ICT predicts that different interpretive resources become salient under different conditions:
+                        anticipated constraint (announcement), lived constraint (enforcement), and routine constraint (stabilization).
+                        This paper tests whether public discourse traces exhibit “phase-locked” emergence consistent with that claim.
+                    </p>
+
+                    <h2 id="background" class="major">Background</h2>
+                    <p>
+                        Starbucks’ RTO changes provide a strong case for ICT because they introduce contradictory cues: a formal rule shift (more in-office time) alongside discourse about leadership expectations, cultural reset, and relocation requirements. Public reporting describes a move to four in-office days beginning around the start of the next fiscal year (late September / October 2025), plus relocation expectations for people leaders within a specified time horizon, with a voluntary exit offer for those unwilling to comply.
+                    </p>
+                    <p class="small">
+                        Policy background sources include Starbucks’ public message and major press coverage summarizing implementation timing and scope.
+                    </p>
+
+                    <h2 id="theory" class="major">2. Theory</h2>
+                    <p>
+                        Interpretive Conditions Theory (ICT) explains how patterns persist because people respond to conditions that shape what feels sensible, appropriate, or viable.
+                        This study focuses on three constructs:
+                        <strong>Legitimacy</strong> (appropriateness/fairness/credibility conflict),
+                        <strong>Structural Memory</strong> (explicit comparison to prior stabilized arrangements, e.g., “this worked during COVID”),
+                        and <strong>Exit/Decoupling</strong> (withdrawal or “compliance theater” framing).
+                    </p>
+
+                    <h2 id="hypotheses" class="major">3. Hypotheses</h2>
+
+                    <h3>H1 — Legitimacy persists beyond announcement</h3>
+                    <p>
+                        <strong>Prediction:</strong> legitimacy-conflict framing appears during announcement and persists into later phases rather than being confined to an initial spike.
+                        <br /><strong>Falsification:</strong> legitimacy framing is absent (or near-zero) outside the announcement window.
+                    </p>
+
+                    <h3>H2 — Structural memory is reactive</h3>
+                    <p>
+                        <strong>Prediction:</strong> memory framing appears primarily during stabilization.
+                        <br /><strong>Falsification:</strong> memory framing appears similarly during announcement/enforcement as during stabilization.
+                    </p>
+
+                    <h3>H3 — Exit/decoupling framing is late interpretive resolution</h3>
+                    <p>
+                        <strong>Prediction:</strong> exit/decoupling framing appears primarily during stabilization (and not before memory appears).
+                        <br /><strong>Falsification:</strong> exit/decoupling framing appears prior to memory framing or uniformly across phases.
+                    </p>
+
+                    <h2 id="methods" class="major">4. Methods</h2>
+
+                    <h3>4.1 Data source and collection</h3>
+                    <p>
+                        Data consist of publicly accessible Reddit submissions collected via old.reddit.com pages for:
+                        <span class="mono">r/starbucks</span>, <span class="mono">r/seattle</span>, and <span class="mono">r/antiwork</span>.
+                        Posts were stored with submission ID, timestamp, subreddit, title, selftext (if present), and URL.
+                    </p>
+
+                    <h3>4.2 Time windows</h3>
+                    <div class="table-wrapper">
+                        <table class="alt tight">
+                            <thead>
+                            <tr>
+                                <th>Window</th>
+                                <th>Date range (inclusive start, exclusive end)</th>
+                                <th>Phase label</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr><td><strong>T0_baseline</strong></td><td class="mono">2025-04-01 → 2025-07-01</td><td>Baseline</td></tr>
+                            <tr><td><strong>T1_announce</strong></td><td class="mono">2025-07-01 → 2025-08-01</td><td>Announcement</td></tr>
+                            <tr><td><strong>T2_enforce</strong></td><td class="mono">2025-08-01 → 2025-11-01</td><td>Early enforcement</td></tr>
+                            <tr><td><strong>T3_stabilize</strong></td><td class="mono">2025-11-01 → 2026-02-01</td><td>Stabilization</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3>4.3 Inclusion/exclusion rules</h3>
+                    <ul>
+                        <li><strong>Deduplicate</strong> by submission ID.</li>
+                        <li><strong>Valid date</strong> required (rows with unparseable dates excluded).</li>
+                        <li>
+                            <strong>RTO relevance filter:</strong>
+                            include a post if its combined <span class="mono">title + selftext</span> contains at least one of:
+                            <span class="mono">["return to office","rto","hybrid","remote","in office","corporate","hq","headquarters","mandate","relocate","policy","niccol"]</span>.
+                        </li>
+                    </ul>
+
+                    <h3>4.4 Dictionaries</h3>
+
+                    <pre><code>LEGITIMACY_TERMS = [
+  "doesn't make sense", "not fair", "feels unfair", "punishment",
+  "trust", "don't trust", "control", "optics", "symbolic",
+  "leadership problem", "out of touch",
+  "wrong direction", "soul-crushing", "regime", "ruling class",
+  "penalize", "union busting", "double standard", "hypocrisy"
+]
+
+MEMORY_TERMS = [
+  "worked fine", "worked better", "proved", "already showed",
+  "during covid", "nothing changed", "we did this before",
+  "remote worked", "hybrid worked",
+  "survived", "already proven", "since 2020", "used to be",
+  "why now", "going back to"
+]
+
+DECOUPLE_TERMS = [
+  "badge in", "badge-in", "sit on calls", "go home early",
+  "manager said", "quietly", "unofficial", "work around",
+  "still remote", "in practice",
+  "refused to bargain", "forcing me out", "micromanaging",
+  "tracking", "screen monitor", "bathroom habits", "compliance",
+  "look busy", "California home"
+]</code></pre>
+
+                    <h3>4.5 Statistical methods</h3>
+                    <p>
+                        Each post is reduced to a single text string:
+                        <span class="mono">text_i = lower(title_i + " " + selftext_i)</span>.
+                        For each construct <span class="mono">c</span> with dictionary <span class="mono">D_c</span>, define an indicator:
+                    </p>
+
+                    <pre><code>I_{i,c} = 1   if any term t ∈ D_c occurs in text_i
+I_{i,c} = 0   otherwise</code></pre>
+
+                    <p>Within each time window <span class="mono">w</span>, prevalence is:</p>
+
+                    <pre><code>p_{w,c} = (1 / n_w) * Σ_{i ∈ w} I_{i,c}</code></pre>
+
+                    <p>
+                        The phase-comparative effect reported is a risk difference relative to the announcement window <span class="mono">T1_announce</span>:
+                    </p>
+
+                    <pre><code>RD_{w,c} = p_{w,c} - p_{T1,c}</code></pre>
+
+                    <p class="note">
+                        No inferential tests are reported because the analytic sample is small and the goal is evaluating temporal ordering (phase-locking), not estimating population parameters.
+                        Counts and proportions are reported together for auditability.
+                    </p>
+
+                    <h2 id="results" class="major">5. Results</h2>
+
+                    <h3>Table 1. Analytic sample size by window</h3>
+                    <div class="table-wrapper">
+                        <table class="alt tight">
+                            <thead>
+                            <tr><th>Window</th><th>n</th></tr>
+                            </thead>
+                            <tbody>
+                            <tr><td>T0_baseline</td><td class="mono">1</td></tr>
+                            <tr><td>T1_announce</td><td class="mono">7</td></tr>
+                            <tr><td>T2_enforce</td><td class="mono">4</td></tr>
+                            <tr><td>T3_stabilize</td><td class="mono">12</td></tr>
+                            </tbody>
+                            <tfoot>
+                            <tr><th>Total</th><th class="mono">24</th></tr>
+                            </tfoot>
+                        </table>
+                    </div>
+
+                    <h3>Table 2. Construct prevalence and counts by window</h3>
+                    <div class="table-wrapper">
+                        <table class="alt tight">
+                            <thead>
+                            <tr>
+                                <th rowspan="2">Window</th>
+                                <th colspan="3">Proportions (p)</th>
+                                <th colspan="3">Counts (x)</th>
+                            </tr>
+                            <tr>
+                                <th>Legitimacy</th>
+                                <th>Memory</th>
+                                <th>Exit/Decouple</th>
+                                <th>Legitimacy</th>
+                                <th>Memory</th>
+                                <th>Exit/Decouple</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>T0_baseline</td>
+                                <td class="mono">0.000</td><td class="mono">0.000</td><td class="mono">0.000</td>
+                                <td class="mono">0</td><td class="mono">0</td><td class="mono">0</td>
+                            </tr>
+                            <tr>
+                                <td>T1_announce</td>
+                                <td class="mono">0.286</td><td class="mono">0.000</td><td class="mono">0.000</td>
+                                <td class="mono">2</td><td class="mono">0</td><td class="mono">0</td>
+                            </tr>
+                            <tr>
+                                <td>T2_enforce</td>
+                                <td class="mono">0.250</td><td class="mono">0.000</td><td class="mono">0.000</td>
+                                <td class="mono">1</td><td class="mono">0</td><td class="mono">0</td>
+                            </tr>
+                            <tr>
+                                <td>T3_stabilize</td>
+                                <td class="mono">0.250</td><td class="mono">0.083</td><td class="mono">0.250</td>
+                                <td class="mono">3</td><td class="mono">1</td><td class="mono">3</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3>Table 3. Risk differences vs. T1_announce</h3>
+                    <div class="table-wrapper">
+                        <table class="alt tight">
+                            <thead>
+                            <tr><th>Window</th><th>Legitimacy</th><th>Memory</th><th>Exit/Decouple</th></tr>
+                            </thead>
+                            <tbody>
+                            <tr><td>T0_baseline</td><td class="mono">-0.286</td><td class="mono">0.000</td><td class="mono">0.000</td></tr>
+                            <tr><td>T1_announce</td><td class="mono">0.000</td><td class="mono">0.000</td><td class="mono">0.000</td></tr>
+                            <tr><td>T2_enforce</td><td class="mono">-0.036</td><td class="mono">0.000</td><td class="mono">0.000</td></tr>
+                            <tr><td>T3_stabilize</td><td class="mono">-0.036</td><td class="mono">0.083</td><td class="mono">0.250</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="hr"></div>
+
+                    <h2 id="figure1" class="major">Figure 1. Phase-Locked Pattern (visual encoding)</h2>
+
+                    <figure aria-label="Phase-locked pattern figure">
+                        <!-- Inline SVG (drop-in) -->
+                        <svg viewBox="0 0 980 360" role="img" aria-label="Phase-locked pattern across windows"
+                             style="width:100%; height:auto; background: rgba(255,255,255,0.03); border-radius: 8px; border: 1px solid rgba(255,255,255,0.15);">
+                            <!-- Column grid -->
+                            <g fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1">
+                                <line x1="220" y1="55" x2="220" y2="320"></line>
+                                <line x1="410" y1="55" x2="410" y2="320"></line>
+                                <line x1="600" y1="55" x2="600" y2="320"></line>
+                                <line x1="790" y1="55" x2="790" y2="320"></line>
+                            </g>
+
+                            <!-- Headers -->
+                            <g fill="rgba(255,255,255,0.85)" font-family="Source Sans Pro, sans-serif" font-size="16" letter-spacing="2">
+                                <text x="125" y="40">T0</text>
+                                <text x="315" y="40">T1</text>
+                                <text x="505" y="40">T2</text>
+                                <text x="695" y="40">T3</text>
+                            </g>
+                            <g fill="rgba(255,255,255,0.65)" font-family="Source Sans Pro, sans-serif" font-size="12">
+                                <text x="100" y="60">Baseline</text>
+                                <text x="285" y="60">Announce</text>
+                                <text x="475" y="60">Enforce</text>
+                                <text x="665" y="60">Stabilize</text>
+                            </g>
+
+                            <!-- Row labels -->
+                            <g fill="rgba(255,255,255,0.85)" font-family="Source Sans Pro, sans-serif" font-size="14" letter-spacing="1">
+                                <text x="35" y="125">Legitimacy</text>
+                                <text x="35" y="210">Memory</text>
+                                <text x="35" y="295">Exit/Decouple</text>
+                            </g>
+
+                            <!-- Legend -->
+                            <g fill="rgba(255,255,255,0.75)" font-family="Source Sans Pro, sans-serif" font-size="12">
+                                <text x="800" y="35">Dot size ∝ p</text>
+                            </g>
+
+                            <!-- Dot sizing: r = 4 + 28*p -->
+                            <!-- p values from Table 2 (rounded display); sizing uses those displayed p’s -->
+
+                            <!-- Legitimacy row: T0 0.000, T1 0.286, T2 0.250, T3 0.250 -->
+                            <g fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="2">
+                                <circle cx="125" cy="120" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="315" cy="120" r="12.008"></circle>  <!-- 4 + 28*0.286 -->
+                                <circle cx="505" cy="120" r="11.000"></circle>  <!-- 4 + 28*0.250 -->
+                                <circle cx="695" cy="120" r="11.000"></circle>  <!-- 4 + 28*0.250 -->
+                            </g>
+
+                            <!-- Memory row: T0 0.000, T1 0.000, T2 0.000, T3 0.083 -->
+                            <g fill="none" stroke="rgba(255,255,255,0.75)" stroke-width="2" stroke-dasharray="3 3">
+                                <circle cx="125" cy="205" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="315" cy="205" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="505" cy="205" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="695" cy="205" r="6.324"></circle>   <!-- 4 + 28*0.083 -->
+                            </g>
+
+                            <!-- Exit/Decouple row: T0 0.000, T1 0.000, T2 0.000, T3 0.250 -->
+                            <g fill="none" stroke="rgba(255,255,255,0.9)" stroke-width="2">
+                                <circle cx="125" cy="290" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="315" cy="290" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="505" cy="290" r="4.000"></circle>   <!-- 0.000 -->
+                                <circle cx="695" cy="290" r="11.000"></circle>  <!-- 4 + 28*0.250 -->
+                            </g>
+
+                            <!-- Onset annotations -->
+                            <g fill="rgba(255,255,255,0.6)" font-family="Source Sans Pro, sans-serif" font-size="12">
+                                <text x="725" y="205">onset</text>
+                                <text x="725" y="290">onset</text>
+                            </g>
+                            <g fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="1.5">
+                                <line x1="710" y1="198" x2="740" y2="198"></line>
+                                <polyline points="740,198 734,194 734,202" fill="rgba(255,255,255,0.35)"></polyline>
+                                <line x1="710" y1="283" x2="740" y2="283"></line>
+                                <polyline points="740,283 734,279 734,287" fill="rgba(255,255,255,0.35)"></polyline>
+                            </g>
+                        </svg>
+
+                        <figcaption>
+                            <strong>Figure 1 note (ties directly to H1–H3):</strong>
+                            <br />
+                            <strong>H1</strong> predicts legitimacy persists beyond announcement; legitimacy appears across T1–T3 (Table 2).
+                            <strong>H2</strong> predicts memory is phase-locked to stabilization; memory remains absent until T3.
+                            <strong>H3</strong> predicts exit/decoupling framing appears late; it remains absent until T3 and co-occurs with memory onset.
+                            Dot size encodes prevalence (Table 2).
+                        </figcaption>
+                    </figure>
+
+                    <h2 id="discussion" class="major">6. Discussion</h2>
+                    <p>
+                        The pattern supports the ICT claim under test: legitimacy conflict appears early and persists, while structural memory and exit/decoupling framing appear only once the mandate becomes routine.
+                        The key result is the <em>ordering</em>, not the magnitude.
+                    </p>
+                    <p>
+                        “Exit/decoupling” here is explicitly a discursive construct: it includes both literal exit language (“forcing me out”) and compliance-theater language (“look busy,” “compliance”).
+                        This prevents overstating behavioral attrition while still testing the theoretical prediction about late-stage interpretive resolution.
+                    </p>
+
+                    <h2 id="limitations" class="major">7. Limitations</h2>
+                    <ul>
+                        <li><strong>Small n:</strong> window sizes are small; results are pattern evidence, not stable estimates.</li>
+                        <li><strong>Selection bias:</strong> Reddit users are not representative of Starbucks corporate employees.</li>
+                        <li><strong>Dictionary measurement:</strong> sarcasm and indirect framing can produce false negatives/positives.</li>
+                        <li><strong>No behavioral outcome data:</strong> cannot infer actual compliance, morale, or turnover.</li>
+                    </ul>
+
+                    <h2 id="conclusion" class="major">8. Conclusion</h2>
+                    <p>
+                        Using only public discourse traces and a fully reproducible pipeline, this study finds a phase-locked ordering consistent with ICT:
+                        legitimacy persists; memory and exit/decoupling appear only during stabilization. The value of the result is the temporal pattern.
+                    </p>
+
+                    <div class="hr"></div>
+
+                    <h2 id="appendix" class="major">Appendix</h2>
+
+                    <h3>Appendix A. Preregistered hypothesis table</h3>
+                    <div class="table-wrapper">
+                        <table class="alt tight">
+                            <thead>
+                            <tr>
+                                <th>Hypothesis</th>
+                                <th>Construct</th>
+                                <th>Operational variable</th>
+                                <th>Windows</th>
+                                <th>Primary test</th>
+                                <th>Falsification</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td><strong>H1</strong></td>
+                                <td>Legitimacy persists</td>
+                                <td>I<sub>i,legitimacy</sub></td>
+                                <td>T0–T3</td>
+                                <td>Legitimacy not confined to T1 only</td>
+                                <td>Legitimacy ≈ 0 outside T1</td>
+                            </tr>
+                            <tr>
+                                <td><strong>H2</strong></td>
+                                <td>Structural memory is reactive</td>
+                                <td>I<sub>i,memory</sub></td>
+                                <td>T1–T3</td>
+                                <td>Memory appears primarily in T3</td>
+                                <td>Memory prevalent in T1/T2</td>
+                            </tr>
+                            <tr>
+                                <td><strong>H3</strong></td>
+                                <td>Exit/decouple is late</td>
+                                <td>I<sub>i,exit</sub></td>
+                                <td>T0–T3</td>
+                                <td>Exit/decouple appears in T3 and not before memory</td>
+                                <td>Exit/decouple appears before memory or uniformly across windows</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <h3 id="data-availability" class="major">Data Availability</h3>
+                    <p>
+                        This study uses only publicly accessible sources. The analysis can be reproduced from the saved dataset
+                        (<span class="mono">data/reddit_data.csv</span>) using the frozen relevance filter, frozen dictionaries, and time-window cutpoints specified in the Methods section.
+                    </p>
+
+                    <h2 id="references" class="major">References</h2>
+                    <ul>
+                        <li>
+                            Starbucks (2025). <em>Message from Brian: Reestablishing an In-Office Culture</em>.
+                            <a href="https://about.starbucks.com/press/2025/message-from-brian-reestablishing-an-in-office-culture/">about.starbucks.com</a>
+                        </li>
+                        <li>
+                            AP News (2025). <em>Starbucks takes aim at remote work, says some employees may need to relocate to headquarters</em>.
+                            <a href="https://apnews.com/article/134eb6122e1dfffc5f319fbca083f5b3">apnews.com</a>
+                        </li>
+                        <li>
+                            The Guardian (2025). <em>Starbucks tells corporate staff in US and Canada to work in office at least four days a week</em>.
+                            <a href="https://www.theguardian.com/business/2025/jul/15/starbucks-corporate-staff-us-canada-work-in-office-four-days-a-week">theguardian.com</a>
+                        </li>
+                        <li>
+                            Restaurant Dive (2025). <em>Starbucks shifts to 4-day RTO for corporate employees</em>.
+                            <a href="https://www.restaurantdive.com/news/starbucks-four-day-a-week-rto-rule-seattle-toronto/753000/">restaurantdive.com</a>
+                        </li>
+                    </ul>
+
+                    <footer>
+                        <p class="note">© Applied Principles Consulting LLC. Working paper posted for discussion; not peer reviewed.</p>
+                    </footer>
+
+                </article>
+            </div>
+        </div>
+    </section>
+</div>
+
+<!-- If your other pages include main.js, keep parity here (adjust path if needed) -->
+<script src="../assets/js/jquery.min.js"></script>
+<script src="../assets/js/browser.min.js"></script>
+<script src="../assets/js/breakpoints.min.js"></script>
+<script src="../assets/js/util.js"></script>
+<script src="../assets/js/main.js"></script>
+</body>
+</html>
