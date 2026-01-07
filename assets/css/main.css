@@ -20,6 +20,8 @@
 	--shadow: 0 1px 2px rgba(0,0,0,.06), 0 8px 24px rgba(0,0,0,.06);
 	--mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 	--sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+	--topbar-h: 56px;     /* adjust to match your actual rendered topbar height */
+	--toc-gap-top: 16px;  /* desired gap under the topbar */
 }
 
 html, body, div, span, applet, object,
@@ -43,6 +45,10 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+
+html{
+	scroll-padding-top: calc(var(--topbar-h) + var(--toc-gap-top));
+}
 
 body {
 	line-height: 1;
@@ -602,7 +608,7 @@ input, select, textarea {
 /* Sticky TOC */
 .toc{
 	position: sticky;
-	top: 1rem;
+	top: calc(var(--topbar-h) + var(--toc-gap-top));
 	align-self: start;
 }
 
