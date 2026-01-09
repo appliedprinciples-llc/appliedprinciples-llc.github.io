@@ -13,7 +13,7 @@
 	--bg:rgba(255, 255, 255, 0.075);;
 	--fg:#111827;
 	--link:#2563eb;
-	--max: 980px;
+	--max: 1400px;
 	--toc: 260px;
 	--gap: 28px;
 	--radius: 10px;
@@ -651,7 +651,7 @@ input, select, textarea {
 
 /* Paper */
 .paper {
-	max-width: 48rem;        /* readable line length */
+	max-width: 60rem;        /* readable line length */
 	margin: 0 auto;          /* center horizontally */
 	padding: 2.5rem 2rem;    /* breathing room */
 }
