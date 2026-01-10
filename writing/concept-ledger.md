@@ -44,24 +44,63 @@ Persistence in human systems arises from learned interpretation of conditions, n
 * Not a field-level diffusion theory (explains within-organization dynamics, not cross-organizational adoption)
 
 ---
+Perfect. That's a much clearer specification. Let me draft the revised **Conditions** definition for the ledger that addresses this vulnerability:
 
-## Conditions
+---
+
+## **Revised Conditions Definition**
+
+### Conditions
 
 **Canonical Definition**
 External, observable features of the environment that people encounter and interpret when deciding how to act. Conditions shape meaning often implicitly and sometimes prior to explicit deliberation. Conditions function recursively as both input and output.
 
 **Key Properties**
 
-* External and observable (not attitudes or internal states)
+* **External and observable** (not internal mental states or private thoughts)
 * Include norms, rules, tools, feedback, and constraints
 * May constrain action directly (capacity, authority, tools) or indirectly through interpretation
 * Function recursively: conditions → interpretation → response → new conditions
 
-**Recursive Function**
-* Conditions shape how people interpret what's legitimate
-* People respond based on those interpretations
-* Repeated responses create new conditions (patterns others observe and respond to)
-* These new conditions shape the next round of interpretation
+**What Qualifies as "Observable"**
+
+Observable means **capable of being perceived by a person through any sense** (sight, hearing, touch, smell, etc.), not that it must be observed by all people or even noticed by anyone in particular.
+
+**Observable conditions include:**
+* What someone says or does (behavior, speech, writing)
+* What tools/systems allow or prevent (affordances, constraints)
+* What gets measured and displayed (dashboards, reports, reviews)
+* Physical artifacts (office layout, resources available, posted signs)
+* Temporal patterns (meeting schedules, deadlines, response times)
+* Outward expressions (facial expressions, tone of voice, body language)
+* What's absent or withheld (silence, missing information, who's not invited)
+
+**Not observable conditions (internal states):**
+* What someone thinks but doesn't express
+* Private feelings (fear, anxiety, excitement) before any outward expression
+* Internal cognitive processes (how someone reasons through a decision)
+* Unspoken intentions
+
+**Clarifying Boundary Cases:**
+
+* **Fear (internal)** is not a condition → **Outward signs of fear** (trembling, avoiding eye contact, hesitation) ARE conditions that others can observe and respond to
+* **Internal dialog** is not a condition → **What someone says aloud** IS a condition
+* **Private belief** is not a condition → **Public statement of belief** IS a condition
+* **Cognitive framing** is not a condition → **Language used in tools/documents** that shapes framing IS a condition
+
+**Why This Distinction Matters:**
+
+ICT focuses on what's available in the environment for interpretation, not what's happening inside individual minds. This is both:
+1. **Methodologically practical** - We can study observable conditions; we can't directly access internal states
+2. **Theoretically principled** - Patterns emerge through responses to shared environmental features, not private thoughts
+
+**Important Nuance:**
+
+Once an internal state becomes **expressed** (spoken, written, enacted in behavior), it becomes an observable condition that others can respond to. The theory doesn't deny internal states exist—it focuses on what's available for collective interpretation and response.
+
+**Recursive Note:**
+
+Conditions include norms (which are socially constructed), but norms become conditions when they're **enacted and observable**. A norm that lives only in people's heads isn't a condition. A norm that's expressed through stories, sanctions, or patterns of behavior IS a condition because it can be observed and responded to.
 
 ---
 
