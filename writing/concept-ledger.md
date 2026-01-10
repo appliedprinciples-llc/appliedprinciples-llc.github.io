@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.1 | January 2026**
+**Version 1.2 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -18,6 +18,9 @@ It governs meaning across all public, practitioner, and academic artifacts.
 * **CORE concepts** define the identity and causal logic of ICT
 * **SUPPORTING concepts (ICT-owned)** refine, operationalize, or extend the core
 * **IMPORTED supporting concepts** are explicitly borrowed, bounded, and non-owned
+
+**Terminological Note:**
+When a term appears in both lowercase (general usage) and capitalized (specific construct), the capitalized version refers to the formal ICT concept. For example: "norms" (observable instances) vs. "Norms & Expectations" (domain representing collective pattern).
 
 ---
 
@@ -49,8 +52,7 @@ Perfect. That's a much clearer specification. Let me draft the revised **Conditi
 ---
 
 ## **Revised Conditions Definition**
-
-### Conditions
+## Conditions
 
 **Canonical Definition**
 External, observable features of the environment that people encounter and interpret when deciding how to act. Conditions shape meaning often implicitly and sometimes prior to explicit deliberation. Conditions function recursively as both input and output.
@@ -83,7 +85,7 @@ Observable means **capable of being perceived by a person through any sense** (s
 
 **Clarifying Boundary Cases:**
 
-* **Fear (internal)** is not a condition → **Outward signs of fear** (trembling, avoiding eye contact, hesitation) ARE conditions that others can observe and respond to
+* **Fear (internal)** is not a condition → **Outward signs of fear** (trembling, avoiding eye contact, hesitation) ARE conditions
 * **Internal dialog** is not a condition → **What someone says aloud** IS a condition
 * **Private belief** is not a condition → **Public statement of belief** IS a condition
 * **Cognitive framing** is not a condition → **Language used in tools/documents** that shapes framing IS a condition
@@ -97,6 +99,12 @@ ICT focuses on what's available in the environment for interpretation, not what'
 **Important Nuance:**
 
 Once an internal state becomes **expressed** (spoken, written, enacted in behavior), it becomes an observable condition that others can respond to. The theory doesn't deny internal states exist—it focuses on what's available for collective interpretation and response.
+
+**Conditions Include Norms (lowercase):**
+
+When ICT says conditions include "norms," it means enacted, observable instances of normative behavior: stories told, reactions observed, visible patterns of inclusion/exclusion. These are discrete events that can be perceived.
+
+This is distinct from the **Norms & Expectations domain** (capitalized), which is the collective pattern that emerges when many such instances converge over time. Individual norm enactments are conditions; the collective pattern they form is a domain.
 
 **Recursive Note:**
 
@@ -350,7 +358,6 @@ What the system rewards, discourages, or makes meaningful. What leads to advance
 * **Cognitive:** Reward structures shape what feels like "winning" vs. "losing." What's celebrated in stories shapes aspirational identity. You see what you're primed to care about.
 
 ---
-
 ### Norms & Expectations
 
 **Definition**
@@ -359,10 +366,21 @@ What behavior is taken for granted, praised, ignored, or quietly penalized. What
 **Key Difference from Structural Domains**
 Norms & Expectations operates fundamentally differently from the five structural domains:
 
-* **Constituted through interaction,** not provided by organizational design
-* **Emerges from collective interpretation;** cannot be mandated
-* **Functions recursively** as both input and outcome
-* **Represents legitimacy itself** at the collective level, not just a signal
+**Relationship to "Norms as Conditions":**
+
+Individual norm enactments (stories told, reactions observed, sanctions applied) are **conditions**—discrete, observable instances that people encounter and interpret.
+
+The **Norms & Expectations domain** is the **emergent collective pattern** formed when many such instances converge. It represents what has become taken-for-granted through distributed learning.
+
+People don't observe "the Norms & Expectations domain" directly—they observe discrete norm enactments (conditions), interpret those instances, and through overlapping experience, a collective pattern emerges.
+
+**The Relationship:**
+
+**Observable norm enactments** (conditions) → People interpret these instances → **Collective pattern emerges** (Norms & Expectations domain)
+
+**Analogy:**
+* Individual raindrops = observable conditions (you can see/feel each one)
+* Weather pattern = domain (the emergent phenomenon when many raindrops form a coherent system)
 
 **Recursive Function**
 
@@ -371,7 +389,8 @@ Norms & Expectations operates fundamentally differently from the five structural
 3. **As outcome:** The stabilized pattern of distributed memory when interpretations converge
 4. **As input again:** That pattern becomes a condition newcomers encounter
 
-**Why It's Separate**
+**Unlike structural domains, Norms:**
+
 Organizations cannot design Norms directly, only influence it indirectly by shaping the structural domains from which normative patterns emerge. In institutional theory terms, Norms & Expectations is where legitimacy ultimately resides. When practices achieve "taken-for-granted" status, that taken-for-grantedness lives in Norms & Expectations.
 
 **Examples**
@@ -721,6 +740,31 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * Added: Three mechanisms (Structural, Signaling, Cognitive) detailed for each domain
 * Added: Terminology note on "organizational memory" vs. "distributed memory"
 * Added: Governance rules for version control and cross-referencing
+
+---
+Perfect. Here are the version change notes to add to the ledger:
+
+---
+
+## **Version 1.2 Change Notes**
+
+**Version 1.2** (January 2026)
+
+**Clarifications Added:**
+
+* **Conditions: Observable specification** - Added detailed explanation of what "external and observable" means. Observable = capable of being perceived by a person through any sense, not that it must be observed by all. Distinguished observable conditions (outward expressions, behaviors, artifacts) from non-observable internal states (private thoughts, unexpressed feelings, internal dialog).
+
+* **Conditions: Boundary cases** - Added examples clarifying internal vs. external: fear (internal) vs. outward signs of fear (observable), internal dialog vs. spoken words, private belief vs. public statement, cognitive framing vs. language in tools.
+
+* **Conditions: Methodological justification** - Explained why ICT focuses on observable conditions: methodologically practical (can be studied) and theoretically principled (patterns emerge from shared environmental features).
+
+* **Norms disambiguation** - Clarified dual usage of "norms": lowercase "norms" refers to observable enacted instances (conditions); capitalized "Norms & Expectations" refers to the collective pattern domain that emerges when instances converge over time.
+
+* **Norms & Expectations: Relationship to conditions** - Added explanation that individual norm enactments are conditions (discrete observable events), while Norms & Expectations domain is the emergent pattern. People observe instances, interpret them, and collective pattern emerges through distributed learning.
+
+**Peer Review Vulnerabilities Addressed:**
+* V1 (Conditions operationalization): What makes something "observable"? Observable to whom?
+* V5 (Conceptual clarity): Why do "norms" appear as both condition and domain?
 
 ---
 
