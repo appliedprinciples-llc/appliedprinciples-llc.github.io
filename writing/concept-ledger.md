@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 2.2 | January 2026**
+**Version 2.3 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -183,16 +183,60 @@ When this ledger uses **"legitimacy" singular**, it typically refers to:
 - **Composite across all three dimensions** (unless otherwise specified), OR
 - **The dimension most relevant to the specific claim**
 
-**When assessing legitimacy empirically:**
-- Measure all three dimensions separately (three survey items)
-- Calculate SD for each dimension independently  
-- Examine profiles (which dimensions show consensus vs. contestation)
-- Different profiles create different structural characters
+**CRITICAL: Measurement Rules for Legitimacy Consensus**
+
+The contested→routine→taken-for-granted spectrum must be applied **per-dimension**, not as a composite score:
+
+**Measurement Protocol:**
+1. **Measure each dimension separately:** Survey items for safe, acceptable, worthwhile
+2. **Calculate SD for each dimension independently:** Do NOT create composite legitimacy score
+3. **Assess distribution shape:** Check for bimodality (two peaks = fundamental disagreement)
+4. **Create dimension profile:** Which dimensions show consensus vs. contestation
+
+**Legitimacy Spectrum Applied Per-Dimension:**
+
+**For each dimension individually:**
+- **Contested:** SD > 1.5 (high variance, fundamental disagreement)
+- **Routine:** SD 0.8-1.5 (moderate consensus)
+- **Taken-for-granted:** SD < 0.8 (high consensus, low variance)
+
+**Do NOT create composite "legitimacy score"** - Dimensions can vary independently
+
+**Dimension Profiles Explain Structural Character:**
+
+**Contested Equilibrium Profile (Most Common):**
+- Safe: Taken-for-granted (SD < 0.8) - "It's safe to comply"
+- Acceptable: Routine (SD 1.0) - "It's socially acceptable, even required"
+- Worthwhile: Contested (SD 1.8) - "But is it actually valuable?" ← THIS drives contestation
+
+Result: High coordination (safe + acceptable drive compliance) + contested legitimacy (worthwhile disputed)
+
+**Fear-Based Compliance Profile:**
+- Safe: Contested (SD 1.9) - "Is it safe to do this?"
+- Acceptable: Taken-for-granted (SD 0.5)
+- Worthwhile: Routine (SD 1.0)
+
+Result: Pattern may not form despite acceptability/worthwhileness (safety concerns prevent action)
+
+**Full Legitimacy Profile:**
+- Safe: Taken-for-granted (SD 0.6)
+- Acceptable: Taken-for-granted (SD 0.7)
+- Worthwhile: Taken-for-granted (SD 0.5)
+
+Result: Taken-for-granted structure (all dimensions converged)
+
+**Why This Matters Empirically:**
+
+Using composite scores MASKS the mechanism:
+- Average SD might look "moderate" (routine)
+- But profile reveals safe/acceptable are taken-for-granted while worthwhile is contested
+- This is contested equilibrium, not routine legitimacy
 
 **Example interpretation:**
-- "Legitimacy consensus is high" = High consensus on all three dimensions (or composite)
-- "Legitimacy on 'worthwhile' is contested" = Specific dimension identified
-- "Legitimacy convergence" = Typically refers to convergence across all dimensions
+- "Legitimacy consensus is high" = High consensus (SD < 0.8) on all three dimensions
+- "Legitimacy on 'worthwhile' is contested" = Specific dimension has SD > 1.5
+- "Legitimacy convergence" = All three dimensions showing decreasing SD over time
+- "Dimension profile shows contested equilibrium" = Safe/acceptable converged, worthwhile contested
 
 **Why the multi-dimensional view matters:**
 
@@ -345,6 +389,59 @@ ICT uses **cue-based heuristic processing** as specified in:
 - "High deviation from normal triggers scrutiny"
 - Triggered by: Observing average, most common, or most recent patterns
 
+**Macro Validity as Meta-Cue:**
+
+Macro validity—the institutionalized perception that a practice is appropriate at organizational or field level (Haack et al., 2021)—can function as a powerful meta-cue that shapes how other heuristics are weighted.
+
+**How validity operates as a cue:**
+
+When practices have high macro validity ("everyone knows we do X here," "this is standard in our field"):
+- **Authority heuristic weight increases:** Leadership/field endorsement signals safety and acceptability
+- **Consensus heuristic weight increases:** Institutionalized status signals "people like me do this"
+- **May override local domain inconsistencies:** Macro-level "this is how things are done" can suppress local doubts
+
+**Why this matters for contested equilibrium:**
+
+Macro validity can sustain coordination even when micro-level legitimacy judgments remain contested. This explains "silenced heterogeneity" (Haack et al., 2021):
+- High validity signals "this is institutionalized" (authority + consensus cues)
+- People comply despite private doubts (worthwhile dimension contested)
+- Macro validity cue suppresses expression of dissent
+- Result: High coordination with low legitimacy consensus (contested equilibrium)
+
+**Empirical manifestation:**
+- Surveys show: Leadership endorses practice, policy codifies it, widespread adoption (validity indicators)
+- Surveys also show: High variance in "worthwhile" dimension (low consensus)
+- Macro validity maintains coordination while legitimacy remains contested
+
+**Source:**
+Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
+
+**Note on Motivated Reasoning and Identity-Protective Cognition**
+
+Motivated reasoning and identity-protective cognition are plausible **moderators** of cue weighting but fall outside ICT's core explanatory scope.
+
+**What the literature shows:**
+
+When actions threaten identity, status, or self-concept, people may:
+- Weight cues selectively to protect identity
+- Interpret ambiguous cues to reinforce existing beliefs
+- Resist cues that challenge deeply held values
+- Defend positions despite contradictory evidence
+
+**ICT's boundary:**
+
+ICT acknowledges these dynamics affect cue interpretation but does not adopt motivated reasoning as a core mechanism. Instead, ICT treats identity salience and status concerns as factors that affect:
+- **Which cues are noticed:** Identity-relevant cues receive more attention
+- **How heuristics are weighted:** Identity-protective concerns can amplify or suppress specific heuristics
+- **Response variation:** Same cues produce different responses based on identity/status position
+
+**This operates through existing ICT mechanisms:**
+- Identity relevance affects perceived possibilities (Agency section)
+- Status concerns affect risk assessment (safe dimension)
+- Value alignment affects worthwhile judgments
+
+ICT does not require a separate motivated reasoning mechanism—identity/status effects operate through cue salience and heuristic weighting within the existing framework.
+
 **Three Legitimacy Dimensions**
 
 Drawing on Tost's (2011) instrumental/relational/moral framework, ICT assesses legitimacy along three dimensions reframed for organizational application:
@@ -397,6 +494,25 @@ Fairness is not a fourth dimension of legitimacy. Rather, fairness perceptions s
 Procedural justice research (Tyler, 1990) shows people comply with authorities they view as legitimate, even when outcomes are unfavorable. This is consistent with ICT's framework: fair procedures create legitimacy cues that shape compliance independent of instrumental outcomes.
 
 **This is descriptive, not normative.** ICT explains how fairness perceptions function as legitimacy cues, not whether fairness "should" matter or whether fair systems are "better." The empirical observation is that fairness cues affect legitimacy judgments, which affect coordination and persistence.
+
+**Authority Legitimacy vs. Action Legitimacy:**
+
+Procedural justice literature (Tyler, 1990) primarily addresses **authority legitimacy**: whether leaders, institutions, or legal authorities are perceived as legitimate and deserving of deference.
+
+ICT addresses **action legitimacy**: whether specific practices or behaviors are perceived as safe, acceptable, and worthwhile in a particular context.
+
+**The relationship:**
+- Authority legitimacy can function as a **cue** for action legitimacy
+- Fair authorities signal "actions endorsed by legitimate authorities are likely safe and appropriate"
+- But authority legitimacy ≠ action legitimacy
+- Actions can be illegitimate even when authorities are legitimate (leaders endorse practice, but people judge it inappropriate)
+- Actions can be legitimate even when authorities are not (practice emerged bottom-up and is taken-for-granted)
+
+**ICT's focus:**
+
+ICT explains **action legitimacy** learned through domain cues, treating authority legitimacy as one cue source among six domains (particularly through Capacity domain: how authority is exercised, and Motivation domain: whose interests are served).
+
+When Tyler's work shows people comply with fair authorities, ICT explains this as: fairness cues → "safe to comply" + "acceptable to follow" legitimacy judgments → compliance responses.
 
 **Source:**
 Tyler, T. R. (1990). *Why people obey the law.* Yale University Press.
@@ -472,33 +588,71 @@ The actions people take—or avoid—based on their interpretation of legitimacy
 
 **Note on Automaticity and Habitual Responses**
 
-Much organizational behavior occurs with minimal conscious deliberation through learned habits and automatic responses. This is fully consistent with ICT's framework.
+Much organizational behavior occurs with minimal conscious deliberation through learned habits and automatic responses. Habit research demonstrates that habits are context-cued responses that can form and persist through repetition, convenience, and friction reduction—independent of goal-mediated legitimacy judgments.
 
-**How habits fit within ICT:**
+**Two Types of Habits in Organizations:**
 
-When a pattern has been enacted repeatedly with consistent legitimacy signals:
-1. Legitimacy judgments become encoded in habitual responses
-2. Cues can directly trigger behavior without conscious judgment
-3. The interpretation step has become unconscious through repetition
-4. Response occurs automatically based on prior learning
+**Type 1: Legitimacy-Based Habits**
+- Form when repeated enactment occurs with consistent legitimacy signals
+- Legitimacy judgment "this is safe/acceptable/worthwhile" becomes encoded
+- Automatic response reflects internalized belief
+- Example: People automatically help newcomers because "helping is what we value here" (taken-for-granted)
 
-**This explains taken-for-grantedness:**
-- When structures become taken-for-granted, responses feel "obvious" and automatic
-- Not because interpretation isn't happening, but because legitimacy learning has been completed
-- The judgment "this is safe/acceptable/worthwhile" is embedded in the habit
-- Questioning the response seems strange because the legitimacy learning is encoded
+**Type 2: Coordination-Based Habits**
+- Form through repetition, convenience, or friction reduction WITHOUT requiring legitimacy
+- Persist because they're the path of least resistance, not because people believe in them
+- Automatic response reflects learned routine, not internalized belief
+- Example: People automatically complete TPS reports because "that's what we do" even though they believe "it's pointless paperwork"
 
-**Habitual enactment is still legitimacy-based:**
-- Habits form when repeated enactment occurs without negative consequences
-- Habits persist when environmental cues remain consistent
-- Habits dissolve when cues shift (punishment for habitual action, new tools block old paths)
-- Automatic ≠ mindless; it means "legitimacy already learned"
+**How This Strengthens ICT's Contested Equilibrium Framework:**
 
-**Empirical implication:**
-The presence of habitual, automatic responses indicates high legitimacy consensus has been reached and encoded through distributed learning. Habits are evidence of structuration, not an alternative to it.
+Type 2 habits are a **primary mechanism** for contested equilibrium:
+- Habits maintain HIGH coordination through automaticity and friction reduction
+- Independent of legitimacy (people don't believe practice is worthwhile)
+- Practice becomes automatic not because legitimacy consensus formed, but because:
+  - Repetition creates neural pathway efficiency
+  - Tools/processes make it easiest path
+  - Opt-out creates friction and effort
+  - Enforcement ensures repeated exposure
 
-**Source:**
-Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. *Psychological Review, 114*(4), 843-863.
+**Contested equilibrium = Type 2 habits at scale:**
+- Everyone does it automatically (high coordination via habit)
+- Everyone believes it's pointless (low legitimacy consensus)
+- Pattern persists through habit strength + structural dependencies, not belief
+
+**From habit research (Wood & Neal, 2007):**
+- Habits are context-cued responses that don't require goal mediation
+- Form through repetition in stable contexts
+- Persist until context changes disrupt cue-response association
+- Can be entirely independent of whether person values the behavior
+
+**Why habits dissolve in ICT framework:**
+- When structural conditions change (tools removed, processes blocked)
+- Context changes → cue no longer triggers response
+- Habit mechanism breaks, revealing underlying lack of legitimacy
+- If legitimacy absent, coordination collapses (no belief to sustain it)
+- If legitimacy present, new habits form around new conditions
+
+**Empirical implications:**
+
+**Presence of habitual responses indicates:**
+- HIGH coordination (pattern enacted automatically)
+- But does NOT necessarily indicate high legitimacy consensus
+- Could be Type 1 (legitimacy-based) OR Type 2 (coordination-based)
+
+**To distinguish:**
+- Disruption test: Remove enforcement/tools → does pattern persist?
+- If persists: Type 1 (legitimacy sustains it)
+- If collapses: Type 2 (habit + structure sustained it, not belief)
+
+**This resolves apparent contradiction:**
+- Habits ARE evidence of structuration (continuous enactment)
+- But habits can encode coordination WITHOUT legitimacy
+- This is contested equilibrium's core mechanism
+
+**Sources:**
+- Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. *Psychological Review, 114*(4), 843-863.
+- Wood, W., Tam, L., & Witt, M. G. (2005). Changing circumstances, disrupting habits. *Journal of Personality and Social Psychology, 88*(6), 918-933.
 
 ---
 
@@ -865,10 +1019,26 @@ ICT does not claim to discover a new phenomenon. Institutions exist; institution
 
 **Not a competing theory—a mechanistic specification** for organizational contexts.
 
-**Measurement methods transfer directly from Institutional Theory:**
-- Tolbert & Zucker's (1996) three-stage framework
+**ICT Adapts Institutional Measurement Logics to Within-Organization Observation:**
+
+ICT draws on established institutional theory measurement frameworks but adapts them from field-level to organizational-level observation:
+
+**Borrowed measurement frameworks:**
+- Tolbert & Zucker's (1996) three-stage framework (habitualization → objectification → sedimentation)
 - Scott's (2001) three pillars (regulative, normative, cultural-cognitive)
-- Haack, Schilke, & Zucker's (2021) multi-level legitimacy measurement
+- Haack, Schilke, & Zucker's (2021) multi-level legitimacy measurement (propriety, validity, consensus)
+
+**ICT's adaptations for within-organization context:**
+- **FROM:** Field-level archival data (adoption rates, policy diffusion across organizations)
+- **TO:** Within-organization multi-method observation (surveys, ethnography, behavioral variance, disruption tests)
+
+- **FROM:** Macro comparative analysis across organizations
+- **TO:** Domain-level diagnosis within single organization
+
+- **FROM:** Measuring "what practices diffuse" across field
+- **TO:** Measuring "what coordination and legitimacy patterns form" within organization
+
+**Key addition: Domain cue consistency measurement** (ICT-specific contribution measuring alignment across six domains to predict legitimacy convergence)
 
 **CRITICAL CLARIFICATION: Multi-Level Structuring**
 
@@ -882,7 +1052,7 @@ ICT does not claim to discover a new phenomenon. Institutions exist; institution
 - Political patterns
 - Cultural/societal patterns
 
-**There is NO scope restriction.** The same mechanisms (cues, interpretation, legitimacy, distributed memory, continuous enactment) operate at every level.
+**There is NO ONTOLOGICAL scope restriction.** The same mechanisms (cues, interpretation, legitimacy, distributed memory, continuous enactment) operate at every level. This is an ontological claim about where the phenomenon occurs, not a theoretical claim about what ICT explains (see Scope Clarification in ICT definition for the distinction between ontological and theoretical scope).
 
 **Individuals exist within LAYERED, OVERLAPPING structures (palimpsest):**
 
@@ -1340,6 +1510,19 @@ Contested equilibrium exists in proximity to several established organizational 
 | Strong enforcement + Low legitimacy | **Contested Equilibrium** - Full enactment, persistent contestation |
 | Contradictory external demands | **Organized Hypocrisy** - Talk/decision/action divergence (may produce contested equilibrium internally) |
 | External legitimacy concern + Internal resistance | **Legitimacy Facade** - Symbolic external presentation (may be decoupled or contested internally) |
+| Practice enacted but not achieving intended outcomes | **Means-Ends Decoupling** - Implementation disconnected from outcomes (may overlap with contested equilibrium when "worthwhile" contested) |
+
+**Additional Clarification: Means-Ends Decoupling**
+
+Contemporary decoupling research identifies means-ends decoupling: practices are implemented but disconnected from their intended outcomes. This can overlap empirically with contested equilibrium when the "worthwhile" dimension is contested.
+
+**Distinction:**
+- **Means-ends decoupling** focuses on outcome achievement (practice doesn't produce intended results)
+- **Contested equilibrium** focuses on legitimacy consensus profiles and coordination dependence mechanisms
+
+**They can coexist:** A practice may be contested on "worthwhile" (contested equilibrium) BECAUSE it's means-ends decoupled (doesn't achieve outcomes).
+
+ICT's distinctive contribution is explaining HOW coordination persists despite legitimacy contestation through domain cue mechanisms and habit formation, not merely documenting outcome failure.
 
 **Why These Distinctions Matter:**
 
@@ -2952,6 +3135,20 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight:** ICT's scope is a choice about explanatory focus (within-org pattern persistence), not a claim about where mechanisms don't operate (they do at all levels)
 * **Addressed: High-quality external critique** identifying scope contradiction, contribution ambiguity, boundary gaps with established constructs, overly absolute power claim, missing literatures
 
+**Version 2.3** (January 2026)
+* **CRITICAL FIX: Habits reframed to align with literature and STRENGTHEN theory** - Changed from "habits are legitimacy-based" to "habits can be Type 1 (legitimacy-based) OR Type 2 (coordination-based without legitimacy)"; Type 2 habits are PRIMARY mechanism for contested equilibrium
+* **Key theoretical advancement:** Type 2 habits explain how coordination persists through automaticity + friction reduction WITHOUT legitimacy consensus; habits maintain high coordination independent of belief; strengthens coordination-legitimacy decoupling explanation
+* **CRITICAL FIX: Methods language** - Changed "methods transfer directly" to "ICT adapts institutional measurement logics to within-organization observation"; clarifies FROM field-level archival TO within-org multi-method; preserves novelty claim
+* **CRITICAL FIX: Scope rhetoric** - Added "ONTOLOGICAL" qualifier to "no scope restriction" with explicit cross-reference to scope clarification; prevents confusion between ontological (where phenomenon occurs) and theoretical (what ICT explains) scope
+* **MAJOR: Validity as meta-cue integration** - Added macro validity as powerful cue that shapes heuristic weighting; explains how validity can override local domain inconsistencies and sustain "silenced heterogeneity"; integrates Bitektine & Haack multilevel legitimacy framework into ICT's cue-heuristic loop
+* **MAJOR: Legitimacy spectrum measurement clarification** - Explicit rule that contested→routine→taken-for-granted applies PER-DIMENSION not composite; DO NOT create composite scores; use dimension PROFILES; added three profile examples (contested equilibrium, fear-based, full legitimacy)
+* **Added: Motivated reasoning boundary** - Acknowledged as moderator of cue weighting outside core scope; operates through existing mechanisms (identity salience, heuristic weighting)
+* **Added: Means-ends decoupling to boundary table** - Can overlap with contested equilibrium when "worthwhile" contested; ICT explains HOW coordination persists, not just outcome failure
+* **Added: Authority vs action legitimacy distinction** - Tyler's procedural justice addresses authority legitimacy; ICT addresses action legitimacy; authority legitimacy functions as cue for action legitimacy through domains
+* **All additions from second external critique** - Habits contradiction with literature, measurement ambiguity, validity integration gap, scope rhetoric confusion
+* **Key insight from habit fix:** Coordination-based habits (Type 2) are contested equilibrium's mechanism - people comply automatically not from belief but from repetition + friction reduction + enforcement; reveals contested equilibrium ≠ failed legitimation but stable coordination mechanism
+* **Addressed: Second high-quality critique** identifying habits overclaim, methods language undermining novelty, validity missing from loop, spectrum ambiguity, scope rhetoric risk
+
 ---
 
-## End of Concept Ledger v2.2
+## End of Concept Ledger v2.3
