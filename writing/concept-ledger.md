@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.5 | January 2026**
+**Version 1.6 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -630,8 +630,61 @@ Agency explains WHY patterns are not deterministic and HOW change is possible, w
 **Canonical Definition**
 Patterns continuously recreated through coordinated action. Structures exist only in ongoing enactment and dissolve when reproduction stops.
 
+**CRITICAL CLARIFICATION: Structure (Noun) vs. Structuring (Verb)**
+
+**Structure as noun** is a communication convenience. What actually happens is **structuring** (verb)—the continuous process of enactment.
+
+**Structuring is ALWAYS occurring** when patterns are being reproduced:
+- People read cues
+- People form legitimacy judgments  
+- People respond
+- Responses become new cues
+- Pattern continues through continuous enactment
+
+**All patterns being continuously enacted ARE structures.** They vary in CHARACTER, not EXISTENCE:
+- **Degree of coordination** (behavioral convergence)
+- **Degree of legitimacy consensus** (interpretive convergence)
+- **Degree of taken-for-grantedness** (cognitive pillar strength)
+- **Degree of stability** (resistance to change)
+
+**Common Misconception to AVOID:**
+
+**WRONG:** "Performance reviews aren't a structure because they're in contested equilibrium"
+
+**CORRECT:** "Performance reviews ARE a structure—one with high coordination but low legitimacy consensus (contested equilibrium). The structuring is happening. People ARE continuously enacting the pattern, reading cues, forming legitimacy judgments ('this is required compliance theater'), and responding accordingly. The structure contains the contestation as part of its content."
+
 **Relationship to Patterns**
+
 Structures ARE patterns—specifically, patterns that have achieved sufficient coordination and repetition that they guide future behavior. "Structure" and "pattern" are used nearly synonymously when explaining the theory, with "structure" emphasizing the apparent solidity/persistence and "pattern" emphasizing the emergent/enacted nature.
+
+**What Varies Across Structures**
+
+All structures involve continuous enactment. What varies is:
+
+**1. Coordination Level:**
+- **Low:** Emerging patterns (high behavioral variance, few people enact)
+- **Moderate:** Routines (standardizing, most people enact similarly)
+- **High:** Taken-for-granted patterns (minimal variance, automatic enactment)
+
+**2. Legitimacy Consensus:**
+- **Low:** Contested (high variance in legitimacy beliefs: SD > 1.5)
+- **Moderate:** Routine (moderate consensus: SD 0.8-1.5)
+- **High:** Taken-for-granted (very high consensus: SD < 0.8)
+
+**3. Coordination-Legitimacy Alignment:**
+- **Aligned:** Coordination and legitimacy move together (typical path)
+- **Misaligned:** High coordination, low legitimacy = **contested equilibrium**
+
+**Contested Equilibrium IS a Structure**
+
+Contested equilibrium describes a structure with a particular character:
+- High behavioral coordination (everyone does it)
+- Low legitimacy consensus (people disagree it's worthwhile)
+- Distributed memory HAS formed: "We do X, and it's required compliance theater"
+- Structuring IS happening: people enact, read cues, form judgments, respond
+- Pattern IS being reproduced through continuous enactment
+
+**The structure exists. It just contains the contestation as part of what's being enacted.**
 
 **Key Clarifications**
 
@@ -639,6 +692,8 @@ Structures ARE patterns—specifically, patterns that have achieved sufficient c
 * Structures are not causes external to action—they ARE coordinated action
 * Structures persist through reenactment, not inertia
 * When people stop enacting a pattern, the structure dissolves
+* **Structures vary in character (coordination level, legitimacy consensus, stability), not in whether they exist**
+* **Contested equilibrium is a TYPE of structure, not the absence of structure**
 
 ---
 
@@ -684,8 +739,33 @@ Behavioral stability does not imply legitimacy convergence. Practices can achiev
 **Canonical Definition**
 A stable state in which practices are routinely enacted (coordination has tipped) while legitimacy remains persistently contested (interpretive convergence has not occurred). Behavioral stability without legitimacy convergence.
 
+**CRITICAL CLARIFICATION: Contested Equilibrium IS a Structure**
+
+Contested equilibrium describes a structure with a specific character, NOT the absence of structure.
+
+**Structuring (continuous enactment) IS happening:**
+- People read cues (contradictory signals about legitimacy)
+- People form legitimacy judgments ("this is required compliance," "this doesn't make sense")
+- People respond (enact the practice despite contested legitimacy)
+- Responses become new cues for others
+- Pattern continues through continuous reenactment
+
+**Distributed memory HAS formed:**
+- "We do performance reviews" (behavioral pattern)
+- "And it's required compliance theater" (contested meaning)
+- **The structure contains the contestation as part of its content**
+
+**What makes contested equilibrium distinctive:**
+- High coordination (behavioral convergence)
+- Low legitimacy consensus (interpretive divergence)
+- Pattern is stable but contested
+- Maintained by enforcement/dependencies, not taken-for-granted acceptance
+
 **Core Claim**
+
 Practices can become structurally remembered as routines of compliance before—and even without—becoming legitimate as shared meaning. People learn "this is required" without ever learning "this makes sense." The structure that forms encodes "how to survive this," not "this is right."
+
+**The pattern IS being continuously enacted. The structure exists. It just has a particular character: coordination without interpretive convergence.**
 
 **Independent Discovery and Empirical Support**
 
@@ -721,10 +801,12 @@ While Haack et al. (2021) identified the phenomenon at field/organizational leve
 Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
 
 **Why It Matters**
-Most organizational theory assumes behavioral stability implies legitimacy ("if people keep doing it, they must accept it"). Both ICT and Haack et al. (2021) demonstrate this is false. Contested equilibrium is not failed institutionalization or a transitional state—it is a predictable and potentially durable organizational condition when enforcement mechanisms sustain coordination while cue environments prevent interpretive convergence.
+
+Most organizational theory assumes behavioral stability implies legitimacy ("if people keep doing it, they must accept it"). Both ICT and Haack et al. (2021) demonstrate this is false. Contested equilibrium is not failed institutionalization or a transitional state—it is a predictable and potentially durable structural condition when enforcement mechanisms sustain coordination while cue environments prevent interpretive convergence.
 
 **Examples**
-Open office plans, performance reviews, return-to-office mandates, compliance training—widely adopted, persistently contested.
+
+Open office plans, performance reviews, return-to-office mandates, compliance training—widely adopted, persistently contested. These ARE structures being continuously enacted. They just contain the contestation as part of what's being structurated.
 
 ---
 
@@ -1468,6 +1550,14 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Citations added:** Evans (2007, 2017), Biesta & Tedder (2007)
 * **Addressed: Peer review vulnerabilities** on theoretical tension, scope ambiguity, determinism problem
 
+**Version 1.6** (January 2026)
+* **CRITICAL CONCEPTUAL REFRAMING: Structure (noun) vs. Structuring (verb)** - Fundamentally clarified that structure as noun is communication convenience; what actually happens is structuring (verb) as continuous process
+* **CRITICAL CLARIFICATION: Contested equilibrium IS a structure** - Corrected misconception that contested equilibrium means "not a structure"; it describes a structure with specific character (high coordination, low legitimacy consensus)
+* **Revised: Structures section** - Added extensive clarification that all patterns being continuously enacted ARE structures; they vary in character (coordination level, legitimacy consensus, stability), not in whether they exist
+* **Revised: Contested Equilibrium section** - Added explicit statement that structuring IS happening (people read cues, form judgments, respond, create new cues); distributed memory HAS formed; pattern IS being reproduced; structure contains the contestation as part of its content
+* **Clarified: What varies across structures** - Coordination level (low/moderate/high), legitimacy consensus (low/moderate/high), coordination-legitimacy alignment (aligned vs. misaligned)
+* **Key insight:** The structure exists. It just contains the contestation as part of what's being enacted. Performance reviews ARE a structure—one with high coordination but low legitimacy consensus.
+* **Addressed: Fundamental misconception** that would undermine theory's explanatory power by excluding contested equilibrium from being structural
+
 ---
 
-## End of Concept Ledger v1.5
