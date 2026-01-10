@@ -614,25 +614,6 @@ input, select, textarea {
 	padding: 1.25rem 1rem;
 	border-radius: 0.5rem;
 	background: rgba(255,255,255,0.06);
-	top: 2rem;
-	max-height: calc(100vh - 4rem);
-	overflow-y: auto;
-	scrollbar-width: none; /* Firefox */
-	-ms-overflow-style: none; /* IE/Edge */
-}
-
-/* For webkit browsers (Chrome, Safari) */
-.toc-inner::-webkit-scrollbar {
-	display: none;
-}
-
-.toc-inner::-webkit-scrollbar-track {
-	background: #f1f1f1;
-}
-
-.toc-inner::-webkit-scrollbar-thumb {
-	background: #888;
-	border-radius: 3px;
 }
 
 .toc-title{
@@ -876,8 +857,6 @@ input, select, textarea {
 
 		dl dd {
 			margin-left: 2rem;
-			padding-bottom: 15px; /* Adjust value as needed */
-			margin-bottom: 0; /* Prevent default margin from conflicting */
 		}
 
 /* Actions */
