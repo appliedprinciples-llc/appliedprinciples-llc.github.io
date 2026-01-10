@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.2 | January 2026**
+**Version 1.3 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -135,6 +135,55 @@ The shared sense of what actions are acceptable, safe, or worth the effort withi
 * **Relational:** How meanings are negotiated, reinforced, or corrected in interaction with others
 * **Institutional:** When action becomes obvious and legitimacy collapses into structure—enacted without thought
 
+**Multi-Level Measurement Framework**
+
+ICT's legitimacy construct aligns with recent institutional theory's multi-level operationalization (Haack et al., 2021):
+
+**Individual Level (Phenomenological):**
+Measured through individual assessment of whether actions are safe, acceptable, and worthwhile.
+
+**Meso Level (Relational/Consensus):**
+Measured as agreement between individuals' legitimacy beliefs. High consensus = distributed memory has converged. Low consensus = interpretations remain contested.
+
+**Macro Level (Institutional/Validity):**
+Measured as taken-for-granted status through authorization (leadership endorsement, policy inclusion), endorsement (peer adoption), and institutionalization (alternatives aren't considered).
+
+**Operationalization Approaches:**
+
+1. **Individual legitimacy (Propriety equivalent):**
+   - Survey items: "Attempting [practice] is safe here" / "acceptable here" / "worth the effort"
+   - Measures felt sense of legitimacy for individuals
+
+2. **Collective consensus:**
+   - Calculate variance/standard deviation in individual responses
+   - Low variance = high consensus (routine or taken-for-granted)
+   - High variance = low consensus (contested)
+
+3. **Institutional validity:**
+   - Leadership endorsement (observable authorization)
+   - Policy inclusion (formal codification)
+   - Peer adoption rates (social endorsement)
+   - Lack of alternatives considered (taken-for-grantedness)
+
+**Spectrum Operationalization:**
+
+- **Contested legitimacy:** High variance in individual beliefs (SD > 1.5 on 7-point scale); active debate or enforcement required
+- **Routine legitimacy:** Moderate consensus (SD = 0.8-1.5); general acceptance but conscious
+- **Taken-for-granted legitimacy:** Very high consensus (SD < 0.8); automatic, unreflective compliance; alternatives not considered
+
+**Detecting Contested Equilibrium:**
+
+Contested equilibrium is detected when:
+- Behavioral compliance is high (practice is routinely enacted)
+- Validity is high (leaders endorse, policies include, peers appear to adopt)
+- Consensus is low (high variance in individual legitimacy beliefs)
+- Individual legitimacy is low (people privately believe practice is not safe/acceptable/worthwhile)
+
+This measurement approach enables empirical distinction between coordination stability and legitimacy convergence.
+
+**Citation:**
+Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
+
 ---
 
 ## Interpretation
@@ -239,8 +288,41 @@ A stable state in which practices are routinely enacted (coordination has tipped
 **Core Claim**
 Practices can become structurally remembered as routines of compliance before—and even without—becoming legitimate as shared meaning. People learn "this is required" without ever learning "this makes sense." The structure that forms encodes "how to survive this," not "this is right."
 
+**Independent Discovery and Empirical Support**
+
+The phenomenon ICT calls "contested equilibrium" was independently discovered and empirically demonstrated by institutional theorists:
+
+Haack, Schilke, & Zucker (2021) identified what they term "validity-consensus incongruity"—situations where practices have high **validity** (institutionalized, collective-level perception of appropriateness) but low **consensus** (agreement between evaluators' propriety beliefs). Their key finding: "Validity may hide underlying disagreement."
+
+Their framework distinguishes:
+- **Propriety** (individual-level): Personal belief about appropriateness
+- **Consensus** (meso-level): Agreement between individual beliefs  
+- **Validity** (macro-level): Institutionalized perception of appropriateness
+
+Their empirical research demonstrates that high validity can coexist with low consensus, creating what they call "silenced heterogeneity"—macro-level stability masking micro-level disagreement.
+
+**Relationship Between Frameworks:**
+
+| ICT Term | Haack et al. (2021) Equivalent |
+|----------|-------------------------------|
+| Individual felt sense of legitimacy | Propriety |
+| Distributed memory convergence | Consensus |
+| Taken-for-granted status | Validity |
+| Contested equilibrium | Validity-consensus incongruity |
+
+**ICT's Distinctive Contribution:**
+
+While Haack et al. (2021) identified the phenomenon at field/organizational level, ICT explains:
+1. **How it forms**: Domain misalignment creates contradictory cues that prevent consensus while enforcement sustains coordination
+2. **Why it persists**: Cue-based learning continuously reproduces contested interpretations even as behavioral compliance continues
+3. **What sustains it**: Structural mechanisms (tools, processes, capacity constraints) maintain coordination independent of legitimacy
+4. **When it's stable vs. unstable**: Depends on whether enforcement mechanisms can sustain coordination despite legitimacy challenges
+
+**Citation:**
+Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
+
 **Why It Matters**
-Most organizational theory assumes behavioral stability implies legitimacy ("if people keep doing it, they must accept it"). ICT shows this is false. Contested equilibrium is not failed institutionalization or a transitional state—it is a predictable and potentially durable organizational condition when enforcement mechanisms sustain coordination while cue environments prevent interpretive convergence.
+Most organizational theory assumes behavioral stability implies legitimacy ("if people keep doing it, they must accept it"). Both ICT and Haack et al. (2021) demonstrate this is false. Contested equilibrium is not failed institutionalization or a transitional state—it is a predictable and potentially durable organizational condition when enforcement mechanisms sustain coordination while cue environments prevent interpretive convergence.
 
 **Examples**
 Open office plans, performance reviews, return-to-office mandates, compliance training—widely adopted, persistently contested.
@@ -612,6 +694,54 @@ Sensemaking informs ICT's concept of interpretation but ICT adds legitimacy as t
 
 ---
 
+## Multi-Level Legitimacy Theory
+
+**Source:** Haack, Schilke, & Zucker (2021)
+
+**Used by ICT**
+
+* Three-level framework: propriety (individual), consensus (collective), validity (institutional)
+* Empirical operationalization of legitimacy at each level
+* Discovery that validity can hide underlying disagreement (validity-consensus incongruity)
+* Measurement approaches for each level
+* Insight that macro-level stability can mask micro-level heterogeneity
+
+**What ICT Directly Adopts**
+
+ICT's phenomenological/relational/institutional ontology of legitimacy maps directly onto Haack et al.'s propriety/consensus/validity framework:
+- ICT's phenomenological level = Haack et al.'s propriety (individual belief)
+- ICT's relational level = Haack et al.'s consensus (agreement through interaction)
+- ICT's institutional level = Haack et al.'s validity (taken-for-granted status)
+
+ICT adopts their measurement approaches:
+- Individual surveys for phenomenological legitimacy
+- Variance/consensus metrics for relational convergence
+- Endorsement/authorization indicators for institutional validity
+
+**What ICT Extends**
+
+1. **Causal mechanisms**: ICT specifies how validity-consensus incongruity forms (domain misalignment) and persists (cue-based learning)
+2. **Within-organization focus**: Haack et al. operate at field level; ICT operates within organizations
+3. **Legitimacy dimensions**: ICT measures safe/acceptable/worthwhile (not just "appropriate")
+4. **Cue sources**: ICT specifies which domains signal legitimacy
+5. **Coordination distinction**: ICT distinguishes coordination stability from legitimacy convergence
+
+**Not Claimed by ICT**
+
+* Field-level legitimacy processes
+* Institutional change originating from legitimacy disclosure
+* Political/social movement applications
+* Full micro-foundations research program
+
+**Boundary**
+
+Haack et al. (2021) discovered validity-consensus incongruity (contested equilibrium) at the field/organizational level and demonstrated it empirically. ICT explains the within-organization mechanisms that create and sustain this phenomenon, specifying how domain misalignment prevents consensus while structural mechanisms maintain coordination.
+
+**Citation:**
+Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
+
+---
+
 ## Organizational Learning & Memory
 
 **Source:** Levitt & March (1988); Walsh & Ungson (1991); Cyert & March (1963)
@@ -741,31 +871,22 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * Added: Terminology note on "organizational memory" vs. "distributed memory"
 * Added: Governance rules for version control and cross-referencing
 
----
-Perfect. Here are the version change notes to add to the ledger:
-
----
-
-## **Version 1.2 Change Notes**
-
 **Version 1.2** (January 2026)
+* Added: "Observable" specification for Conditions (capable of being perceived by a person through any sense)
+* Added: Boundary cases distinguishing observable conditions from internal states
+* Added: Methodological justification for observable conditions focus
+* Added: Norms disambiguation (lowercase vs. capitalized usage)
+* Addressed: Peer review vulnerabilities on Conditions operationalization and norms conceptual clarity
 
-**Clarifications Added:**
-
-* **Conditions: Observable specification** - Added detailed explanation of what "external and observable" means. Observable = capable of being perceived by a person through any sense, not that it must be observed by all. Distinguished observable conditions (outward expressions, behaviors, artifacts) from non-observable internal states (private thoughts, unexpressed feelings, internal dialog).
-
-* **Conditions: Boundary cases** - Added examples clarifying internal vs. external: fear (internal) vs. outward signs of fear (observable), internal dialog vs. spoken words, private belief vs. public statement, cognitive framing vs. language in tools.
-
-* **Conditions: Methodological justification** - Explained why ICT focuses on observable conditions: methodologically practical (can be studied) and theoretically principled (patterns emerge from shared environmental features).
-
-* **Norms disambiguation** - Clarified dual usage of "norms": lowercase "norms" refers to observable enacted instances (conditions); capitalized "Norms & Expectations" refers to the collective pattern domain that emerges when instances converge over time.
-
-* **Norms & Expectations: Relationship to conditions** - Added explanation that individual norm enactments are conditions (discrete observable events), while Norms & Expectations domain is the emergent pattern. People observe instances, interpret them, and collective pattern emerges through distributed learning.
-
-**Peer Review Vulnerabilities Addressed:**
-* V1 (Conditions operationalization): What makes something "observable"? Observable to whom?
-* V5 (Conceptual clarity): Why do "norms" appear as both condition and domain?
+**Version 1.3** (January 2026)
+* **CRITICAL: Acknowledged independent discovery** - Added recognition that Haack, Schilke, & Zucker (2021) independently discovered contested equilibrium (which they term "validity-consensus incongruity")
+* **Added: Multi-Level Legitimacy Theory** as imported supporting concept (Haack et al., 2021)
+* **Expanded: Legitimacy measurement operationalization** - Added three-level measurement framework (individual/propriety, collective/consensus, institutional/validity)
+* **Added: Empirical detection methods** for contested equilibrium
+* **Added: Spectrum operationalization** - Specified thresholds for contested/routine/taken-for-granted legitimacy
+* **Citation added:** Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. Journal of Management Studies, 58(3), 749-781.
+* **Addressed: Peer review vulnerabilities** on legitimacy measurement, operationalization gaps, and theoretical tensions
 
 ---
 
-## End of Concept Ledger v1.1
+## End of Concept Ledger v1.3
