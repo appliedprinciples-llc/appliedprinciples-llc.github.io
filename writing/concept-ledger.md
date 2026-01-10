@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.7 | January 2026**
+**Version 1.8 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -1176,6 +1176,230 @@ But power cannot directly create taken-for-grantedness. That requires coordinate
 
 ---
 
+## Empirical Measurement of Structuration
+
+**Purpose**
+ICT adopts a process ontology (structures exist only in continuous enactment) but must provide empirical methods for measuring degree of structuration at any moment.
+
+**Solution: Property Variable + Process Framework**
+
+Following Tolbert & Zucker (1996): "Institutionalization is both a property variable and a process."
+
+Applied to ICT: **Structuration is both a property variable (measurable degree at a moment) and a process (continuous enactment over time).**
+
+This resolves the apparent paradox:
+- **YES:** Structures exist only through continuous enactment (process ontology)
+- **AND:** We can measure degree of structuration empirically (property variable)
+
+**What We Measure**
+
+NOT: "Is this a structure?" (binary)
+BUT: "To what degree has this pattern become structurated?" (continuous variable along multiple dimensions)
+
+**Dimensions of Structuration**
+
+All continuous enactment IS structuring. What varies is CHARACTER:
+
+1. **Coordination Level** (behavioral convergence)
+   - Low: High variance in responses, few people enact similarly
+   - High: Minimal variance, nearly everyone responds the same way
+
+2. **Legitimacy Consensus** (interpretive convergence)
+   - Low: High variance in beliefs (SD > 1.5)
+   - High: Very high consensus (SD < 0.8)
+
+3. **Stability** (resistance to change)
+   - Low: Easily disrupted, doesn't self-restore
+   - High: Resistant to disruption, automatically restores
+
+4. **Taken-for-Grantedness** (cognitive pillar strength)
+   - Low: Requires deliberation, needs explanation
+   - High: Automatic, questioning seems strange
+
+**Framework: Three Stages Plus Contested Equilibrium**
+
+Based on Tolbert & Zucker (1996), all stages involve structuring (continuous enactment). They differ in character:
+
+**Stage 1: Pre-Institutionalization (Habitualization)**
+- Coordination: Low (high behavioral variance)
+- Consensus: Low (contested, SD > 1.5)
+- Stability: Low (easily disrupted)
+- Taken-for-grantedness: Low (requires deliberation)
+
+**Stage 2: Semi-Institutionalization (Objectification)**
+- Coordination: Moderate (standardizing)
+- Consensus: Moderate (SD 0.8-1.5)
+- Stability: Moderate (requires monitoring)
+- Taken-for-grantedness: Moderate (becoming routine)
+
+**Stage 3: Full Institutionalization (Sedimentation)**
+- Coordination: High (minimal variance)
+- Consensus: High (SD < 0.8)
+- Stability: High (self-perpetuating)
+- Taken-for-grantedness: High (automatic, unquestioned)
+
+**Contested Equilibrium (Coordination-Legitimacy Misalignment)**
+- Coordination: High (everyone does it)
+- Consensus: Low (contested, SD > 1.5)
+- Stability: Moderate to high (enforcement-maintained)
+- Taken-for-grantedness: Low (requires justification: "it's required")
+
+**Measurement Methods**
+
+ICT uses measurement methods from institutional theory (same phenomenon, same methods):
+
+**METHOD 1: Legitimacy Surveys (Multi-Level)**
+
+Sources: Haack, Schilke, & Zucker (2021); Tost (2011)
+
+**Individual Level (Propriety):**
+Survey items (1-7 scale):
+- "Attempting [practice] is safe here"
+- "Attempting [practice] is acceptable here"
+- "Attempting [practice] is worthwhile here"
+
+**Calculate consensus:**
+Standard deviation across respondents
+- SD > 1.5 = Contested (low consensus)
+- SD 0.8-1.5 = Moderate consensus
+- SD < 0.8 = High consensus (taken-for-granted)
+
+**Collective Level (Consensus):**
+- Agreement between individual beliefs
+- Variance decomposition (within vs. between groups)
+
+**Institutional Level (Validity):**
+- Leadership endorsement
+- Policy inclusion
+- Widespread adoption
+
+**METHOD 2: Behavioral Variance Analysis**
+
+Observe responses to similar conditions:
+- How many different response types occur?
+- What's the variance in implementation?
+- How predictable is the response?
+
+Track over time:
+- High variance → Low coordination (emerging)
+- Decreasing variance → Increasing coordination (routinizing)
+- Minimal variance → High coordination (taken-for-granted)
+
+Measures:
+- Coefficient of variation in behaviors
+- Inter-rater reliability of "what we do here"
+- Number of distinct response types
+
+**METHOD 3: Effort Tracking (Deliberation → Automatic)**
+
+Measure cognitive/social effort required:
+
+Emerging pattern indicators:
+- Requires explicit deliberation
+- Needs detailed explanation to newcomers
+- Justification frequently demanded
+- Active debate about whether/how
+
+Taken-for-granted indicators:
+- Automatic (no deliberation)
+- No explanation needed ("obviously")
+- Justification seems weird
+- No debate (questioning is strange)
+
+Measures:
+- Time-to-decision
+- Length of explanations to new members
+- Frequency of debates
+
+**METHOD 4: Disruption Resistance Tests**
+
+Introduce disruption and measure:
+- How easily does pattern break?
+- How quickly does it restore?
+- How much resistance to disruption?
+
+Test scenarios:
+- Remove enforcement
+- Introduce contradictory cues
+- Change championing leadership
+- Reduce supporting resources
+
+Emerging: Easy to disrupt, doesn't self-restore
+Taken-for-granted: Very difficult to disrupt, automatic restoration
+
+**METHOD 5: Survival Across Turnover Studies**
+
+Track pattern across member changes:
+
+Emerging pattern:
+- Doesn't survive turnover
+- Dies when champions leave
+
+Taken-for-granted:
+- Survives complete turnover
+- New members absorb automatically
+- Self-perpetuating
+
+**METHOD 6: Domain Cue Consistency Analysis**
+
+ICT-specific contribution: Measure alignment across six domains
+
+For each domain, assess whether cues support the pattern (0-2 scale):
+- Capacity: Resources allocated? Time available?
+- Tools: Systems encode pattern?
+- Data: Metrics measure this?
+- Skills: Training provided?
+- Motivation: Consequences aligned?
+- Norms: Stories reinforce?
+
+Calculate consistency score:
+- Sum / Maximum = % consistency
+- < 50% = Low consistency (emerging/contested)
+- 50-80% = Moderate consistency (routinizing)
+- > 80% = High consistency (likely taken-for-granted)
+
+**Domain consistency predicts:**
+- Low consistency + High coordination = Contested equilibrium (enforcement)
+- High consistency + Low coordination = Emerging consensus (not yet tipped)
+- High consistency + High coordination = Taken-for-granted (aligned)
+
+**Integrated Measurement Strategy**
+
+**Minimum viable (practical research):**
+1. Legitimacy survey (consensus)
+2. Behavioral observation (coordination)
+3. Domain cue assessment (consistency)
+
+**Comprehensive (rigorous research):**
+1. Multi-level legitimacy survey
+2. Behavioral variance analysis over time
+3. Effort tracking (deliberation vs. automatic)
+4. Disruption tests (resistance and restoration)
+5. Survival studies (across turnover)
+6. Domain cue consistency (alignment)
+7. Longitudinal diffusion (if applicable)
+
+**Contested Equilibrium Detection**
+
+Specific pattern of measurements indicating contested equilibrium:
+- HIGH coordination (>80% compliance)
+- LOW consensus (SD > 1.5)
+- MODERATE to HIGH stability (survives but requires enforcement)
+- LOW domain consistency in cultural-cognitive areas
+- HIGH domain consistency in regulative areas
+- Pattern disrupts when enforcement removed
+
+**Sources**
+
+Core measurement framework:
+- Tolbert, P. S., & Zucker, L. G. (1996). The institutionalization of institutional theory.
+- Tolbert, P. S., & Zucker, L. G. (1983). Institutional sources of change in the formal structure of organizations.
+- Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus.
+- Scott, W. R. (2001). Institutions and Organizations.
+- Tost, L. P. (2011). An integrative model of legitimacy judgments.
+
+---
+
 ## Human Systems
 
 **Definition**
@@ -1649,4 +1873,19 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight:** Structure and institution are the same phenomenon at different scales; same mechanisms operate at all levels; ICT adds mechanistic specification, not ontological distinctiveness
 * **Addressed: Scope confusion** - Eliminated false constraint that ICT operates only at organizational level; made explicit that all levels use same structuring mechanisms
 
+**Version 1.8** (January 2026)
+* **MAJOR: Added Empirical Measurement section** - Comprehensive specification of how to measure structuration with process ontology (addresses peer review critique on measurement methods)
+* **Added: Property variable + process framework** - Codified Tolbert & Zucker's solution: structuration is BOTH measurable at a moment (property) AND continuous process (verb)
+* **Added: Dimensions of structuration** - Four measurable dimensions: coordination level, legitimacy consensus, stability, taken-for-grantedness
+* **Added: Three-stage framework specification** - Pre-institutionalization, semi-institutionalization, full institutionalization characteristics with empirical indicators
+* **Added: Contested equilibrium measurement** - Specific pattern of measurements indicating coordination-legitimacy misalignment
+* **Added: Six measurement methods** - (1) Legitimacy surveys (multi-level), (2) Behavioral variance analysis, (3) Effort tracking, (4) Disruption resistance tests, (5) Survival across turnover, (6) Domain cue consistency
+* **Added: Domain cue consistency method** - ICT-specific contribution measuring alignment across six domains
+* **Added: Integrated measurement strategy** - Minimum viable (3 methods) and comprehensive (7 methods) approaches
+* **Added: Contested equilibrium detection criteria** - High coordination + low consensus + enforcement-dependent + regulative-heavy domains
+* **Key insight:** Methods transfer from institutional theory (same phenomenon, same methods); ICT adds domain cue consistency for organizational contexts
+* **Addressed: Peer review vulnerability** on lack of empirical methods consistent with process ontology
+
 ---
+
+## End of Concept Ledger v1.8
