@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.4 | January 2026**
+**Version 1.5 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -354,13 +354,274 @@ The actions people take—or avoid—based on their interpretation of legitimacy
 ## Agency
 
 **Canonical Definition**
-The capacity of people to choose how they respond to conditions, even when options are constrained.
+The individual capacity to choose among available responses within the constraints imposed by structural conditions. Agency is bounded—shaped by past experiences, present structural context, and perceived future possibilities.
 
-**Core Role**
-Agency is the mechanism through which structures are reproduced or changed. Every moment of interpretation and response is an opportunity for reproduction, variation, violation, or coordinated change.
+**Theoretical Positioning**
 
-**Key Clarification**
-Agency does not imply unlimited freedom. It is always exercised within conditions and constraints. Structures are the accumulated outcome of agency exercised under past conditions, now functioning as conditions for the next round of interpretation and response.
+ICT is not a theory OF agency. ICT is a theory that USES agency as a mechanism. Agency explains variation in individual responses to the same environmental conditions.
+
+**Agency Mechanisms (Imported from Bounded Agency Theory)**
+
+ICT uses the bounded agency framework as specified in:
+- Evans, K. (2007). Concepts of bounded agency in education, work, and the personal lives of young adults. *International Journal of Psychology, 42*(2), 85-93.
+- Evans, K. (2017). Bounded agency in professional lives. In M. Goller & S. Paloniemi (Eds.), *Agency at Work: An Agentic Perspective on Professional Learning and Development* (pp. 17-36). Springer.
+
+**Ontological Status: Individual, Not Collective**
+
+- Agency resides with individual people, not groups or organizations
+- Parallel to distributed memory: memory stored in individuals (dispersed), agency exercised by individuals (dispersed)
+- "Organizational agency" is shorthand for aggregated individual exercises of agency
+- Coordination emerges from many individual responses, not from collective will or organizational consciousness
+
+**How Agency Operates**
+
+**1. Agency is Bounded**
+
+"Agency is a socially situated process, shaped by the experiences of the past, the chances present in the current moment and the perceptions of possible futures" (Evans, 2007, p. 89)
+
+Agency operates WITHIN constraints, not against them:
+- Structural conditions define the range of possible responses
+- Agency determines which response within that range
+- Not unlimited freedom—choice among available (constrained) options
+- Constraints shape what feels possible, safe, acceptable, and worthwhile
+
+**2. What Bounds Agency (Structural Constraints)**
+
+Six structural domains impose constraints that narrow the perceived possibility space:
+
+**Capacity Domain:**
+- Lack of time → "I cannot attempt X even if I want to"
+- Lack of authority → "I am not allowed to do X"
+- Lack of resources → "X is not possible with what I have"
+
+**Tools & Processes Domain:**
+- Tools don't support action → "The system will not let me do X"
+- Processes block paths → "There is no way to accomplish X through official channels"
+
+**Data & Feedback Domain:**
+- No visibility into results → "I cannot tell if X would work"
+- Metrics don't measure what matters → "X will not show up in evaluations"
+
+**Skills & Knowledge Domain:**
+- Lack competence → "I do not know how to do X"
+- No training provided → "No one taught me X"
+
+**Motivation & Values Domain:**
+- Consequences deter → "If I do X, I will be punished"
+- No rewards → "X will not be recognized"
+
+**Norms & Expectations Domain:**
+- Social sanction → "If I do X, I will be excluded"
+- Identity constraint → "People like me do not do X"
+
+These constraints operate through:
+- **Direct limitation:** Resource/structural impossibility
+- **Cognitive framing:** Narrowing what comes to mind as possible
+- **Perceived risk:** Consequences make attempts feel too dangerous
+- **Horizon narrowing:** Options don't appear on radar as possibilities
+
+**3. What Enables Agency (What Creates Variation in Responses)**
+
+People exercise agency differently based on their position, resources, and perceptions:
+
+**Perceived Possibilities ("Personal Horizons"):**
+- What they believe is achievable given their position
+- Shaped by past experiences (what they've seen work/fail)
+- Different mental models and interpretations of same cues
+- Access to different information about what's possible
+
+**Available Resources:**
+- Economic resources (financial security, ability to take risks)
+- Social resources (networks, relationships, support systems)
+- Cultural resources (credentials, legitimacy, positional authority)
+- These enable some people to attempt responses others cannot
+
+**Risk Tolerance:**
+- Ability to absorb consequences of deviation
+- Can afford to fail (have safety nets)
+- Less to lose (secure position, or already planning to leave)
+- More to gain (deviation aligns with values/identity)
+
+**Temporal Horizon ("Shadow of the Future"):**
+- Expected duration of relationship with organization
+- Anticipated career trajectory
+- Whether investment will pay off
+- Short horizon → less constrained by long-term consequences
+- Long horizon → more constrained OR more committed
+
+**Identity and Values:**
+- Professional identity ("This is what engineers do")
+- Moral convictions ("This is wrong, I must act")
+- Alignment with personal standards
+- Willingness to accept social costs for values
+
+**Different positions, resources, and perceptions → Different perceived possibility spaces → Different exercises of agency in response to same structural conditions**
+
+**4. Agency as Process**
+
+Agency is not a fixed trait—it is continuously shaped by structural context:
+
+**The Cycle:**
+1. **Past experiences** shape what feels possible and what risks are acceptable
+2. **Current structural conditions** enable or constrain options available now
+3. **Perceived futures** influence assessment of whether action is worthwhile
+4. **Agency exercised** (choice made within available constrained options)
+5. **New experiences** feed back into future perceptions of possibilities
+
+This is a continuous, recursive process. Each exercise of agency creates new experiences that shape future perceptions of what's possible.
+
+**When Agency Produces Different Outcomes**
+
+**The Core Mechanism:**
+
+**Structural conditions constrain the RANGE of possible responses.**
+**Agency determines WHICH response within that range.**
+
+**What Conditions DON'T Determine:**
+- Exactly which response each person chooses
+- How each individual interprets the same cues
+- Which heuristics each person weights most heavily
+- Whether someone tests boundaries or complies fully
+- Who exits, who advocates, who waits
+
+**What Conditions DO Constrain:**
+- What feels possible, safe, acceptable, worthwhile
+- How costly deviation is
+- What consequences follow attempts
+- The outer boundaries of the range of responses
+
+**Example: Same Structural Conditions, Different Individual Responses**
+
+**Situation:** Contradictory domain signals
+- Leadership says "innovate"
+- Innovators who speak up get criticized
+- No time allocated for experiments
+- Metrics measure only efficiency
+
+**Different Individual Responses (all within structural constraints):**
+
+- **Person A:** Complies minimally, focuses on efficiency
+  - High value on security, low risk tolerance
+  - Interprets consequence cues > authority cues
+  
+- **Person B:** Innovates quietly in spare time
+  - High risk tolerance, secure position
+  - Can absorb criticism, values experimentation
+  
+- **Person C:** Advocates loudly for change
+  - Strong moral conviction that innovation is essential
+  - Willing to accept social cost
+  
+- **Person D:** Exits to join different organization
+  - High mobility, resources for alternatives
+  - Temporal horizon shortened
+  
+- **Person E:** Waits and watches
+  - Conserving agency for better moment
+  - Low risk tolerance, wants to see what happens to others
+
+**All responses are within the structurally bounded possibility space** (no one builds a competitor product on company time—that's outside the range). **But individuals vary in which constrained option they choose based on their position, resources, and interpretation.**
+
+This variation is agency operating within constraints.
+
+**How Agency Relates to Structure Change**
+
+**The Process of Change:**
+
+Structures change through aggregated individual agency, not through heroic individuals overcoming all constraints.
+
+**Change Happens When:**
+
+1. **Structural conditions permit some room for variation**
+   - Domain constraints are not maximally tight
+   - Some responses within the range deviate from current pattern
+   - Consequences of deviation are bearable for some
+
+2. **Enough individuals perceive new possibilities**
+   - Interpretation shifts (different cue weighting)
+   - Demonstrators prove feasibility ("If Jamie can do X, maybe I can too")
+   - Mental models update based on observation
+
+3. **Enough individuals exercise agency similarly**
+   - Coordinated variation (not necessarily coordinated consciously)
+   - Many people independently choose similar responses
+   - Aggregated responses create recognizable new pattern
+
+4. **New pattern becomes observable to others**
+   - Others see deviation happening without punishment
+   - Cues shift (what's "normal" changes)
+   - Perceived possibility space expands for others
+
+5. **Distributed memory updates**
+   - New pattern gets encoded as legitimate
+   - "This is how we do things here" shifts
+   - Structure has transformed through aggregated agency
+
+**Change Does NOT Require:**
+- Heroic individuals overcoming all structural constraints
+- Collective organizational will or consciousness
+- Breaking free of structure entirely
+- Unlimited agency or entrepreneurship
+
+**Change DOES Require:**
+- Structural conditions permitting some variation (room within range)
+- Enough individuals perceiving possibilities and attempting responses
+- Aggregated responses creating recognizable new pattern
+- Distributed memory updating to encode new pattern
+
+**Resolving the Determinism Problem**
+
+**The Apparent Paradox:**
+"If conditions shape behavior so powerfully, where is agency? How does change ever happen?"
+
+**The Resolution (Bounded Agency Framework):**
+
+**ICT is neither deterministic nor voluntaristic:**
+
+**NOT Deterministic:**
+- Conditions constrain the range, they don't determine the exact outcome
+- Agency produces variation within constraints
+- Different individuals respond differently to same conditions
+- Change is possible when structural room exists and agency aggregates
+
+**NOT Voluntaristic:**
+- Agency doesn't operate unconstrained
+- Individual heroism alone cannot override tight structural constraints
+- Structure shapes what feels possible, safe, worthwhile
+- Change requires both structural permission and aggregated agency
+
+**ICT Shows How Structure and Agency Operate Together:**
+- Structure constrains the range of responses that feel possible
+- Agency produces variation in responses within that range
+- Aggregated responses reproduce or transform structure
+- Changed structure creates new constraints for future agency
+- **Continuous, recursive process—structure and agency are inseparable**
+
+**Key Properties**
+
+* **Individual:** Agency resides with persons, not collectives or organizations
+* **Bounded:** Constrained by structural conditions from six domains, not unlimited
+* **Processual:** Continuously shaped by past experiences, present context, perceived futures
+* **Varies by position:** Different resources and constraints create different possibility spaces
+* **Produces variation:** Same conditions yield different individual responses
+* **Aggregates to patterns:** Many individual responses create emergent structure
+* **Enables change:** When structural room exists and agency aggregates, patterns transform
+
+**Core Role in ICT**
+
+Agency is the mechanism through which structures are reproduced or changed. Every moment of interpretation and response is an opportunity for:
+- **Reproduction:** Choosing responses that reenact existing pattern
+- **Variation:** Choosing responses that slightly deviate
+- **Violation/Testing:** Choosing responses that break pattern to test consequences
+- **Coordinated change:** Enough people choosing deviation that new pattern emerges
+
+Agency explains WHY patterns are not deterministic and HOW change is possible, while bounded agency explains WHY change is not guaranteed and WHEN it occurs (structural room + aggregated responses).
+
+**Sources**
+
+- Evans, K. (2007). Concepts of bounded agency in education, work, and the personal lives of young adults. *International Journal of Psychology, 42*(2), 85-93.
+- Evans, K. (2017). Bounded agency in professional lives. In M. Goller & S. Paloniemi (Eds.), *Agency at Work: An Agentic Perspective on Professional Learning and Development* (pp. 17-36). Springer.
+- Biesta, G., & Tedder, M. (2007). Agency and learning in the life course: Towards an ecological perspective. *Studies in the Education of Adults, 39*(2), 132-149.
 
 ---
 
@@ -814,6 +1075,63 @@ ICT adopts structuration's process ontology (structure as continuous doing) whil
 
 ---
 
+## Bounded Agency Theory
+
+**Source:** Evans (2007, 2017); Biesta & Tedder (2007)
+
+**Used by ICT**
+
+* Agency as individual, not collective
+* Agency as bounded by structural conditions (not unlimited freedom)
+* Agency as process shaped by past experiences, present context, perceived futures
+* Perceived possibility space ("personal horizons") shaped by structural resources
+* Temporal horizon ("shadow of the future") affecting risk assessment
+* Variation in agency based on position, resources, and interpretation
+
+**What ICT Directly Adopts**
+
+ICT uses Evans' bounded agency framework to specify how agency operates within structural constraints:
+
+**Core principle:** "Agency is a socially situated process, shaped by the experiences of the past, the chances present in the current moment and the perceptions of possible futures" (Evans, 2007)
+
+**Key mechanisms:**
+- **Structural conditions constrain the RANGE** of responses that feel possible/safe/worthwhile
+- **Agency determines WHICH response** within that constrained range
+- **Different positions provide different constraints** and resources → different possibility spaces
+- **Change emerges from aggregated agency** when structural room exists and responses coordinate
+
+**ICT's application to organizational context:**
+- Six domains provide specific structural constraints (what bounds agency)
+- Cue-based interpretation shapes perceived possibilities (what enables variation)
+- Distributed memory encodes which responses are legitimate (structural context for agency)
+- Aggregated individual responses reproduce or transform patterns (agency → structure change)
+
+**What ICT Extends**
+
+1. **Specifies constraint sources:** Six organizational domains that bound agency
+2. **Cue-based possibility perception:** How people learn what's possible through interpretation
+3. **Domain consistency effects:** Contradictory cues create wider variation in agency; aligned cues narrow it
+4. **Aggregation mechanism:** How individual bounded agency aggregates to pattern change
+5. **Legitimacy as mediator:** Agency operates through legitimacy assessment, not just feasibility
+
+**Not Claimed by ICT**
+
+* Life course development across transitions
+* Educational choice and career pathways
+* Identity formation through agency
+* Broader societal structures beyond organizational contexts
+
+**Boundary**
+
+Bounded agency theory explains how individual agency operates within structural constraints across life domains. ICT applies this framework specifically to organizational behavior: structural conditions (from six domains) constrain perceived possibilities, individual agency produces variation within those constraints, and aggregated responses reproduce or transform organizational patterns. ICT specifies the organizational mechanisms (cue-based interpretation, legitimacy assessment, distributed memory) through which bounded agency operates in work settings.
+
+**Citations:**
+- Evans, K. (2007). Concepts of bounded agency in education, work, and the personal lives of young adults. *International Journal of Psychology, 42*(2), 85-93.
+- Evans, K. (2017). Bounded agency in professional lives. In M. Goller & S. Paloniemi (Eds.), *Agency at Work: An Agentic Perspective on Professional Learning and Development* (pp. 17-36). Springer.
+- Biesta, G., & Tedder, M. (2007). Agency and learning in the life course: Towards an ecological perspective. *Studies in the Education of Adults, 39*(2), 132-149.
+
+---
+
 ## Sensemaking
 
 **Source:** Weick (1995)
@@ -1136,6 +1454,20 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Citations added:** Tost (2011), Chaiken (1987), Bitektine (2011), Deephouse et al. (2017)
 * **Addressed: Peer review vulnerability** on interpretation underdevelopment and theoretical thinness
 
+**Version 1.5** (January 2026)
+* **MAJOR: Fully specified Agency mechanisms** - Replaced brief definition with comprehensive bounded agency specification
+* **Added: Bounded Agency Theory** as imported supporting concept (Evans, 2007; 2017; Biesta & Tedder, 2007)
+* **Specified: Ontological status** - Agency is individual, not collective (parallel to distributed memory)
+* **Specified: What bounds agency** - Six domains constrain perceived possibility space through direct limitation, cognitive framing, perceived risk, horizon narrowing
+* **Specified: What enables agency** - Perceived possibilities, available resources, risk tolerance, temporal horizon, identity/values create variation in responses
+* **Specified: Agency as process** - Continuous cycle shaped by past experiences, present context, perceived futures
+* **Specified: When agency produces different outcomes** - Same conditions constrain range; agency determines which response within range
+* **Specified: How agency relates to change** - Aggregated individual agency transforms structure when structural room exists
+* **Resolved: Determinism problem** - ICT is neither deterministic (agency produces variation) nor voluntaristic (agency is bounded); structure and agency operate together
+* **Clarified: ICT is not a theory OF agency** - ICT uses bounded agency framework from existing research
+* **Citations added:** Evans (2007, 2017), Biesta & Tedder (2007)
+* **Addressed: Peer review vulnerabilities** on theoretical tension, scope ambiguity, determinism problem
+
 ---
 
-## End of Concept Ledger v1.4
+## End of Concept Ledger v1.5
