@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.6 | January 2026**
+**Version 1.7 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -630,6 +630,67 @@ Agency explains WHY patterns are not deterministic and HOW change is possible, w
 **Canonical Definition**
 Patterns continuously recreated through coordinated action. Structures exist only in ongoing enactment and dissolve when reproduction stops.
 
+**CRITICAL CLARIFICATION: Structure = Institution**
+
+"Structure" (ICT) and "Institution" (Institutional Theory) refer to the **same phenomenon**: patterns maintained through legitimacy-based continuous enactment.
+
+**Why different terms:**
+- Different scholarly traditions (sociology/macro-organizational vs. applied organizational behavior)
+- Different emphasis (IT: stability, resilience; ICT: process, continuous enactment)
+- Same mechanisms, different vocabulary
+
+**ICT's relationship to Institutional Theory:**
+- **NOT:** A different ontological entity or competing framework
+- **BUT:** Mechanistic specification and operational elaboration of institutional theory
+- **Analogy:** Institutional Theory : ICT :: Newtonian Physics : Engineering Mechanics
+
+**What ICT contributes:**
+1. **Distributed Memory** - HOW taken-for-granted forms (dispersed across individuals, no central storage)
+2. **Six Domains** - WHERE cues come from (specific organizational conditions)
+3. **Cue-Based Interpretation** - HOW legitimacy is learned (observation → heuristics → judgment)
+4. **Contested Equilibrium** - HOW coordination without legitimacy forms and persists (domain misalignment)
+5. **Bounded Agency** - HOW agency operates within structural constraints
+6. **Process Emphasis** - Structuring (verb) over structure (noun), no endpoint
+
+**Measurement methods transfer directly from Institutional Theory:**
+- Tolbert & Zucker's (1996) three-stage framework
+- Scott's (2001) three pillars (regulative, normative, cultural-cognitive)
+- Haack, Schilke, & Zucker's (2021) multi-level legitimacy measurement
+
+**CRITICAL CLARIFICATION: Multi-Level Structuring**
+
+**Structuring happens at ALL levels simultaneously:**
+- Individual interactions (micro)
+- Family patterns
+- Team patterns
+- Organizational patterns
+- Industry/field patterns
+- Professional patterns
+- Political patterns
+- Cultural/societal patterns
+
+**There is NO scope restriction.** The same mechanisms (cues, interpretation, legitimacy, distributed memory, continuous enactment) operate at every level.
+
+**Individuals exist within LAYERED, OVERLAPPING structures (palimpsest):**
+
+A person simultaneously participates in:
+- Family structure ("how we do dinner")
+- Work team structure ("how we do stand-ups")
+- Organizational structure ("how we do performance reviews")
+- Professional structure ("how engineers work")
+- Industry structure ("how tech companies operate")
+- Cultural structure ("how Americans greet")
+- Political structure ("how we vote")
+
+**All operating at once. All using the same structuring mechanisms. All continuously enacted.**
+
+**Example: Marriage works at multiple levels:**
+- **Societal level:** "Marriage" as institution (laws, norms, cultural expectations)
+- **Relationship level:** "Our marriage" as structure (how THIS couple enacts the pattern)
+- **Individual level:** "Being married" as identity/role (how I enact spouse behavior)
+
+**Same phenomenon (continuous enactment through legitimacy), different scales.**
+
 **CRITICAL CLARIFICATION: Structure (Noun) vs. Structuring (Verb)**
 
 **Structure as noun** is a communication convenience. What actually happens is **structuring** (verb)—the continuous process of enactment.
@@ -686,6 +747,20 @@ Contested equilibrium describes a structure with a particular character:
 
 **The structure exists. It just contains the contestation as part of what's being enacted.**
 
+**Scott's Three Pillars Mapped to ICT**
+
+Institutional Theory (Scott, 1995, 2001) identifies three pillars of institutions. ICT uses the same framework distributed across the six domains:
+
+| Scott's Pillar | ICT Mapping | Measurement |
+|----------------|-------------|-------------|
+| **Regulative** | Capacity (authority), Motivation (consequences) | Enforcement mechanisms, sanctions |
+| **Normative** | Norms & Expectations, Motivation (values) | Social obligations, moral duty |
+| **Cultural-Cognitive** | Distributed Memory | Taken-for-granted, legitimacy consensus (SD < 0.8) |
+
+**Structures vary in which pillar dominates:**
+- **Contested equilibrium:** Regulative/normative dominant, cultural-cognitive weak
+- **Taken-for-granted:** Cultural-cognitive dominant, minimal enforcement needed
+
 **Key Clarifications**
 
 * Structures are not charts, policies, org designs, or stored entities
@@ -694,6 +769,9 @@ Contested equilibrium describes a structure with a particular character:
 * When people stop enacting a pattern, the structure dissolves
 * **Structures vary in character (coordination level, legitimacy consensus, stability), not in whether they exist**
 * **Contested equilibrium is a TYPE of structure, not the absence of structure**
+* **Structure (ICT) = Institution (IT): same phenomenon, different vocabulary and emphasis**
+* **Structuring operates at ALL levels simultaneously: no scope restriction**
+* **Individuals exist within layered, overlapping structures (palimpsest)**
 
 ---
 
@@ -1559,5 +1637,16 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight:** The structure exists. It just contains the contestation as part of what's being enacted. Performance reviews ARE a structure—one with high coordination but low legitimacy consensus.
 * **Addressed: Fundamental misconception** that would undermine theory's explanatory power by excluding contested equilibrium from being structural
 
----
+**Version 1.7** (January 2026)
+* **CRITICAL CLARIFICATION: Structure = Institution** - Codified that "structure" (ICT) and "institution" (IT) refer to the same phenomenon: patterns maintained through legitimacy-based continuous enactment
+* **CRITICAL CLARIFICATION: Multi-level structuring** - Explicitly stated that structuring happens at ALL levels simultaneously (individual, family, team, org, field, society); NO scope restriction
+* **Added: Relationship to Institutional Theory** - ICT is mechanistic specification and operational elaboration of IT, not different ontological entity (analogy: IT:ICT :: Newtonian Physics:Engineering Mechanics)
+* **Added: ICT's contributions** - Distributed memory (HOW), six domains (WHERE), cue-based interpretation (MECHANISM), contested equilibrium (FORMATION), bounded agency, process emphasis
+* **Added: Measurement framework transfer** - Explicit statement that methods transfer directly from IT (Tolbert & Zucker 1996, Scott 2001, Haack et al. 2021)
+* **Added: Palimpsest concept** - Individuals exist within layered, overlapping structures operating simultaneously (family, team, org, professional, cultural, political)
+* **Added: Scott's three pillars mapping** - Table showing regulative→Capacity/Motivation, normative→Norms/Motivation, cultural-cognitive→Distributed Memory
+* **Clarified: Why different terms** - Different scholarly traditions, different emphasis (stability vs. process), same mechanisms
+* **Key insight:** Structure and institution are the same phenomenon at different scales; same mechanisms operate at all levels; ICT adds mechanistic specification, not ontological distinctiveness
+* **Addressed: Scope confusion** - Eliminated false constraint that ICT operates only at organizational level; made explicit that all levels use same structuring mechanisms
 
+---
