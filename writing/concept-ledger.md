@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.9 | January 2026**
+**Version 2.0 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -1513,6 +1513,416 @@ Specific pattern of measurements indicating contested equilibrium:
 - HIGH domain consistency in regulative areas
 - Pattern disrupts when enforcement removed
 
+### Addressing Social Desirability Bias
+
+**The Challenge**
+
+Legitimacy surveys face a significant methodological challenge: social desirability bias. People may report beliefs they think are expected or acceptable rather than their actual judgments, particularly when:
+- Leadership actively promotes the practice
+- There's social pressure to appear supportive
+- Dissent seems risky or career-limiting
+- Organizational culture punishes questioning
+
+**Example:** Everyone publicly says "performance reviews help develop people" while privately believing "they're compliance theater." Surveys show false consensus, masking contested equilibrium.
+
+**Mitigation Strategies**
+
+**STRATEGY 1: Triangulation (Primary Defense)**
+
+Never rely on self-report surveys alone. Require convergence across multiple methods:
+
+**If contested equilibrium exists, we should see:**
+- Behavioral indicators (effort minimization, workarounds)
+- AND survey indicators (low consensus OR high variance)
+- AND domain indicators (regulative strong, cultural-cognitive weak)
+- AND disruption indicators (pattern collapses without enforcement)
+
+**If these converge → high confidence**
+**If they diverge → investigate why (possible social desirability bias)**
+
+**STRATEGY 2: Anonymous/Confidential Administration**
+
+Reduce pressure to give "correct" answers:
+- Third-party administration (not leadership)
+- Aggregate reporting only (no individual identification)
+- Explicit confidentiality assurances
+- Separate from performance evaluation processes
+
+**STRATEGY 3: Indirect Measurement**
+
+Ask about collective belief rather than personal belief:
+
+**Instead of:** "Do you believe performance reviews are worthwhile?" (direct, subject to bias)
+**Ask:** "Do most people here believe performance reviews are worthwhile?" (indirect, more honest)
+
+Research shows people are more honest about "what others think" than about their own views when social pressure exists. Aggregate responses reveal collective belief patterns while reducing individual pressure to conform.
+
+**STRATEGY 4: Behavioral Proxies (Most Robust)**
+
+Prioritize observable behaviors that indicate legitimacy without requiring self-reports. See next section for specific indicators.
+
+**STRATEGY 5: Safe Space Inquiry**
+
+Create conditions where honest responses are more likely:
+- Exit interviews (departing members less constrained)
+- One-on-one confidential conversations
+- Off-site/informal settings
+- Questions framed as helping understand, not judging
+
+**STRATEGY 6: Variance as Signal**
+
+High variance itself can indicate contested legitimacy even if means appear moderate:
+- Bimodal distributions (some strongly agree, others strongly disagree)
+- Large standard deviations (SD > 1.5)
+- Different responses in different subgroups
+
+**Even if social desirability pulls responses toward "acceptable" range, variance reveals disagreement.**
+
+**Recommended Approach**
+
+**Behavioral indicators as PRIMARY evidence** (least subject to bias)
+**Surveys as SECONDARY/TRIANGULATION** (with bias mitigation)
+
+If behavioral indicators suggest contested equilibrium but surveys show consensus:
+→ Suspect social desirability bias
+→ Use indirect measurement and safe space inquiry
+→ Examine variance and subgroup differences
+→ Run disruption tests
+
+### Observable Behavioral Indicators of Contested vs. Taken-for-Granted Legitimacy
+
+**The Value of Behavioral Indicators**
+
+Observable behaviors provide evidence of legitimacy that doesn't rely on self-reports and thus avoids social desirability bias. These indicators can be systematically observed, coded, and measured.
+
+**CONTESTED EQUILIBRIUM - Observable Behavioral Indicators**
+
+When coordination is high but legitimacy is contested, look for:
+
+**1. Minimal Compliance**
+- People do just enough to satisfy requirements
+- "Checkbox" completion without substance
+- No voluntary effort beyond minimum
+- High completion rates but low quality/engagement
+
+**Observable:** Completion metrics vs. quality metrics diverge
+
+**2. Workarounds and Creative Avoidance**
+- People find ways to technically comply while avoiding substance
+- "Gaming" the system
+- Clever ways to minimize effort while appearing compliant
+- Parallel informal systems that actually do the work
+
+**Observable:** Gap between formal process and actual practice
+
+**3. Rapid Abandonment When Enforcement Weakens**
+- Participation drops sharply if monitoring decreases
+- Pattern doesn't self-sustain
+- People stop immediately when "no one is watching"
+- Requires continuous active enforcement
+
+**Observable:** Participation rate tracks enforcement intensity
+
+**4. No Voluntary Defense**
+- When practice is criticized, no one defends it
+- People remain silent or nod in agreement with criticism
+- No champions emerge naturally
+- Absence of advocacy or protection
+
+**Observable:** Response patterns when practice is questioned
+
+**5. "Required" Explanations**
+- When explaining to newcomers: "You have to do this"
+- Not: "This helps us because..."
+- Emphasis on compliance, not value
+- Justification based on rules/consequences, not benefits
+
+**Observable:** Language patterns in explanations (code for "required" vs. "worthwhile" framing)
+
+**6. Repeated Newcomer Questions**
+- New members repeatedly ask "Why do we do this?"
+- The question never stops being asked
+- Each cohort questions it anew
+- Never becomes self-evident
+
+**Observable:** Frequency and persistence of "why" questions over time
+
+**7. Private vs. Public Narrative Divergence**
+- Different stories in formal vs. informal settings
+- Public compliance, private cynicism
+- What's said in meetings ≠ what's said in hallway
+- Safe spaces reveal different narrative
+
+**Observable:** Compare public statements to private conversations (where accessible)
+
+**8. Mockery and Cynicism**
+- Jokes about the practice
+- Eye-rolls when it's mentioned
+- Sarcasm in discussions
+- Cultural markers of disbelief (inside jokes, knowing looks)
+
+**Observable:** Tone, humor patterns, non-verbal cues in meetings
+
+**9. High Variance in Implementation Quality**
+- Everyone complies (high coordination)
+- But implementation varies wildly (low standardization)
+- Some go through motions, others do it substantively
+- Completion ≠ quality
+
+**Observable:** Coefficient of variation in quality metrics vs. completion metrics
+
+**10. Differential Adoption Across Subgroups**
+- Some groups/teams comply fully
+- Others resist or minimize
+- Pattern: those closer to enforcement comply, those farther resist
+- Spatial/hierarchical variance in adoption
+
+**Observable:** Adoption rates across organizational units
+
+**TAKEN-FOR-GRANTED - Observable Behavioral Indicators**
+
+When coordination AND legitimacy are high, look for:
+
+**1. Voluntary Adoption Beyond Minimum**
+- People do more than required
+- Extensions and innovations
+- Voluntary refinements
+- Goes beyond compliance to contribution
+
+**Observable:** Effort/quality exceeds requirements
+
+**2. Pattern Continues Without Enforcement**
+- Participation doesn't drop when monitoring decreases
+- Self-sustaining
+- Automatic continuation
+- No active enforcement needed
+
+**Observable:** Stability across varying enforcement conditions
+
+**3. Active Defense When Questioned**
+- People defend practice when criticized
+- Champions emerge naturally
+- Arguments for value provided spontaneously
+- Resistance to removal
+
+**Observable:** Response patterns when practice is threatened
+
+**4. "Value" Explanations**
+- When explaining to newcomers: "This helps us by..."
+- Emphasis on benefits and purpose
+- Justification based on outcomes, not rules
+- Natural articulation of value
+
+**Observable:** Language patterns in explanations (code for value framing)
+
+**5. Newcomers Stop Questioning**
+- Initial "why do we do this?" questions decline
+- Becomes self-evident through participation
+- Each cohort accepts it quickly
+- Questioning seems naive after socialization
+
+**Observable:** Decline in "why" questions over tenure
+
+**6. Public-Private Narrative Alignment**
+- Same story in all settings
+- Consistent articulation of value
+- No cynicism in informal spaces
+- Coherent narrative across contexts
+
+**Observable:** Narrative consistency across settings
+
+**7. Genuine Enthusiasm**
+- Positive affect when discussing
+- Pride in doing it well
+- Voluntary sharing of best practices
+- Cultural markers of belief (celebration, recognition)
+
+**Observable:** Tone, affect, voluntary engagement
+
+**8. Low Variance in Implementation Quality**
+- Not just high completion (coordination)
+- But also standardized quality (shared understanding)
+- Convergent implementation
+- Mutual intelligibility
+
+**Observable:** Low coefficient of variation in both completion AND quality
+
+**9. Automatic Restoration After Disruption**
+- If disrupted, pattern quickly restores
+- People actively recreate it
+- Self-healing system
+- Strong pull back to pattern
+
+**Observable:** Restoration speed after temporary disruption
+
+**10. Uniform Adoption Across Subgroups**
+- Consistent adoption across units
+- No spatial/hierarchical variance
+- Transcends boundaries
+- Universal enactment
+
+**Observable:** Low variance across organizational units
+
+**Systematic Observation Methods**
+
+**Ethnographic Observation:**
+- Attend meetings, note language patterns
+- Observe informal interactions
+- Record jokes, cynicism, enthusiasm
+- Document explanations to newcomers
+
+**Archival Analysis:**
+- Email/Slack patterns (where legally/ethically accessible)
+- Meeting notes and agendas
+- Training materials and explanations
+- Completion vs. quality metrics
+
+**Interview Coding:**
+- Code for "required" vs. "worthwhile" framing
+- Track frequency of "why" questions
+- Note presence/absence of defense
+- Compare public and private narratives
+
+**Metrics Analysis:**
+- Participation rates over time
+- Quality variance across units
+- Correlation with enforcement intensity
+- Restoration speed after disruption
+
+**Coding Scheme Example:**
+
+For each instance of practice discussion:
+- Context: Public meeting / Private conversation / Explanation to newcomer
+- Framing: Required (0) / Mixed (1) / Worthwhile (2)
+- Affect: Cynical (0) / Neutral (1) / Enthusiastic (2)
+- Defense: None (0) / Weak (1) / Active (2)
+- Quality: Minimal (0) / Adequate (1) / Excellent (2)
+
+Aggregate scores reveal patterns without relying on direct legitimacy questions.
+
+### Measurement Thresholds: Current Heuristics and Future Empirical Work
+
+**Current Status**
+
+The measurement thresholds specified in ICT (80% for coordination, SD thresholds for legitimacy consensus) are **heuristic operational definitions** based on theoretical reasoning and initial application experience. They provide practical guidance for empirical work but **require systematic empirical validation** across contexts.
+
+**Coordination Threshold (Currently: 80%)**
+
+**Theoretical Basis:**
+Coordination stabilizes when a critical mass of actors participate, making opt-out costly due to:
+- Network effects (value increases with adoption)
+- Tool/process dependencies (required to get work done)
+- Social pressure (deviance becomes notable)
+- Switching costs (alternative approaches become expensive)
+
+**Current Heuristic:** 80%+ participation indicates coordination has tipped
+
+**Rationale:** 
+- At 80%, pattern is dominant enough that opting out creates friction
+- Minority who don't participate face coordination costs
+- Tools and dependencies assume majority adoption
+- Social norm establishes (5:1 ratio of participants to non-participants)
+
+**Context Sensitivity:**
+
+The coordination threshold likely varies based on:
+
+**Network Density:**
+- High interdependence → Lower threshold (50-60% may suffice)
+- Low interdependence → Higher threshold (90%+ may be needed)
+
+**Enforcement Strength:**
+- Strong enforcement → Pattern persists at lower voluntary adoption
+- Weak enforcement → Higher threshold needed for self-sustaining coordination
+
+**Switching Costs:**
+- High costs (locked-in tools, dependencies) → Lower threshold
+- Low costs (easy alternatives) → Higher threshold
+
+**Task Criticality:**
+- Critical path work → Lower threshold (can't work without it)
+- Peripheral work → Higher threshold
+
+**Future Empirical Work Needed:**
+1. Systematic measurement of when coordination becomes self-sustaining across contexts
+2. Identification of context factors that shift threshold
+3. Development of context-specific threshold guidance
+4. Longitudinal studies tracking coordination emergence
+
+**Legitimacy Consensus Thresholds (Currently: SD > 1.5 = contested, SD < 0.8 = convergent)**
+
+**Theoretical Basis:**
+Standard deviation on a 7-point scale indicates spread of beliefs:
+- SD > 1.5 suggests responses spanning 3+ scale points (fundamental disagreement)
+- SD < 0.8 suggests responses clustered within 2 scale points (strong agreement)
+- SD 0.8-1.5 suggests moderate consensus
+
+**Current Heuristic:**
+- SD < 0.8 = Convergent (taken-for-granted)
+- SD 0.8-1.5 = Moderate consensus (routine)
+- SD > 1.5 = Contested (low consensus)
+
+**Rationale:**
+- At SD > 1.5 on 7-point scale, some respondents strongly agree (6-7) while others disagree (3-4 or lower)
+- This represents genuinely contested beliefs, not just minor variation
+- At SD < 0.8, nearly everyone responds within narrow range (e.g., all 5-6)
+- This represents taken-for-granted consensus
+
+**Additional Consideration: Bimodal Distributions**
+
+Beyond SD, distribution shape matters:
+- Bimodal (two peaks) = contested even if mean appears moderate
+- Unimodal (single peak) = consensus around that level
+
+**Future Empirical Work Needed:**
+1. Validation of SD thresholds against behavioral outcomes
+2. Investigation of distribution shapes (bimodal vs. unimodal)
+3. Cultural and contextual factors affecting thresholds
+4. Relationship between legitimacy consensus and coordination stability
+5. Longitudinal tracking of how SD changes as patterns institutionalize
+
+**Multi-Dimensional Consensus**
+
+Remember that legitimacy has three dimensions (Tost, 2011):
+- Safe
+- Acceptable  
+- Worthwhile
+
+Pattern may show consensus on one dimension but not others:
+- High consensus on "safe" (SD < 0.8)
+- Low consensus on "worthwhile" (SD > 1.5)
+
+**This is contested equilibrium:** Agreement it's required/safe, disagreement about value.
+
+**Guidance for Researchers**
+
+**Until systematic empirical validation:**
+
+1. **Use current thresholds as starting points** (80% coordination, SD thresholds)
+2. **Document context factors** that may affect thresholds in your setting
+3. **Report actual values** (don't just categorize as "high/low")
+4. **Triangulate** with behavioral indicators (don't rely solely on thresholds)
+5. **Examine distributions** (not just means and SDs)
+6. **Be transparent** about threshold decisions and rationale
+
+**When thresholds seem inappropriate for your context:**
+- Justify alternative thresholds theoretically
+- Document context factors that warrant adjustment
+- Report both standard and adjusted thresholds
+- Contribute to empirical literature on threshold variation
+
+**Long-term Goal**
+
+Develop empirically validated, context-specific threshold guidance through:
+- Systematic studies across organizational types
+- Meta-analysis of threshold effects
+- Machine learning approaches to threshold optimization
+- Practitioner validation of what "tipped" feels like
+- Longitudinal tracking of threshold crossing
+
+**Current status:** Operational heuristics based on theoretical reasoning
+**Future status:** Empirically validated guidelines with context-specific adjustment factors
+
 **Sources**
 
 Core measurement framework:
@@ -2023,6 +2433,19 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight:** The analytical distinction enables explaining contested equilibrium (high behavioral coordination, low legitimacy consensus) while clarifying they're not two things that happen to co-occur
 * **Addressed: Peer review vulnerability** on apparent conceptual redundancy between structure and distributed memory
 
+**Version 2.0** (January 2026)
+* **MAJOR: Added three subsections addressing coordination-legitimacy measurement critique**
+* **Added: "Addressing Social Desirability Bias" subsection** - Six mitigation strategies: triangulation (primary), anonymous surveys, indirect measurement, behavioral proxies, safe space inquiry, variance as signal
+* **Added: "Observable Behavioral Indicators" subsection** - 10 contested equilibrium behaviors and 10 taken-for-granted behaviors with systematic observation methods and coding schemes
+* **Added: "Measurement Thresholds" subsection** - Acknowledged current thresholds (80% coordination, SD values) as heuristics requiring empirical validation; specified context factors affecting thresholds; provided guidance for researchers
+* **Key shift: Behavioral indicators as PRIMARY, surveys as SECONDARY/TRIANGULATION** - Addresses critique that self-reports are unreliable due to social desirability bias
+* **Contested equilibrium behavioral indicators:** Minimal compliance, workarounds, rapid abandonment when enforcement weakens, no voluntary defense, "required" explanations, repeated newcomer questions, private-public divergence, mockery/cynicism, high variance in quality, differential adoption
+* **Taken-for-granted behavioral indicators:** Voluntary adoption beyond minimum, continues without enforcement, active defense, "value" explanations, newcomers stop questioning, public-private alignment, genuine enthusiasm, low variance in quality, automatic restoration, uniform adoption
+* **Threshold guidance:** 80% coordination and SD thresholds are operational heuristics based on theoretical reasoning; require systematic empirical validation; vary based on network density, enforcement strength, switching costs, task criticality
+* **Transparency about empirical work needed:** Long-term goal is empirically validated, context-specific thresholds through systematic studies, meta-analysis, longitudinal tracking
+* **Key insight:** Observable behaviors provide robust evidence of contested vs. taken-for-granted legitimacy without relying on self-reports, making measurement more defensible against social desirability bias concerns
+* **Addressed: Peer review vulnerability** on empirical challenges distinguishing coordination from legitimacy, social desirability bias in self-reports, and threshold ambiguity
+
 ---
 
-## End of Concept Ledger v1.9## End of Concept Ledger v1.8
+## End of Concept Ledger v2.0
