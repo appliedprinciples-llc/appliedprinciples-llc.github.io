@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 2.3 | January 2026**
+**Version 2.5 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -91,6 +91,35 @@ Institutional theory explains how organizational forms and practices diffuse acr
 
 **Canonical Definition**
 External, observable features of the environment that people encounter and interpret when deciding how to act. Conditions shape meaning often implicitly and sometimes prior to explicit deliberation. Conditions function recursively as both input and output.
+
+**"External" Clarified: Publicly Available, Not Separable**
+
+**What "external and observable" means:**
+
+'External' means **PUBLICLY AVAILABLE IN INTERACTION**, not separable from practice or independent of enactment.
+
+**Conditions are 'external' in the sense that:**
+- They can be observed by multiple people (shared interaction space)
+- They exist in publicly available form (not private thoughts)
+- They are available for interpretation by participants
+- They can be pointed to, discussed, questioned
+
+**Conditions are NOT 'external' in the sense that:**
+- They exist independent of practice (they don't - continuous co-constitution)
+- They are separable from enactment (they're not - sociomateriality)
+- They pre-exist interpretation (they don't - recursive loop)
+- They are objective features independent of social construction
+
+**'External and observable' is:**
+- A methodological stance (what can be studied empirically)
+- An analytical distinction (for causal mapping)
+
+**'External and observable' is NOT:**
+- Ontological dualism (practice vs. structure as separate entities)
+- Claim that conditions exist independently of human practice
+- Rejection of sociomateriality or social construction
+
+**Example:** A Jira board is "external" (publicly visible, multiple people see it) but NOT separable from practice (exists only through use, shapes and is shaped by work). The analytical distinction enables diagnosis without implying the board exists independently of how people use it.
 
 **Key Properties**
 
@@ -301,13 +330,34 @@ Measured as taken-for-granted status through authorization (leadership endorseme
 
 **Detecting Contested Equilibrium:**
 
-Contested equilibrium is detected when:
-- Behavioral compliance is high (practice is routinely enacted)
-- Validity is high (leaders endorse, policies include, peers appear to adopt)
-- Consensus is low (high variance in individual legitimacy beliefs)
-- Individual legitimacy is low (people privately believe practice is not safe/acceptable/worthwhile)
+Contested equilibrium is detected through **legitimacy dimension profiling**:
 
-This measurement approach enables empirical distinction between coordination stability and legitimacy convergence.
+**Required Pattern:**
+- **High coordination:** Practice is routinely enacted (>80% behavioral compliance)
+- **High validity:** Leaders endorse, policies codify, widespread apparent adoption
+- **Legitimacy consensus profile shows contestation:** One or more dimensions (typically "worthwhile") shows high variance (SD > 1.5) while others may show consensus
+
+**Typical contested equilibrium profile:**
+- **Safe dimension:** Consensus (SD < 0.8) - "It's safe to comply"
+- **Acceptable dimension:** Routine to consensus (SD 0.8-1.2) - "It's socially expected"
+- **Worthwhile dimension:** Contested (SD > 1.5) - "But is it actually valuable?" ← Contestation
+
+**Critical distinction:** Contested equilibrium is defined by **variance patterns** (disagreement on one+ dimensions), NOT by low mean scores. People may comply because safe/acceptable dimensions show consensus, even when worthwhile is contested.
+
+**Alternative profile (less common):**
+- **Safe:** Contested (high variance - some feel safe, others don't)
+- **Acceptable:** Consensus (compliance is socially expected)
+- **Worthwhile:** Routine (moderate agreement on value)
+
+Result: Pattern may be less stable due to safety concerns
+
+**Detection requires:**
+1. Measure each legitimacy dimension separately (three survey items)
+2. Calculate SD for each dimension independently
+3. Identify which dimension(s) show contestation
+4. Combine with high coordination + high validity indicators
+
+This measurement approach enables empirical distinction between coordination stability and legitimacy convergence through dimension profiling.
 
 **Citation:**
 Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
@@ -392,6 +442,33 @@ ICT uses **cue-based heuristic processing** as specified in:
 **Macro Validity as Meta-Cue:**
 
 Macro validity—the institutionalized perception that a practice is appropriate at organizational or field level (Haack et al., 2021)—can function as a powerful meta-cue that shapes how other heuristics are weighted.
+
+**Recursive Relationship Between Macro Validity and Micro Judgments:**
+
+Macro validity operates recursively in ICT's causal loop, functioning as both output and input:
+
+**As OUTPUT (bottom-up aggregation):**
+1. Local domain cues → individual legitimacy judgments → coordinated responses
+2. Sustained coordination → distributed memory formation → collective pattern stabilizes
+3. Collective pattern becomes institutionalized → macro validity emerges
+4. "Everyone knows we do X here" becomes established social fact
+
+**As INPUT (top-down influence):**
+1. Once macro validity is established, it functions as meta-cue
+2. Shapes heuristic weighting in future interpretations
+3. Authority/consensus heuristics weighted more heavily ("this is how things are done")
+4. Can override local domain inconsistencies
+5. Influences new legitimacy judgments
+
+**The recursive loop:**
+- Micro judgments aggregate → macro validity emerges → validity shapes future micro judgments → reinforces pattern → strengthens validity (self-reinforcing)
+- Breaking this loop requires disrupting BOTH micro cues (domain level) AND macro validity (institutional level)
+
+**This reconciles bottom-up and top-down processes:**
+- ICT's primary mechanism is bottom-up (cues → aggregation)
+- But once patterns institutionalize, top-down effects emerge (validity → micro)
+- Both operate simultaneously in mature structures
+- Emergent properties (validity) become causal forces (meta-cues)
 
 **How validity operates as a cue:**
 
@@ -513,6 +590,23 @@ ICT addresses **action legitimacy**: whether specific practices or behaviors are
 ICT explains **action legitimacy** learned through domain cues, treating authority legitimacy as one cue source among six domains (particularly through Capacity domain: how authority is exercised, and Motivation domain: whose interests are served).
 
 When Tyler's work shows people comply with fair authorities, ICT explains this as: fairness cues → "safe to comply" + "acceptable to follow" legitimacy judgments → compliance responses.
+
+**Action legitimacy can diverge from authority legitimacy:**
+
+Even when:
+- Authorities are perceived as fair and legitimate (high procedural justice)
+- Processes are transparent and equitable
+- Leadership is trusted
+
+**Action legitimacy may still be contested:**
+
+**Example - "Fairly imposed but still pointless":**
+- Performance review process is procedurally fair (transparent criteria, consistent application, voice allowed)
+- Leadership is trusted (high authority legitimacy)
+- **BUT** employees believe "reviews don't actually improve performance" (action legitimacy contested on "worthwhile" dimension)
+- **Result:** Compliance occurs (due to fair authority) BUT contested equilibrium forms (worthwhile dimension contested)
+
+This demonstrates why ICT focuses on action legitimacy: authority legitimacy alone doesn't predict whether practices will become taken-for-granted vs. remain contested equilibria.
 
 **Source:**
 Tyler, T. R. (1990). *Why people obey the law.* Yale University Press.
@@ -998,6 +1092,10 @@ Patterns continuously recreated through coordinated action. Structures exist onl
 
 ICT does not claim to discover a new phenomenon. Institutions exist; institutional theory has established this thoroughly.
 
+**ICT is not merely operationalization of institutional theory.** While institutional theory provides the phenomenon class (institutions/legitimacy), ICT provides a testable within-organization causal mechanism that generates novel predictions.
+
+**The critical difference:** Institutional theory explains why institutions persist (legitimacy); ICT explains why coordination can persist WITHOUT legitimacy (contested equilibrium through Type 2 habits + enforcement + dependencies). This is not better measurement of the same thing—it's prediction of a distinct organizational state institutional theory does not theorize.
+
 **ICT claims new EXPLANATORY LEVERAGE** by binding together:
 - **Cue sources** (six specific domains with three mechanisms each) +
 - **Cognitive processing** (heuristics, legitimacy dimensions) +
@@ -1006,18 +1104,21 @@ ICT does not claim to discover a new phenomenon. Institutions exist; institution
 
 ...into one **explicit, testable, micro-to-meso causal loop**.
 
-**What this enables:**
+**What this enables (beyond measurement translation):**
 
-1. **Mechanism specification:** Not just "legitimacy matters" but HOW legitimacy is learned from WHICH cues
-2. **Prediction of decoupling:** WHEN coordination and legitimacy separate (domain misalignment → contested equilibrium)
-3. **Within-organization diagnosis:** WHERE to intervene (domain-level analysis) to shift patterns
-4. **Practitioner operationalization:** WHAT to observe and measure to understand pattern persistence
+1. **Mechanistic prediction:** Not just "legitimacy matters" but testable predictions about WHEN coordination will stabilize without legitimacy consensus (domain misalignment)
+
+2. **Contested equilibrium prediction:** WHY patterns persist despite contested legitimacy (Type 2 habits + enforcement + dependencies) - a prediction institutional theory doesn't make
+
+3. **Intervention specificity:** WHERE to intervene at domain level to shift legitimacy patterns - operational guidance institutional theory doesn't provide
+
+4. **Decoupling timing:** WHEN coordination and legitimacy separate vs. converge based on measurable domain cue consistency
 
 **Relationship to institutional theory:**
-- **Institutional theory explains:** WHAT persists (institutions) and WHY (legitimacy)
-- **ICT explains:** HOW legitimacy is learned, WHERE cues come from, WHEN decoupling occurs, at organizational level
+- **Institutional theory provides:** The phenomenon (institutions persist through legitimacy)
+- **ICT provides:** Within-organization causal mechanism with testable predictions about when/why/how
 
-**Not a competing theory—a mechanistic specification** for organizational contexts.
+**Not a competing theory—a mechanistic specification that generates predictions institutional theory doesn't.**
 
 **ICT Adapts Institutional Measurement Logics to Within-Organization Observation:**
 
@@ -1570,47 +1671,79 @@ Analytically distinct categories of environmental and social cues through which 
 
 **Domain Categorization by Degree of Direct Control**
 
-The six domains vary in how directly they can be shaped by organizational stewards. This is best understood as a **continuum of controllability**, not a binary distinction:
+The six domains vary in how directly their conditions can be altered through formal authority. This is best understood as a **continuum of alterability**, not a binary distinction. This categorization is DESCRIPTIVE (how domains function) not PRESCRIPTIVE (how managers should act).
 
 ### High Control Domains (3)
 
-Stewards can directly design, allocate, and change these domains through positional authority:
+Domain conditions can be directly designed, allocated, and changed through positional authority:
 
-**Data & Feedback:** What gets measured, tracked, reviewed, and made visible (direct control)
-**Tools & Processes:** What systems, workflows, and procedures exist (direct control)
-**Capacity:** What time, authority, and resources are allocated (direct control)
+**Data & Feedback:** What gets measured, tracked, reviewed, and made visible
+**Tools & Processes:** What systems, workflows, and procedures exist
+**Capacity:** What time, authority, and resources are allocated
 
-**Characteristic:** Changes can be implemented quickly through executive decision or policy change.
+**Characteristic:** Conditions can be altered quickly through executive decision or policy change.
 
 ### Moderate Control Domains (2)
 
-Stewards can shape the conditions but cannot control the outcomes; effectiveness depends on individual uptake:
+Conditions can be designed but outcomes depend on individual uptake:
 
-**Skills & Knowledge:** Training and development can be offered (controllable), but actual skill acquisition requires individual participation and effort (emergent). You can mandate attendance but not learning.
+**Skills & Knowledge:** Training and development can be offered, but actual skill acquisition requires individual participation and effort. Attendance can be mandated but not learning.
 
-**Motivation & Values:** Consequences and incentive systems can be designed (controllable), but how people interpret and internalize values is emergent. You can control what gets rewarded but not what people actually value.
+**Motivation & Values:** Consequences and incentive systems can be designed, but how people interpret and internalize values is emergent. What gets rewarded can be controlled but not what people actually value.
 
-**Characteristic:** Stewards influence through design but outcomes depend on distributed individual responses.
+**Characteristic:** Influence occurs through designed conditions but outcomes depend on distributed individual responses.
 
 ### Low Control Domain (1)
 
 **Norms & Expectations:** Emerges from collective interpretation through social interaction and storytelling. Can be influenced indirectly but cannot be directly mandated or controlled. Stories about "what happened when..." cannot be scripted.
 
-**Characteristic:** Stewards can attempt to influence (model behavior, celebrate examples) but cannot directly control what becomes normative through social processes.
+**Characteristic:** Influence is indirect (modeling behavior, celebrating examples) but what becomes normative emerges through social processes.
 
-**Why This Matters for Intervention:**
+**Note on This Categorization:**
 
-**High control domains:** Can be changed quickly but may produce contested equilibrium if changed without legitimacy
-**Moderate control domains:** Changes require individual engagement; resistance manifests as non-uptake
-**Low control domain:** Changes emerge slowly through social process; attempting direct control often backfires
+This categorization is a **DIAGNOSTIC TOOL FOR UNDERSTANDING STRUCTURAL DYNAMICS**, not a prescriptive theory of managerial leverage or a guide to organizational control.
 
-**Practical Implication:**
+**What this categorization describes:**
 
-Leaders often focus intervention efforts on high-control domains (tools, metrics, policies) because they're controllable. But sustainable change requires alignment across all six, including the domains that are only moderately or weakly controllable. This explains why purely structural interventions often fail to produce legitimacy convergence.
+The categorization characterizes HOW DOMAINS FUNCTION in generating cues and shaping legitimacy formation:
+- **Directness of alteration:** Can domain conditions be changed by fiat, or only indirectly?
+- **Speed of pattern change:** How quickly do legitimacy patterns shift when domain conditions change?
+- **Predictability of legitimacy effects:** How reliably do domain changes produce legitimacy shifts?
 
-**Note on Categorization:**
+**What this categorization does NOT claim:**
+- That managers "should" focus on high-control domains
+- That "low control" domains are less important or less influential
+- That institutional change requires positional authority
+- That strategic action is only effective in high-control domains
 
-This three-level categorization (high/moderate/low control) is a practical heuristic for stewardship decisions. The underlying reality is a continuum—even "high control" domains face constraints (e.g., resource limitations, existing dependencies), and even the "low control" domain can be influenced indirectly. The categories indicate where direct intervention is most vs. least feasible.
+**Non-Managerialist Framing:**
+
+This categorization is SYMMETRICALLY useful for:
+- **Managers** diagnosing why top-down changes fail (high-control domain changes without low-control domain shifts)
+- **Workers** understanding why bottom-up resistance persists (norms domain misaligned with tools/metrics domains)
+- **Researchers** predicting when coordination-legitimacy decoupling occurs (high-control changes create contested equilibrium)
+- **Change agents** (regardless of position) identifying leverage points for institutional work
+
+**Relationship to Institutional Work:**
+
+All six domains can be purposively shaped through institutional work (Lawrence et al., 2009) by actors at ANY organizational level - not only managers. The categorization describes MECHANISM of influence, not WHO can influence:
+
+- **High control domains:** Typically altered through formal authority (policy, budget, tools) but can be disrupted by worker resistance, workarounds, or collective action
+- **Moderate control domains:** Altered through designed conditions (training, incentives) but effectiveness depends on individual/collective uptake regardless of who designs
+- **Low control domain:** Altered through cultural work (narratives, modeling, theorizing) - equally accessible to managers, workers, or external actors
+
+**Implication:** The categorization explains WHY certain change attempts fail (domain misalignment) and WHERE legitimacy formation is contested (contradictory cues across domains), not HOW managers should exercise control.
+
+**Why This Matters for Understanding Contested Equilibrium:**
+
+Contested equilibrium often results when:
+- High-control domains change quickly (new tools, new metrics, new policies) creating coordination
+- Low-control domain (norms) shifts slowly or not at all, maintaining contestation
+- Result: High coordination (people use tools, follow processes) + low legitimacy (people believe "this is pointless")
+
+This is a DESCRIPTIVE pattern (what happens), not a PRESCRIPTIVE failure (what should be avoided).
+
+See Institutional Work section for relationship between domain dynamics and purposive institutional shaping by actors at all organizational levels.
 
 ---
 
@@ -2101,14 +2234,66 @@ Introduce disruption and measure:
 - How quickly does it restore?
 - How much resistance to disruption?
 
-Test scenarios:
-- Remove enforcement
-- Introduce contradictory cues
-- Change championing leadership
-- Reduce supporting resources
+**CRITICAL: Disruption must alter CUE CONSTELLATION, not only formal enforcement**
 
-Emerging: Easy to disrupt, doesn't self-restore
-Taken-for-granted: Very difficult to disrupt, automatic restoration
+From habit research (Wood & Neal, 2007): Habits are context-cued responses. Disruption requires changing the cues that trigger the response.
+
+**Why "remove enforcement" alone may not disrupt:**
+
+Removing formal enforcement may fail to disrupt pattern if alternative cues remain:
+- Peer monitoring provides social cues (replacement enforcement)
+- Identity triggers persist ("this is what people like me do")
+- Tool/process cues unchanged (system still makes it easy path)
+- Physical environment unchanged (spatial cues intact)
+- Norms continue signaling expectation (social pressure remains)
+
+**Effective disruption strategies (cue constellation changes):**
+
+**1. Remove enforcement AND change context:**
+- Remove formal monitoring AND alter tools/processes
+- Remove sanctions AND restructure workflow
+- Disrupts both regulative AND structural cues
+
+**2. Change physical/tool environment:**
+- New office layout (spatial cues disrupted)
+- Different software (tool cues changed)
+- Altered processes (procedural cues shifted)
+- Breaks context-response association
+
+**3. Introduce contradictory cues across domains:**
+- Leadership signals shift AND metrics change AND tools adapt
+- Multiple domains sending new signals
+- Comprehensive cue constellation change
+
+**4. Complete context change:**
+- Reorganization, merger, relocation
+- Most robust disruption (entire cue environment shifts)
+
+**Test protocols:**
+
+**Partial disruption (remove enforcement only):**
+- If pattern persists → Check for alternative cues (peer monitoring, identity, tool ease)
+- If pattern persists despite enforcement removal → likely Type 1 habit (legitimacy-based)
+- OR alternative cues sustaining coordination (not legitimacy-based)
+
+**Full disruption (change cue constellation):**
+- Remove enforcement + change tools + alter processes + shift metrics
+- If pattern collapses → Type 2 habit (coordination-based, not legitimacy)
+- If pattern persists → Type 1 habit (legitimacy sustains despite context change)
+
+**Interpretation:**
+
+**Easy to disrupt with enforcement removal alone:** Emerging pattern (not habituated)
+
+**Persists despite enforcement removal BUT collapses when tools/context change:** Type 2 habit (contested equilibrium mechanism)
+
+**Persists even when tools/context change:** Type 1 habit (taken-for-granted legitimacy)
+
+**Quick restoration after disruption:** Strong legitimacy or strong habits + structural dependencies
+
+**Sources:**
+- Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. *Psychological Review, 114*(4), 843-863.
+- Wood, W., Tam, L., & Witt, M. G. (2005). Changing circumstances, disrupting habits. *Journal of Personality and Social Psychology, 88*(6), 918-933.
 
 **METHOD 5: Survival Across Turnover Studies**
 
@@ -2464,6 +2649,24 @@ Aggregate scores reveal patterns without relying on direct legitimacy questions.
 **Current Status**
 
 The measurement thresholds specified in ICT (80% for coordination, SD thresholds for legitimacy consensus) are **heuristic operational definitions** based on theoretical reasoning and initial application experience. They provide practical guidance for empirical work but **require systematic empirical validation** across contexts.
+
+**CRITICAL DISTINCTION: Theoretical Claim vs. Measurement Convenience**
+
+**What ICT's theory claims:**
+- Patterns vary in degree of coordination (behavioral convergence)
+- Patterns vary in degree of legitimacy consensus (interpretive agreement vs. disagreement)
+- These can vary independently (high coordination with low consensus = contested equilibrium)
+- Different combinations create different structural dynamics
+
+**What the thresholds are:**
+- **Measurement conveniences** for operationalizing these theoretical continuums
+- **NOT theoretical constants** with inherent significance
+- **NOT universal cutoffs** that apply in all contexts
+- **Operational definitions** that enable empirical research
+
+**Implication:** The specific numbers (80% for coordination, SD > 1.5 for contested) are practical tools for measurement, not claims about where theoretical boundaries exist. Different contexts, scales, and populations may warrant different operational thresholds while the theoretical claim about coordination-legitimacy independence remains valid.
+
+**Analogy:** Like defining "tall" as >6 feet for a particular study - useful operationally, but "tallness" exists as a continuum regardless of where we draw the measurement line.
 
 **Coordination Threshold (Currently: 80%)**
 
@@ -3149,6 +3352,30 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight from habit fix:** Coordination-based habits (Type 2) are contested equilibrium's mechanism - people comply automatically not from belief but from repetition + friction reduction + enforcement; reveals contested equilibrium ≠ failed legitimation but stable coordination mechanism
 * **Addressed: Second high-quality critique** identifying habits overclaim, methods language undermining novelty, validity missing from loop, spectrum ambiguity, scope rhetoric risk
 
+**Version 2.4** (January 2026)
+* **CRITICAL FIX: Contested equilibrium detection made fully profile-based** - Removed conflicting "individual legitimacy is low" (mean-based) language; detection now entirely through dimension variance profiles; typical profile: safe/acceptable consensus + worthwhile contested
+* **CRITICAL FIX: Added explicit "not merely operationalization" statement** - Direct defense against "ICT is just IT methods"; emphasizes ICT provides testable predictions IT doesn't (when coordination stabilizes without consensus, why patterns persist despite contestation)
+* **CRITICAL FIX: Macro validity recursion statement added** - Reconciles bottom-up (cues→validity) and top-down (validity→heuristics) by explicit recursion: validity is both OUTPUT (emerges from aggregation) AND INPUT (shapes future judgments); self-reinforcing loop
+* **MAJOR: Disruption tests revised to emphasize cue constellation** - Changed from "remove enforcement" to "disrupt cue constellation"; enforcement removal may not disrupt if alternative cues remain (peer monitoring, identity, tools); aligned with habit research on context disruption
+* **MAJOR: SD thresholds clarified as measurement conveniences** - Explicit distinction: THEORY claims disagreement patterns matter, THRESHOLDS are operational definitions not theoretical constants; different contexts may warrant different cutoffs
+* **MAJOR: "External" conditions clarified against dualism** - "External" means "publicly available in interaction" NOT "separable from practice"; methodological stance not ontological dualism; compatible with sociomateriality
+* **Added: Domains categorization as stewardship heuristic** - Strengthened framing as practical guide not theoretical law; all domains shapeable through institutional work; "low control" means indirect influence required, not unchangeable
+* **Added: Authority-action legitimacy divergence example** - "Fairly imposed but still pointless" - fair procedures (authority legitimacy) can coexist with contested action legitimacy on worthwhile dimension
+* **All fixes from third high-quality critique** - Detection inconsistency, operationalization vulnerability, recursion gap, disruption precision, threshold ambiguity, dualism risk
+* **Key insight:** Most remaining issues were rhetorical not theoretical - theory is sound, language invited misinterpretation; v2.4 hardens defensive positions without changing core claims
+* **Addressed: Third excellent critique** identifying precision gaps that created reviewer attack surfaces
+
+**Version 2.5** (January 2026)
+* **CRITICAL FIX: Added unmistakable "not IT with better operationalization" contrast** - New sentence: "IT explains why institutions persist (legitimacy); ICT explains why coordination persists WITHOUT legitimacy (contested equilibrium)" - this is prediction of distinct organizational state IT doesn't theorize, not better measurement of same thing
+* **CRITICAL FIX: Domains reframed as descriptive/diagnostic, not prescriptive/managerialist** - Removed "stewardship" language throughout; changed from "practical heuristic for stewardship decisions" to "diagnostic tool for understanding structural dynamics"; added explicit non-managerialist framing
+* **Major reframing: Domains categorization now symmetrically useful** - Explicitly stated categorization serves managers (why top-down fails), workers (why resistance persists), researchers (when decoupling occurs), and change agents at ANY level; removed implied managerial orientation
+* **Added: Institutional work accessibility clarification** - All domains alterable through institutional work by actors at ANY organizational level, not only managers; high-control domains can be disrupted by worker resistance; low-control domains accessible to workers through cultural work
+* **Changed: Domain function emphasis** - From "how to control/intervene" TO "how domains FUNCTION in generating cues"; describes mechanism not managerial leverage
+* **Changed: Contested equilibrium explanation** - Reframed as DESCRIPTIVE pattern (what happens when domains misalign) not PRESCRIPTIVE failure (what should be avoided); removes implicit normative stance
+* **Removed: All "leaders should" and "intervention" prescription language** - Replaced with neutral description of domain alteration mechanisms
+* **Key insight:** Last two remaining sophisticate vulnerabilities eliminated - both were RHETORICAL exposures where intellectually honest positions invited misreading; fixes crystallize distinction (contested equilibrium = novel prediction) and neutralize framing (diagnostic not prescriptive)
+* **Addressed: Final rhetorical vulnerabilities** - Structure=Institution defensibility, domains managerialist reading
+
 ---
 
-## End of Concept Ledger v2.3
+## End of Concept Ledger v2.5
