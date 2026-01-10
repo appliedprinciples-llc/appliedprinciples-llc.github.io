@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 2.5 | January 2026**
+**Version 2.6 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -154,6 +154,28 @@ Observable means **capable of being perceived by a person through any sense** (s
 * **Private belief** is not a condition → **Public statement of belief** IS a condition
 * **Cognitive framing** is not a condition → **Language used in tools/documents** that shapes framing IS a condition
 
+**Epistemic Clarification on Outward Expressions:**
+
+Outward expressions (facial expressions, tone, body language) are **CUES available for interpretation**; ICT makes **no claim about the true internal state** producing them.
+
+**Example:**
+- **Observable condition:** Person's face reddens, voice rises, fists clench
+- **Person A's interpretation:** "They're angry about this practice; it's unsafe to challenge leadership"
+- **Person B's interpretation:** "They're passionate about making this work; leaders value commitment"
+- **True internal state:** Unknown and irrelevant to ICT's framework
+
+ICT focuses on:
+- What's **publicly available** for interpretation (the reddening face, raised voice)
+- How different people **interpret** the same observable cues (anger vs. passion)
+- How interpretations **converge or diverge** into legitimacy judgments
+
+ICT does NOT:
+- Claim to know the person's actual internal emotional state
+- Assert expressions reveal "true" feelings
+- Require accurate inference of internal states
+
+**Why this matters:** Same outward expression → different interpretations → different legitimacy judgments. The expression is the cue; interpretations vary; ICT explains pattern formation from interpretation convergence, not internal state alignment.
+
 **Why This Distinction Matters:**
 
 ICT focuses on what's available in the environment for interpretation, not what's happening inside individual minds. This is both:
@@ -208,9 +230,11 @@ Legitimacy is not a single construct but has **three distinct dimensions** (Tost
 
 **Language Usage in This Ledger:**
 
-When this ledger uses **"legitimacy" singular**, it typically refers to:
-- **Composite across all three dimensions** (unless otherwise specified), OR
-- **The dimension most relevant to the specific claim**
+When this ledger uses **"legitimacy" singular**, it refers to:
+- **The three-dimensional profile** (safe, acceptable, worthwhile pattern), OR
+- **A specific dimension** when context makes clear which one (e.g., "worthwhile legitimacy is contested")
+
+**Critical:** "Legitimacy singular" is SHORTHAND for the profile or a specified dimension, NOT a composite score. The ledger never treats legitimacy as a single aggregated measure.
 
 **CRITICAL: Measurement Rules for Legitimacy Consensus**
 
@@ -332,32 +356,64 @@ Measured as taken-for-granted status through authorization (leadership endorseme
 
 Contested equilibrium is detected through **legitimacy dimension profiling**:
 
-**Required Pattern:**
+**Core Definition (Required Pattern):**
 - **High coordination:** Practice is routinely enacted (>80% behavioral compliance)
-- **High validity:** Leaders endorse, policies codify, widespread apparent adoption
-- **Legitimacy consensus profile shows contestation:** One or more dimensions (typically "worthwhile") shows high variance (SD > 1.5) while others may show consensus
+- **Contested legitimacy profile:** One or more dimensions (typically "worthwhile") shows high variance (SD > 1.5) while others may show consensus
 
-**Typical contested equilibrium profile:**
+**Two Common Forms:**
+
+**Form 1: Institutionalized Contested Equilibrium (High Validity)**
+- **High validity:** Leaders endorse, policies codify, widespread apparent adoption, alternatives not considered
+- **Legitimacy:** Safe/acceptable show consensus; worthwhile is contested
+- **Mechanism:** Macro validity suppresses expression of doubt ("silenced heterogeneity" - Haack et al., 2021)
+- **Characteristic:** Stable, low overt resistance, compliance appears enthusiastic
+
+**Form 2: Enforced Contested Equilibrium (Low/Moderate Validity)**
+- **Low-moderate validity:** Practice openly questioned, alternatives discussed, leaders acknowledge concerns
+- **Legitimacy:** Safe/acceptable may show consensus (due to enforcement); worthwhile is contested
+- **Mechanism:** Coordination sustained by enforcement, dependencies, or Type 2 habits despite lack of validity
+- **Characteristic:** Less stable, overt resistance, compliance appears reluctant
+
+**Critical distinction:** Contested equilibrium is defined by **coordination + contested legitimacy profile**, not by validity level. Validity describes HOW contestation manifests (silenced vs. overt), not whether contested equilibrium exists.
+
+**Typical Profile (Form 1 - Institutionalized):**
 - **Safe dimension:** Consensus (SD < 0.8) - "It's safe to comply"
 - **Acceptable dimension:** Routine to consensus (SD 0.8-1.2) - "It's socially expected"
 - **Worthwhile dimension:** Contested (SD > 1.5) - "But is it actually valuable?" ← Contestation
+- **Validity:** High (leaders endorse, policy codified, appears taken-for-granted)
 
-**Critical distinction:** Contested equilibrium is defined by **variance patterns** (disagreement on one+ dimensions), NOT by low mean scores. People may comply because safe/acceptable dimensions show consensus, even when worthwhile is contested.
+**Alternative Profile (Form 2 - Enforced):**
+- **Safe:** Consensus (SD < 0.8) - "I'll be punished if I don't comply"
+- **Acceptable:** Routine (SD 1.0) - "Everyone else does it"
+- **Worthwhile:** Contested (SD > 1.5) - "But this is pointless"
+- **Validity:** Low-moderate (openly questioned, alternatives discussed)
 
-**Alternative profile (less common):**
-- **Safe:** Contested (high variance - some feel safe, others don't)
-- **Acceptable:** Consensus (compliance is socially expected)
-- **Worthwhile:** Routine (moderate agreement on value)
-
-Result: Pattern may be less stable due to safety concerns
-
-**Detection requires:**
+**Detection Protocol:**
 1. Measure each legitimacy dimension separately (three survey items)
 2. Calculate SD for each dimension independently
 3. Identify which dimension(s) show contestation
-4. Combine with high coordination + high validity indicators
+4. Assess validity level (endorsement, policy, questioning)
+5. Classify as Form 1 (high validity) or Form 2 (low-moderate validity)
 
-This measurement approach enables empirical distinction between coordination stability and legitimacy convergence through dimension profiling.
+This measurement approach enables empirical distinction between coordination stability and legitimacy convergence through dimension profiling, and distinguishes institutionalized from enforced contested equilibria.
+
+**Relationship to Haack et al. (2021):**
+
+ICT's contested equilibrium and Haack et al.'s "validity-consensus incongruity" are **empirical cousins**, not identical constructs:
+
+**Haack et al. focus:** Disentangling legitimacy constructs (propriety, validity, consensus); showing validity can mask heterogeneity
+
+**ICT focus:** Within-organization mechanisms explaining HOW coordination persists without legitimacy consensus
+
+**Convergence:** Form 1 contested equilibrium (high validity + low consensus) maps closely to Haack et al.'s validity-consensus incongruity, particularly "silenced heterogeneity"
+
+**ICT's distinctive contribution:**
+- Six domain cue sources explaining WHY legitimacy profiles form
+- Type 2 habits + enforcement + dependencies explaining HOW coordination persists
+- Form 1 vs. Form 2 distinction explaining WHEN contestation is silenced vs. overt
+- Disruption tests predicting WHEN patterns break
+
+Haack et al. identify and measure legitimacy facets; ICT provides organizational formation and persistence mechanisms.
 
 **Citation:**
 Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. *Journal of Management Studies, 58*(3), 749-781.
@@ -711,8 +767,10 @@ Type 2 habits are a **primary mechanism** for contested equilibrium:
 
 **Contested equilibrium = Type 2 habits at scale:**
 - Everyone does it automatically (high coordination via habit)
-- Everyone believes it's pointless (low legitimacy consensus)
-- Pattern persists through habit strength + structural dependencies, not belief
+- Beliefs about worth are divided or privately negative (contested legitimacy profile - high variance on worthwhile dimension)
+- Pattern persists through habit strength + structural dependencies, not belief consensus
+
+**Note:** "Everyone believes it's pointless" (low mean + high consensus) is a different pattern - shared cynicism. Contested equilibrium is defined by VARIANCE (disagreement), not low mean agreement.
 
 **From habit research (Wood & Neal, 2007):**
 - Habits are context-cued responses that don't require goal mediation
@@ -1615,15 +1673,29 @@ Contested equilibrium exists in proximity to several established organizational 
 
 **Additional Clarification: Means-Ends Decoupling**
 
-Contemporary decoupling research identifies means-ends decoupling: practices are implemented but disconnected from their intended outcomes. This can overlap empirically with contested equilibrium when the "worthwhile" dimension is contested.
+Contemporary decoupling research (Bromley & Powell, 2012) identifies means-ends decoupling: practices are implemented but disconnected from their intended outcomes. This can overlap empirically with contested equilibrium when the "worthwhile" dimension is contested.
 
-**Distinction:**
-- **Means-ends decoupling** focuses on outcome achievement (practice doesn't produce intended results)
-- **Contested equilibrium** focuses on legitimacy consensus profiles and coordination dependence mechanisms
+**Critical Distinction (Different Explanatory Targets):**
 
-**They can coexist:** A practice may be contested on "worthwhile" (contested equilibrium) BECAUSE it's means-ends decoupled (doesn't achieve outcomes).
+- **Means-ends decoupling:** Practices IMPLEMENTED but DISCONNECTED FROM OUTCOMES
+  - Focus: Outcome achievement (practice doesn't produce intended results)
+  - Question: "Does this practice work?"
+  - Evidence: Implementation yes, outcomes no
 
-ICT's distinctive contribution is explaining HOW coordination persists despite legitimacy contestation through domain cue mechanisms and habit formation, not merely documenting outcome failure.
+- **Contested equilibrium (ICT):** Coordination PERSISTS via MECHANISMS even when legitimacy doesn't converge
+  - Focus: Persistence mechanisms (HOW coordination continues without legitimacy)
+  - Question: "WHY does this practice continue despite contestation?"
+  - Evidence: Type 2 habits + enforcement + dependencies + domain misalignment
+
+**These are different questions:**
+- Decoupling documents the WHAT (misalignment exists)
+- ICT explains the HOW (mechanisms sustaining pattern)
+
+**Empirical overlap:** A practice can be BOTH means-ends decoupled (doesn't achieve outcomes) AND contested equilibrium (mechanisms sustaining coordination without legitimacy). When this occurs:
+- Means-ends decoupling may explain WHY worthwhile is contested (practice fails to deliver)
+- ICT explains HOW coordination persists DESPITE failure (habits, enforcement, dependencies)
+
+**ICT's distinctive contribution:** Not documenting outcome failure (means-ends decoupling does this), but explaining coordination persistence mechanisms—Type 2 habits (automaticity without belief), enforcement systems (compliance without consensus), structural dependencies (opt-out costs), and domain cue patterns (misalignment creates contestation).
 
 **Why These Distinctions Matter:**
 
@@ -1993,8 +2065,13 @@ The degree to which cues across domains consistently signal the same legitimacy 
 
 **When domains contradict:** Cues send conflicting signals. Result: Confusion, scattered attempts, no pattern formation.
 
-**Critical Threshold**
+**Critical Threshold (Working Heuristic)**
+
 Legitimacy convergence likely requires consistency in at least four domains, including Norms & Expectations.
+
+**Status:** This is a working heuristic requiring empirical validation, offered as a testable hypothesis, not a theoretical constant. Different organizational contexts, pattern types, and cultural settings may require different levels of alignment. The "four domains" threshold is based on theoretical reasoning about cue consistency requirements, but the specific number awaits systematic empirical confirmation.
+
+**Theoretical basis:** Six domains provide redundant signaling; convergence likely requires majority alignment (4/6) including the emergent domain (Norms) that cannot be directly mandated.
 
 ---
 
@@ -2273,21 +2350,22 @@ Removing formal enforcement may fail to disrupt pattern if alternative cues rema
 
 **Partial disruption (remove enforcement only):**
 - If pattern persists → Check for alternative cues (peer monitoring, identity, tool ease)
-- If pattern persists despite enforcement removal → likely Type 1 habit (legitimacy-based)
-- OR alternative cues sustaining coordination (not legitimacy-based)
+- Pattern persistence after enforcement removal does NOT automatically indicate Type 1 habit
+- Must assess: Are alternative cues still present? (If yes, still Type 2 possible)
 
 **Full disruption (change cue constellation):**
 - Remove enforcement + change tools + alter processes + shift metrics
-- If pattern collapses → Type 2 habit (coordination-based, not legitimacy)
-- If pattern persists → Type 1 habit (legitimacy sustains despite context change)
+- Comprehensive disruption of context cues
+- If pattern collapses → Type 2 habit (coordination-based, context-dependent)
+- If pattern persists despite cue constellation change → Type 1 habit (legitimacy-based, context-independent)
 
 **Interpretation:**
 
-**Easy to disrupt with enforcement removal alone:** Emerging pattern (not habituated)
+**Easy to disrupt with enforcement removal alone:** Emerging pattern (not yet habituated; no alternative cues)
 
-**Persists despite enforcement removal BUT collapses when tools/context change:** Type 2 habit (contested equilibrium mechanism)
+**Persists despite enforcement removal BUT collapses when cue constellation changes:** Type 2 habit (contested equilibrium mechanism - coordination depends on context cues)
 
-**Persists even when tools/context change:** Type 1 habit (taken-for-granted legitimacy)
+**Persists even when cue constellation changes:** Type 1 habit (taken-for-granted legitimacy - sustains independent of context)
 
 **Quick restoration after disruption:** Strong legitimacy or strong habits + structural dependencies
 
@@ -3376,6 +3454,19 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight:** Last two remaining sophisticate vulnerabilities eliminated - both were RHETORICAL exposures where intellectually honest positions invited misreading; fixes crystallize distinction (contested equilibrium = novel prediction) and neutralize framing (diagnostic not prescriptive)
 * **Addressed: Final rhetorical vulnerabilities** - Structure=Institution defensibility, domains managerialist reading
 
+**Version 2.6** (January 2026)
+* **CRITICAL FIX: Removed "legitimacy singular = composite" internal contradiction** - Changed language rule from "composite across dimensions OR specific dimension" to "three-dimensional PROFILE OR specified dimension"; eliminated actual inconsistency between "never composite" measurement rule and "can refer to composite" language rule
+* **CRITICAL FIX: Loosened contested equilibrium detection - removed high validity requirement** - CE now defined by coordination + contested profile; validity describes HOW contestation manifests (silenced vs overt), not WHETHER CE exists; added Form 1 (institutionalized, high validity) vs Form 2 (enforced, low validity) distinction
+* **MAJOR: Reframed Haack et al. relationship as "empirical cousins" not identity** - CE independently defined (coordination + contested profile); Haack et al. provides measurement framework; validity-consensus incongruity is COMMON FORM of CE (Form 1), not definitional; ICT adds domain mechanisms, habit types, disruption tests
+* **MAJOR: Changed "everyone believes it's pointless" to match variance definition** - Type 2 habit section now says "beliefs about worth are divided or privately negative" (high variance) instead of "everyone believes" (consensus); added note distinguishing contested equilibrium (variance) from shared cynicism (consensus)
+* **Added: Four domains threshold labeled as working heuristic** - "Four domains required for convergence" now explicitly labeled as testable hypothesis requiring empirical validation, not theoretical constant; same treatment as other thresholds
+* **Added: Epistemic clarification for outward expressions** - Expressions are CUES for interpretation; ICT makes no claim about true internal states; same observable cue → different interpretations; focuses on publicly available signals not internal reality
+* **Added: Disruption test consistency tightening** - Clarified that enforcement removal alone doesn't classify Type 1 vs Type 2; must assess whether alternative cues remain; Type 1/Type 2 classification requires cue CONSTELLATION change, not just enforcement removal
+* **Strengthened: Means-ends decoupling differentiation** - Foregrounded mechanism vs outcome distinction: decoupling documents WHAT (misalignment), ICT explains HOW (persistence mechanisms); different explanatory targets can empirically overlap
+* **All fixes from fourth high-quality critique** - Internal contradiction, definition too narrow, language-definition mismatch, derivative framing risk, threshold claims, epistemic ambiguity, consistency gaps
+* **Key insight:** Final precision gaps eliminated - these were last internal inconsistencies (composite language) and overly narrow definitions (high validity required); theory now maximally precise with minimal remaining vulnerabilities
+* **Addressed: Fourth excellent critique** identifying final precision gaps in definitions and consistency
+
 ---
 
-## End of Concept Ledger v2.5
+## End of Concept Ledger v2.6
