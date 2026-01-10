@@ -1,5 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
+**Version 1.1 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -8,6 +9,7 @@ It governs meaning across all public, practitioner, and academic artifacts.
 * If a claim is **not represented here**, it is **not yet part of the theory**
 * Public explanations may simplify language, but **may not alter meaning**
 * Academic arguments may extend or defend concepts, but **may not redefine them without ledger revision**
+* When working paper and ledger conflict, **ledger is authoritative**
 
 ---
 
@@ -36,10 +38,10 @@ Persistence in human systems arises from learned interpretation of conditions, n
 
 **Non-Claims**
 
-* Not predictive
-* Not prescriptive
-* Not a theory of motivation or personality
-* Not a field-level diffusion theory
+* Not predictive (does not guarantee outcomes from interventions)
+* Not prescriptive (does not specify optimal organizational designs)
+* Not a theory of motivation or personality (focuses on external conditions, not internal traits)
+* Not a field-level diffusion theory (explains within-organization dynamics, not cross-organizational adoption)
 
 ---
 
@@ -50,9 +52,16 @@ External, observable features of the environment that people encounter and inter
 
 **Key Properties**
 
-* External and observable
+* External and observable (not attitudes or internal states)
 * Include norms, rules, tools, feedback, and constraints
 * May constrain action directly (capacity, authority, tools) or indirectly through interpretation
+* Function recursively: conditions → interpretation → response → new conditions
+
+**Recursive Function**
+* Conditions shape how people interpret what's legitimate
+* People respond based on those interpretations
+* Repeated responses create new conditions (patterns others observe and respond to)
+* These new conditions shape the next round of interpretation
 
 ---
 
@@ -64,20 +73,20 @@ The shared sense of what actions are acceptable, safe, or worth the effort withi
 **Key Properties**
 
 * Learned through experience, not declared
-* Inferred from consequences, not intent
-* Operates implicitly
+* Inferred from consequences observed when actions are taken
+* Operates implicitly (often without conscious deliberation)
 
-**States of Legitimacy**
+**States of Legitimacy (Spectrum)**
 
-* Contested
-* Routine
-* Taken-for-granted
+* **Contested:** Actions require explicit justification or deliberation. "Should I do this? What will happen?" This is where most organizational change lives.
+* **Routine:** Actions are normal and expected but still conscious. "This is what we do here."
+* **Taken-for-granted:** Actions are so obvious that alternatives aren't considered. "Of course we do it this way." This is legitimacy's most powerful state—when it becomes invisible.
 
 **Ontological Status**
 
-* Phenomenological
-* Relational
-* Institutional
+* **Phenomenological:** A felt sense of whether an action is worth the likely consequence
+* **Relational:** How meanings are negotiated, reinforced, or corrected in interaction with others
+* **Institutional:** When action becomes obvious and legitimacy collapses into structure—enacted without thought
 
 ---
 
@@ -88,9 +97,9 @@ The sensemaking process through which individuals assess cues and determine what
 
 **Key Properties**
 
-* Often implicit
-* Socially situated
-* Precedes deliberate choice
+* Often implicit (not always conscious deliberation)
+* Socially situated (shaped by interaction with others)
+* Precedes deliberate choice (shapes what options feel available)
 
 ---
 
@@ -101,10 +110,10 @@ The actions people take—or avoid—based on their interpretation of legitimacy
 
 **Response Types**
 
-* Reproduction
-* Variation
-* Violation/testing
-* Coordinated change
+* **Reproduction:** Enacting the existing pattern (structure persists through reenactment)
+* **Variation:** Slight deviation from the pattern (structure evolves gradually)
+* **Violation / Testing:** Breaking the pattern to test what happens (reveals structure's strength)
+* **Coordinated change:** Enough people enact differently that a new pattern emerges (structure dissolves or transforms)
 
 ---
 
@@ -114,7 +123,10 @@ The actions people take—or avoid—based on their interpretation of legitimacy
 The capacity of people to choose how they respond to conditions, even when options are constrained.
 
 **Core Role**
-Agency is the mechanism through which structures are reproduced or changed.
+Agency is the mechanism through which structures are reproduced or changed. Every moment of interpretation and response is an opportunity for reproduction, variation, violation, or coordinated change.
+
+**Key Clarification**
+Agency does not imply unlimited freedom. It is always exercised within conditions and constraints. Structures are the accumulated outcome of agency exercised under past conditions, now functioning as conditions for the next round of interpretation and response.
 
 ---
 
@@ -123,21 +135,36 @@ Agency is the mechanism through which structures are reproduced or changed.
 **Canonical Definition**
 Patterns continuously recreated through coordinated action. Structures exist only in ongoing enactment and dissolve when reproduction stops.
 
-**Key Clarification**
-Structures are not charts, policies, or stored entities.
+**Relationship to Patterns**
+Structures ARE patterns—specifically, patterns that have achieved sufficient coordination and repetition that they guide future behavior. "Structure" and "pattern" are used nearly synonymously when explaining the theory, with "structure" emphasizing the apparent solidity/persistence and "pattern" emphasizing the emergent/enacted nature.
+
+**Key Clarifications**
+
+* Structures are not charts, policies, org designs, or stored entities
+* Structures are not causes external to action—they ARE coordinated action
+* Structures persist through reenactment, not inertia
+* When people stop enacting a pattern, the structure dissolves
 
 ---
 
-## Distributed / Structural Memory
+## Distributed Memory
 
 **Canonical Definition**
-What people have collectively learned, through overlapping experiences, about what responses are legitimate, safe, or worthwhile.
+What people have collectively learned, through overlapping experiences, about what responses are legitimate, safe, or worthwhile. No single person holds "the structure"—everyone holds fragments, and overlap creates apparent coherence and enables coordination.
 
 **Key Properties**
 
-* Distributed across individuals
-* Enacted, not stored
-* Guides behavior without enforcement
+* Distributed across individuals (not stored centrally)
+* Enacted, not recorded (exists in doing, not in documents)
+* Guides behavior without enforcement (shapes what feels possible/risky)
+
+**Terminology Note**
+Organizational learning literature uses "organizational memory" (Walsh & Ungson, 1991). ICT uses "distributed memory" to emphasize:
+1. Memory is not stored in a central location
+2. Memory exists in the continuous enactment of learned responses
+3. Memory is what people have learned about legitimacy, not just about outcomes
+
+**Alternative term:** Some ICT texts use "structural memory" to emphasize that memory IS structure (the pattern). "Distributed memory" and "structural memory" refer to the same phenomenon—what the system has collectively learned through overlapping experience.
 
 ---
 
@@ -147,17 +174,29 @@ What people have collectively learned, through overlapping experiences, about wh
 A conceptual distinction between behavioral convergence driven by coordination dependencies and interpretive convergence driven by legitimacy.
 
 **Core Insight**
-Behavioral stability does not imply legitimacy convergence.
+Behavioral stability does not imply legitimacy convergence. Practices can achieve coordination stability (everyone does it) without legitimacy convergence (everyone accepts it).
+
+**Two Tipping Points**
+
+**Coordination Tipping Point:** The threshold at which a practice becomes the cheapest or easiest way to coordinate work, independent of legitimacy. People comply because dependencies, tools, or enforcement make alternatives costly.
+
+**Legitimacy Tipping Point:** The threshold at which a practice becomes taken-for-granted as sensible and appropriate. People defend the practice even when it disadvantages them. Dissent becomes socially weird, not just inconvenient.
 
 ---
 
 ## Contested Equilibrium
 
 **Canonical Definition**
-A stable state in which practices are routinely enacted (coordination has tipped) while legitimacy remains persistently contested.
+A stable state in which practices are routinely enacted (coordination has tipped) while legitimacy remains persistently contested (interpretive convergence has not occurred). Behavioral stability without legitimacy convergence.
 
 **Core Claim**
-Practices can become structurally remembered as routines of compliance before—and even without—becoming legitimate as shared meaning.
+Practices can become structurally remembered as routines of compliance before—and even without—becoming legitimate as shared meaning. People learn "this is required" without ever learning "this makes sense." The structure that forms encodes "how to survive this," not "this is right."
+
+**Why It Matters**
+Most organizational theory assumes behavioral stability implies legitimacy ("if people keep doing it, they must accept it"). ICT shows this is false. Contested equilibrium is not failed institutionalization or a transitional state—it is a predictable and potentially durable organizational condition when enforcement mechanisms sustain coordination while cue environments prevent interpretive convergence.
+
+**Examples**
+Open office plans, performance reviews, return-to-office mandates, compliance training—widely adopted, persistently contested.
 
 ---
 
@@ -169,51 +208,163 @@ These concepts operationalize the core logic and are required for explanation, d
 
 ## Cues
 
-**Definition**
+**Canonical Definition**
 Observable signals drawn from conditions that indicate what actions are legitimate, risky, or worthwhile.
 
 **Key Property**
-Cues gain force through cross-domain consistency.
+Cues gain force through cross-domain consistency. A single cue might be ambiguous, but when multiple cues across multiple domains consistently point in the same direction, they create coherent signals about legitimacy.
+
+**Examples of Cues**
+
+* Leadership attention (what leaders spend time on, ask about, ignore)
+* Patterns of reward and punishment (who gets promoted, who gets sidelined)
+* Silence around certain topics (what can't be discussed)
+* Consistency—or inconsistency—between words and actions
+* What gets measured and reviewed
+* Who gets resources and support
+* How mistakes are treated
+* What's celebrated in stories and rituals
+* Time allocation (what people actually have capacity for)
+* Authority boundaries (who can make which decisions)
 
 ---
 
 ## Domains of Influence
 
-**Definition**
-Analytically distinct categories of environmental and social cues through which legitimacy is signaled and learned.
+**Canonical Definition**
+Analytically distinct categories of environmental and social cues through which legitimacy is signaled and learned. People interpret legitimacy by reading signals across all domains simultaneously.
 
-### Structural / Environmental Domains
+**Two Levels**
 
-* Data & Feedback
-* Tools & Processes
-* Capacity
-* Skills & Knowledge
-* Motivation & Values
+### Structural / Environmental Domains (5)
+Organizational-level domains that can be directly designed, allocated, and controlled by those with authority.
 
-### Collective Domain
-
-* Norms & Expectations
+### Collective Domain (1)
+Social/peer-level domain that emerges from collective interpretation through social interaction and cannot be directly controlled.
 
 ---
 
-## Coordination Tipping Point
+### Data & Feedback
 
 **Definition**
-The threshold at which a practice becomes the cheapest or easiest way to coordinate work, independent of legitimacy.
+What information is visible, reviewed, and acted upon. What gets measured, tracked in performance reviews, discussed in meetings, and made transparent or opaque.
+
+**Three Mechanisms**
+
+* **Structural:** What's measured can be tracked and improved; what's invisible remains unmanaged
+* **Signaling:** What gets measured signals importance; what's tracked in reviews signals career impact
+* **Cognitive:** What's measured becomes salient; unmeasured phenomena fade from awareness; available metrics determine what questions can be answered
 
 ---
 
-## Legitimacy Tipping Point
+### Tools & Processes
 
 **Definition**
-The threshold at which a practice becomes taken-for-granted as sensible and appropriate.
+Formal and informal mechanisms that shape how work is done. Systems, workflows, approval processes, tooling investments, and the capabilities/constraints tools create.
+
+**Three Mechanisms**
+
+* **Structural:** System capabilities determine what's feasible; approval workflows gate action
+* **Signaling:** What receives tooling investment signals priorities; what's automated vs. manual signals value
+* **Cognitive:** Tools provide language, categories, and mental models (Jira: "stories/epics/sprints"; kanban: "flow/WIP limits/cycle time"). Tools shape what concepts are available, what breakdowns feel natural, what people can easily visualize.
+
+---
+
+### Capacity
+
+**Definition**
+What people have the time, authority, energy, and structural position to accomplish. How time and authority are allocated, what competing demands exist, who can say "no" to what.
+
+**Three Mechanisms**
+
+* **Structural:** Time, authority, and resources determine what's structurally possible
+* **Signaling:** How time and authority are allocated reveals actual priorities, often contradicting verbal commitments. Tolerance of capacity constraints signals true values.
+* **Cognitive:** Chronic overload trains people to think short-term; long-horizon planning feels unrealistic. Never experiencing slack makes slack-dependent activities (reflection, exploration, relationship building) cognitively unavailable. Authority boundaries shape what feels "within scope" vs. "not my domain."
+
+**Special Note**
+Capacity can function as a gating condition: when Capacity constraints are severe (zero available time, absolute authority prohibition), consistency across all other domains cannot produce behavioral enactment.
+
+---
+
+### Skills & Knowledge
+
+**Definition**
+What the environment makes learnable, transferable, and usable. What training is provided, what expertise is developed, what knowledge is accessible.
+
+**Three Mechanisms**
+
+* **Structural:** What people know how to do determines accessible options
+* **Signaling:** What training is funded signals where the organization expects people to develop
+* **Cognitive:** If you don't know technique X exists, you can't recognize situations where X would help. Training in particular methodologies shapes what problems are visible. Professional socialization shapes what feels like "real work" vs. auxiliary activity.
+
+---
+
+### Motivation & Values
+
+**Definition**
+What the system rewards, discourages, or makes meaningful. What leads to advancement, bonuses, recognition, or punishment.
+
+**Three Mechanisms**
+
+* **Structural:** Consequences shape which actions feel worth attempting
+* **Signaling:** What leads to advancement reveals true values, regardless of stated culture
+* **Cognitive:** Reward structures shape what feels like "winning" vs. "losing." What's celebrated in stories shapes aspirational identity. You see what you're primed to care about.
+
+---
+
+### Norms & Expectations
+
+**Definition**
+What behavior is taken for granted, praised, ignored, or quietly penalized. What "people like me" do. What stories circulate. Informal signals about what's socially acceptable, identity-based expectations, and informal sanctions.
+
+**Key Difference from Structural Domains**
+Norms & Expectations operates fundamentally differently from the five structural domains:
+
+* **Constituted through interaction,** not provided by organizational design
+* **Emerges from collective interpretation;** cannot be mandated
+* **Functions recursively** as both input and outcome
+* **Represents legitimacy itself** at the collective level, not just a signal
+
+**Recursive Function**
+
+1. **As observable input:** Peer signals, stories, identity markers that individuals encounter
+2. **As emergent process:** Collective sense-making as people compare experiences
+3. **As outcome:** The stabilized pattern of distributed memory when interpretations converge
+4. **As input again:** That pattern becomes a condition newcomers encounter
+
+**Why It's Separate**
+Organizations cannot design Norms directly, only influence it indirectly by shaping the structural domains from which normative patterns emerge. In institutional theory terms, Norms & Expectations is where legitimacy ultimately resides. When practices achieve "taken-for-granted" status, that taken-for-grantedness lives in Norms & Expectations.
+
+**Examples**
+
+* "Remember what happened to Jamie when they questioned the timeline?" (story that teaches risk)
+* "Everyone leaves at 7pm but nobody talks about it" (unspoken social norm)
+* "Real engineers here solve problems, they don't raise problems" (identity-based expectation)
+* "People who use all their vacation are seen as uncommitted" (informal sanction)
 
 ---
 
 ## Change
 
-**Definition**
-A shift in conditions—especially legitimacy cues across domains—combined with coordinated enactment of new responses that, through repetition, form new distributed memory.
+**Canonical Definition**
+A shift in conditions—particularly legitimacy cues across domains—combined with coordinated enactment of new responses that, through repetition, create new distributed memory.
+
+**Not Change**
+* Declaration of goals, attitudes, or desired end states
+* Announcement of new values
+* Training alone
+* Leadership messaging alone
+
+**Change Requirements**
+1. Conditions shift to make new responses legitimate
+2. Enough people enact the new response that it becomes coordinated
+3. The new pattern gets repeated enough that it becomes learned
+4. Distributed memory now encodes the new pattern as "how we do things"
+
+**Two Types of Change Failure**
+
+* **Type 1 (Conditions don't actually change):** Leaders announce new values but cues across domains still reinforce old patterns. Result: Brief compliance followed by reversion.
+* **Type 2 (Coordination doesn't emerge):** Conditions shift but people don't enact new responses at sufficient scale/consistency. Result: Scattered adoption, no pattern formation, eventual abandonment.
 
 ---
 
@@ -223,38 +374,47 @@ These concepts refine mechanisms and implications but are not identity-defining.
 
 ---
 
-## Structural Mechanism
+## Three Domain Mechanisms
+
+ICT identifies three mechanisms through which structural domains shape patterns:
+
+### Structural Mechanism
 
 **Definition**
-How domains enable or constrain action through allocation of tools, resources, authority, and time.
+How domains enable or constrain action through allocation of tools, resources, authority, and time. What's structurally possible or impossible given system design.
 
 ---
 
-## Signaling Mechanism
+### Signaling Mechanism
 
 **Definition**
-How domains reveal priorities and legitimacy through investment, enforcement, attention, and tolerance.
+How domains reveal priorities and legitimacy through investment, enforcement, attention, and tolerance. What allocation patterns signal about what truly matters.
+
+**Key Insight**
+Allocation reveals actual priorities, often contradicting verbal commitments. What gets resources/time/attention signals value more powerfully than what gets words.
 
 ---
 
-## Cognitive Mechanism
+### Cognitive Mechanism
 
 **Definition**
-How domains shape what is thinkable by providing language, categories, and mental models.
+How domains shape what is thinkable by providing language, categories, and mental models. What concepts are available, what breakdowns feel natural, what people can easily visualize or imagine.
+
+**Why It Matters**
+Changing structural domains doesn't just change what's possible and what's valued—it changes what's thinkable. Tools shape language (Jira vs. kanban creates different concepts). Metrics shape what counts as evidence. Capacity shapes time horizons. Contradictory domains create cognitive dissonance beyond simple mixed signals.
 
 ---
 
 ## Cue-Based Learning
 
 **Definition**
-Learning that occurs through interpretation of environmental cues about legitimacy prior to action.
+Learning that occurs through interpretation of environmental cues about legitimacy prior to action. People read cues across domains, infer what's safe/legitimate, and respond accordingly—shaping what gets attempted, not just what gets retained after trial.
 
----
+**Contrast with Outcome-Based Learning**
+Organizational learning literature focuses on outcome-based learning: try actions → observe results → encode lessons. ICT focuses on cue-based learning: observe cues → infer legitimacy → don't attempt actions that seem illegitimate.
 
-## Outcome-Based Learning
-
-**Definition**
-Learning that occurs through trial, feedback, and observed outcomes.
+**Key Difference**
+ICT explains learning that occurs **before action is attempted**. This explains why some practices never get tried despite potential benefits (legitimacy cues prevent trial) and why others persist despite poor performance (legitimacy cues remain supportive).
 
 ---
 
@@ -263,12 +423,28 @@ Learning that occurs through trial, feedback, and observed outcomes.
 **Definition**
 The degree to which cues across domains consistently signal the same legitimacy judgment.
 
+**When domains align:** Cues across all domains point in the same direction, creating clear signals about what's legitimate.
+
+**When domains contradict:** Cues send conflicting signals. Result: Confusion, scattered attempts, no pattern formation.
+
+**Critical Threshold**
+Legitimacy convergence likely requires consistency in at least four domains, including Norms & Expectations.
+
 ---
 
 ## Coordination Stability
 
 **Definition**
 The durability of behavioral enactment produced by coordination dependencies or enforcement, independent of legitimacy.
+
+**Mechanism**
+Practices become coordination-stable when:
+* Tools/processes become mandatory to get work done
+* Dependencies assume participation
+* Opt-out becomes costly (friction, delays, exclusion from information/decisions)
+
+**Key Distinction**
+Coordination stability ≠ legitimacy. High coordination stability can coexist with persistently contested legitimacy (contested equilibrium).
 
 ---
 
@@ -277,107 +453,236 @@ The durability of behavioral enactment produced by coordination dependencies or 
 **Definition**
 The capacity of some actors to shape the conditions others respond to, without being able to impose legitimacy directly.
 
+**What Stewards Can Do**
+
+* Alter what's measured and reviewed (Data & Feedback)
+* Change tool capabilities and workflows (Tools & Processes)
+* Allocate time, authority, and resources (Capacity)
+* Fund training and knowledge development (Skills & Knowledge)
+* Connect actions to consequences (Motivation & Values)
+
+**What Stewards Cannot Do**
+
+* Mandate legitimacy (even powerful actors cannot simply impose taken-for-grantedness)
+* Control Norms & Expectations directly (can only influence indirectly)
+* Guarantee coordination or legitimacy convergence (people still interpret and respond)
+
+**Power's Role**
+Power matters most in determining:
+* What gets monitored and enforced (affecting coordination tipping points)
+* What becomes visible or invisible (affecting cue availability)
+* Whose interpretations get amplified or suppressed (affecting coordination around which pattern)
+
+But power cannot directly create taken-for-grantedness. That requires coordinated enactment and distributed learning over time.
+
 ---
 
 ## Human Systems
 
 **Definition**
-Collectives in which coordination and stability emerge through interpretation and response rather than direct control.
+Collectives in which coordination and stability emerge through ongoing interpretation and response rather than through direct control or compliance.
+
+**Key Properties**
+
+* Interpretive (people actively make sense of their environment)
+* Agentic (people choose how to respond, even when constrained)
+* Emergent (coordination arises from distributed responses, not central direction)
+
+**Scope**
+ICT applies to human systems where interpretation, legitimacy, and learning operate over time. Does not apply to purely mechanical systems or contexts where interpretation is impossible.
 
 ---
 
 # IMPORTED SUPPORTING CONCEPTS (NON-ICT)
 
 These concepts are **explicitly borrowed**, bounded, and not owned by ICT.
+ICT uses specific mechanisms or findings but does not claim the full theoretical apparatus.
 
 ---
 
 ## Institutional Legitimacy
 
-*Meyer & Rowan (1977); DiMaggio & Powell (1983)*
+**Source:** Meyer & Rowan (1977); DiMaggio & Powell (1983)
 
 **Used by ICT**
-Legitimacy as a driver of behavior independent of technical efficiency.
+Legitimacy as a driver of behavior independent of technical efficiency. The insight that organizations adopt practices to gain legitimacy, not just to improve performance.
 
-**Not Claimed**
-Field-level diffusion or isomorphism.
+**Not Claimed by ICT**
+
+* Field-level diffusion mechanisms (how practices spread across organizations)
+* Isomorphism explanations (why organizations come to look alike)
+* Institutional entrepreneurship (how institutional change originates)
+
+**Boundary**
+ICT operates within organizations; institutional theory operates across organizational fields. Field-level phenomena function as conditions that people within organizations interpret and respond to, but ICT does not explain how those field-level phenomena emerge.
 
 ---
 
 ## Structuration (Duality of Structure)
 
-*Giddens (1984)*
+**Source:** Giddens (1984)
 
 **Used by ICT**
-Structure as both medium and outcome of action.
+Structure as both medium and outcome of action. The recursive relationship between structure and agency. The insight that structures don't exist independently but are continuously produced through action.
 
-**Not Claimed**
-Full ontological system of structuration.
+**Not Claimed by ICT**
+
+* Full ontological system of structuration theory
+* Specific typology of structures (signification, domination, legitimation)
+* Theory of time-space distanciation
+
+**Boundary**
+ICT adopts structuration's process ontology (structure as continuous doing) while operationalizing it through specific mechanisms (domains, cues, legitimacy learning) for within-organization analysis.
 
 ---
 
 ## Sensemaking
 
-*Weick (1995)*
+**Source:** Weick (1995)
 
 **Used by ICT**
-Interpretation as socially situated.
+Interpretation as socially situated. The insight that people make sense of equivocal cues through ongoing interaction and that meaning emerges through retrospection and enactment.
 
-**Not Claimed**
-Retrospection or ambiguity as primary persistence mechanisms.
+**Not Claimed by ICT**
+
+* Retrospection as primary mechanism (ICT focuses on prospective legitimacy assessment)
+* Ambiguity/equivocality as central problem (ICT focuses on cue consistency/inconsistency)
+* Sensemaking as primarily occurring during disruption (ICT focuses on ongoing interpretation)
+
+**Boundary**
+Sensemaking informs ICT's concept of interpretation but ICT adds legitimacy as the specific type of meaning being made and distributed memory as the stabilizing mechanism.
 
 ---
 
-## Organizational Learning
+## Organizational Learning & Memory
 
-*Levitt & March (1988); Walsh & Ungson (1991)*
+**Source:** Levitt & March (1988); Walsh & Ungson (1991); Cyert & March (1963)
 
 **Used by ICT**
-Distributed memory and routine persistence.
 
-**Not Claimed**
-Outcome-based learning as sufficient for change.
+* Distributed memory across individuals, culture, structures, ecology (Walsh & Ungson)
+* Routines as encoded organizational memory (Levitt & March)
+* Competency traps and superstitious learning (Levitt & March)
+* Knowledge stickiness (Szulanski, 1996)
+
+**Not Claimed by ICT**
+
+* Outcome-based learning as sufficient explanation for persistence
+* Performance feedback as primary driver of change
+* Learning necessarily improves adaptation
+
+**Boundary**
+Organizational learning focuses on outcome-based learning (try → observe results → encode). ICT focuses on cue-based learning about legitimacy (observe cues → infer legitimacy → shape what gets attempted). The frameworks are complementary: OL explains what happens after action; ICT explains what shapes whether action is attempted.
+
+**Key Distinction**
+ICT explains:
+1. Why some practices never get tried despite potential benefits (legitimacy cues prevent trial)
+2. Why patterns persist despite poor performance (legitimacy cues remain supportive)
+3. Contested equilibrium (coordination without legitimacy)
+4. Why performance feedback often fails without legitimacy cue shifts
 
 ---
 
 ## Behavior Engineering / Environmental Supports
 
-*Gilbert (1978)*
+**Source:** Gilbert (1978)
 
 **Used by ICT**
-Environmental conditions as primary drivers of behavior.
 
-**Not Claimed**
-Performance optimization or environmental sufficiency.
+* Environmental conditions as primary drivers of behavior (~75% of performance variance)
+* Distinction between environmental support and individual repertory
+* Six categories of influence (information, instrumentation, motivation × environment/individual)
+
+**Not Claimed by ICT**
+
+* Performance optimization as goal
+* Environmental sufficiency (fixing environment guarantees behavior change)
+* Individual-level focus
+
+**ICT Extensions**
+
+1. Reframes Gilbert's "capacity" as organizational allocation, not individual trait
+2. Adds signaling mechanism (what allocation reveals about priorities)
+3. Adds cognitive mechanism (how environment shapes what's thinkable)
+4. Adds Norms & Expectations as collective interpretive layer
+5. Reframes environmental factors as legitimacy signals requiring cross-domain consistency
 
 ---
 
 ## Practice Diffusion & Symbolic Adoption
 
-*Westphal et al. (1997)*
+**Source:** Westphal, Gulati, & Shortell (1997)
 
 **Used by ICT**
-Evidence that adoption ≠ internal legitimacy.
 
-**Not Claimed**
-Adoption-stage or field-level explanations.
+* Evidence that adoption ≠ internal legitimacy
+* Distinction between symbolic and substantive implementation
+* Finding that early adopters customize more; late adopters conform more
+
+**Not Claimed by ICT**
+
+* Adoption-stage explanations (why early vs. late differs)
+* Field-level diffusion mechanisms
+* Mimetic isomorphism across organizations
+
+**Boundary**
+Practice diffusion research operates at field level (how practices spread across organizations). ICT operates within organizations (how practices persist or fail through continuous enactment). ICT uses diffusion research as evidence for contested equilibrium but does not explain diffusion itself.
 
 ---
 
 # LEDGER GOVERNANCE RULES
 
-1. **Core concepts cannot be casually revised**
-2. **Supporting concepts may evolve**, but must remain consistent with core logic
-3. Imported concepts **must never be presented as original**
-4. ICT.html may simplify language but may not change meaning
-5. The working paper may extend theory only after ledger revision
+## Rule 1: Core Concepts Are Identity-Defining
+Core concepts cannot be casually revised, combined, or removed. Any proposed change to a core concept requires explicit theoretical justification and ledger version increment.
+
+## Rule 2: Supporting Concepts May Evolve
+Supporting concepts may be refined, elaborated, or added as the theory develops, provided they remain consistent with core logic.
+
+## Rule 3: Imported Concepts Must Be Bounded
+Imported concepts must clearly specify:
+* What ICT uses from the source theory
+* What ICT does not claim
+* Where the boundary lies
+
+Imported concepts must never be presented as ICT-original.
+
+## Rule 4: Working Paper Follows Ledger
+When working paper and ledger definitions conflict, ledger is authoritative. Working paper may elaborate or provide examples but may not alter canonical definitions without ledger revision.
+
+## Rule 5: Public Explanations May Simplify Language
+ICT.html (practitioner introduction) may use simpler language and more accessible examples, but may not:
+* Alter canonical definitions
+* Add claims not in ledger
+* Misrepresent relationships between concepts
+
+## Rule 6: Version Control
+* Ledger must be versioned (Major.Minor)
+* Major version increments when core concepts change
+* Minor version increments when supporting concepts change or clarifications are added
+* All changes must be documented in version history
+
+## Rule 7: Cross-Reference Requirement
+When academic papers cite ICT, they should reference the ledger version used to ensure semantic consistency over time.
 
 ---
 
-## End of Concept Ledger
+## Versioning History
 
-If you want next, we can:
+**Version 1.0** (Initial)
+* First canonical ledger establishing core and supporting concepts
 
-* Produce a **one-page reviewer defense map keyed to this ledger**
-* Generate a **“safe simplification” matrix for ICT.html**
-* Or lock this into a **versioned governance workflow** so future edits don’t drift
+**Version 1.1** (January 2026)
+* Fixed: Clarified "Distributed Memory" as primary term; "Structural Memory" as acceptable alternative
+* Fixed: Standardized "Change" definition wording
+* Added: Canonical definitions for each of the six domains
+* Added: "Recursive Function" explicit to Conditions and Norms
+* Added: "Structures vs. Patterns" relationship clarification
+* Added: "Ontological Status" explanation for Legitimacy
+* Expanded: "Stewardship of Conditions" with what stewards can/cannot do
+* Added: Three mechanisms (Structural, Signaling, Cognitive) detailed for each domain
+* Added: Terminology note on "organizational memory" vs. "distributed memory"
+* Added: Governance rules for version control and cross-referencing
+
+---
+
+## End of Concept Ledger v1.1
