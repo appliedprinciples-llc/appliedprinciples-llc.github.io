@@ -1,17 +1,4 @@
-Below is the **fully integrated Concept Ledger**, incorporating:
-
-* All concepts present in the working paper
-* Clear **CORE vs SUPPORTING** classification
-* A distinct section for **Imported Supporting Concepts (Non-ICT)** with citations
-* No new theory, no invented language, no expansion beyond what already exists in your documents
-* Explicit architectural intent (this is a **governance artifact**, not prose)
-
-This is the version you keep **private and canonical**.
-
----
-
 # Interpretive Conditions Theory
-
 ## Concept Ledger (Canonical, Private)
 
 **Purpose of this document**
