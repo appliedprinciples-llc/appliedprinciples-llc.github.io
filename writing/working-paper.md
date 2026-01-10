@@ -1,7 +1,7 @@
 # Interpretive Conditions Theory: How Coordination Can Persist Without Legitimacy Consensus
 
-**[Author Name]**  
-[Institution]
+**Matthew Carlson**  
+Independant Resarcher
 
 **January 2026**
 
