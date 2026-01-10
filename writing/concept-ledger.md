@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 2.1 | January 2026**
+**Version 2.2 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -46,8 +46,43 @@ Persistence in human systems arises from learned interpretation of conditions, n
 * Not a theory of motivation or personality (focuses on external conditions, not internal traits)
 * Not a field-level diffusion theory (explains within-organization dynamics, not cross-organizational adoption)
 
----
-Perfect. That's a much clearer specification. Let me draft the revised **Conditions** definition for the ledger that addresses this vulnerability:
+**Scope Clarification: Ontological vs. Theoretical**
+
+**Ontological Scope (Where the Phenomenon Occurs):**
+
+Structuring mechanisms—cues, interpretation, legitimacy, distributed memory, continuous enactment—operate at ALL scales. The phenomenon is scale-invariant. Patterns form and persist through the same mechanisms whether we observe:
+- Individual interaction patterns
+- Family dynamics
+- Team routines
+- Organizational practices
+- Industry conventions
+- Societal norms
+
+**Theoretical Scope (What ICT Explains):**
+
+ICT is scoped to explain **within-organization pattern formation and persistence**. Specifically:
+- How patterns emerge from distributed interpretation of conditions
+- Why patterns persist through continuous reenactment
+- When coordination and legitimacy decouple (contested equilibrium)
+- What determines which responses get attempted (cue-based learning)
+
+**What ICT Treats as Exogenous Context:**
+
+- Field-level institutional pressures (why certain practices diffuse across organizations)
+- Industry norms and competitive dynamics (treated as upstream conditions organizations interpret)
+- Regulatory environments (treated as external conditions that shape domains)
+- Cultural and societal structures (treated as context within which organizational patterns form)
+
+**Boundary with Institutional Theory:**
+
+Institutional theory explains how organizational forms and practices diffuse across organizational fields through isomorphic pressures. ICT explains how practices, once introduced (from any source), become coordinated and legitimate (or don't) within a specific organizational context through distributed interpretation and learning.
+
+**Why This Matters:**
+
+- ICT mechanisms operate at multiple scales (ontological claim)
+- But ICT's explanatory focus is organizational-level pattern persistence (theoretical claim)
+- Field-level diffusion is real and operates through similar mechanisms, but explaining cross-organizational adoption is not ICT's primary contribution
+- This is a scope choice, not a claim that other levels don't matter
 
 ---
 
@@ -329,6 +364,43 @@ Drawing on Tost's (2011) instrumental/relational/moral framework, ICT assesses l
 - "Does this align with what I believe is meaningful?"
 - "Is this real work or compliance theater?"
 
+**Relationship to Fairness and Procedural Justice**
+
+Fairness and procedural justice function as powerful cues that shape legitimacy judgments, particularly in the "safe" and "acceptable" dimensions.
+
+**How fairness operates as a cue:**
+
+**Fair procedures signal safety:**
+- When decision processes are perceived as fair (consistent, unbiased, allowing voice), people infer "safe to participate" 
+- Unfair procedures signal risk: "arbitrary punishment is possible"
+
+**Fair treatment signals acceptability:**
+- Fair treatment by authorities signals "appropriate way to act here"
+- Consistent application of rules signals "this is what people like me should do"
+
+**Fair outcomes signal worthwhileness:**
+- Distributive fairness (equitable outcomes) can signal "effort is rewarded appropriately"
+- Unfair distribution can signal "not worth the effort"
+
+**ICT treats fairness as a CUE rather than a separate legitimacy dimension:**
+
+Fairness is not a fourth dimension of legitimacy. Rather, fairness perceptions shape how people answer the three legitimacy questions (safe? acceptable? worthwhile?). 
+
+**Fairness cues come through domains:**
+- **Capacity:** How authority is exercised (fair vs. arbitrary)
+- **Motivation & Values:** How consequences are distributed (equitable vs. biased)
+- **Norms & Expectations:** What stories celebrate (fair treatment vs. favoritism)
+- **Data & Feedback:** What gets measured (transparency vs. opacity in evaluation)
+
+**Why this matters empirically:**
+
+Procedural justice research (Tyler, 1990) shows people comply with authorities they view as legitimate, even when outcomes are unfavorable. This is consistent with ICT's framework: fair procedures create legitimacy cues that shape compliance independent of instrumental outcomes.
+
+**This is descriptive, not normative.** ICT explains how fairness perceptions function as legitimacy cues, not whether fairness "should" matter or whether fair systems are "better." The empirical observation is that fairness cues affect legitimacy judgments, which affect coordination and persistence.
+
+**Source:**
+Tyler, T. R. (1990). *Why people obey the law.* Yale University Press.
+
 **How Interpretations Converge (or Don't)**
 
 **Convergence → Consensus:**
@@ -397,6 +469,36 @@ The actions people take—or avoid—based on their interpretation of legitimacy
 * **Variation:** Slight deviation from the pattern (structure evolves gradually)
 * **Violation / Testing:** Breaking the pattern to test what happens (reveals structure's strength)
 * **Coordinated change:** Enough people enact differently that a new pattern emerges (structure dissolves or transforms)
+
+**Note on Automaticity and Habitual Responses**
+
+Much organizational behavior occurs with minimal conscious deliberation through learned habits and automatic responses. This is fully consistent with ICT's framework.
+
+**How habits fit within ICT:**
+
+When a pattern has been enacted repeatedly with consistent legitimacy signals:
+1. Legitimacy judgments become encoded in habitual responses
+2. Cues can directly trigger behavior without conscious judgment
+3. The interpretation step has become unconscious through repetition
+4. Response occurs automatically based on prior learning
+
+**This explains taken-for-grantedness:**
+- When structures become taken-for-granted, responses feel "obvious" and automatic
+- Not because interpretation isn't happening, but because legitimacy learning has been completed
+- The judgment "this is safe/acceptable/worthwhile" is embedded in the habit
+- Questioning the response seems strange because the legitimacy learning is encoded
+
+**Habitual enactment is still legitimacy-based:**
+- Habits form when repeated enactment occurs without negative consequences
+- Habits persist when environmental cues remain consistent
+- Habits dissolve when cues shift (punishment for habitual action, new tools block old paths)
+- Automatic ≠ mindless; it means "legitimacy already learned"
+
+**Empirical implication:**
+The presence of habitual, automatic responses indicates high legitimacy consensus has been reached and encoded through distributed learning. Habits are evidence of structuration, not an alternative to it.
+
+**Source:**
+Wood, W., & Neal, D. T. (2007). A new look at habits and the habit-goal interface. *Psychological Review, 114*(4), 843-863.
 
 ---
 
@@ -656,6 +758,43 @@ Structures change through aggregated individual agency, not through heroic indiv
 * **Aggregates to patterns:** Many individual responses create emergent structure
 * **Enables change:** When structural room exists and agency aggregates, patterns transform
 
+**Relationship to Institutional Work**
+
+Institutional work scholarship (Lawrence, Suddaby, & Leca, 2009) examines purposive efforts to create, maintain, or disrupt institutions—the strategic actions actors take to shape institutional arrangements.
+
+**ICT's relationship to institutional work:**
+
+**Institutional Work explains:**
+- FORMS of purposive action (what strategies actors use)
+- TYPES of work (creating, maintaining, disrupting)
+- TACTICS employed (theorizing, defining, vesting, enabling)
+
+**ICT explains:**
+- CONDITIONS under which institutional work succeeds or fails
+- WHETHER strategic efforts shift cues, legitimacy judgments, coordination dependencies, and distributed memory
+- WHY some purposive efforts produce pattern change while others don't
+
+**Complementary, not competing:**
+
+Institutional work provides the **agency-side analysis** (what actors DO to shape institutions). ICT provides the **structural-interpretive analysis** (when/why those efforts work).
+
+**Example integration:**
+- Actor engages in "theorizing" work to create new institution (institutional work)
+- Theorizing succeeds IF it shifts domain cues consistently (ICT prediction)
+- New cues create legitimacy convergence → coordination tips → distributed memory forms
+- Institutional work explains the ACTION; ICT explains the MECHANISM
+
+**Why ICT doesn't adopt institutional work framework:**
+
+ICT focuses on explaining pattern persistence through distributed interpretation and learning, not cataloging forms of strategic action. Institutional work is purposive; most pattern maintenance in ICT is not—it's continuous distributed enactment often without strategic intent.
+
+**But they can be combined:**
+- Use institutional work to identify strategic interventions
+- Use ICT to predict which interventions will produce lasting pattern change based on domain cue consistency
+
+**Source:**
+Lawrence, T. B., Suddaby, R., & Leca, B. (2009). Introduction: Theorizing and studying institutional work. In T. B. Lawrence, R. Suddaby, & B. Leca (Eds.), *Institutional work: Actors and agency in institutional studies of organizations* (pp. 1-27). Cambridge University Press.
+
 **Core Role in ICT**
 
 Agency is the mechanism through which structures are reproduced or changed. Every moment of interpretation and response is an opportunity for:
@@ -700,6 +839,31 @@ Patterns continuously recreated through coordinated action. Structures exist onl
 4. **Contested Equilibrium** - HOW coordination without legitimacy forms and persists (domain misalignment)
 5. **Bounded Agency** - HOW agency operates within structural constraints
 6. **Process Emphasis** - Structuring (verb) over structure (noun), no endpoint
+
+**ICT's Distinctive Contribution to Institutional Theory:**
+
+ICT does not claim to discover a new phenomenon. Institutions exist; institutional theory has established this thoroughly.
+
+**ICT claims new EXPLANATORY LEVERAGE** by binding together:
+- **Cue sources** (six specific domains with three mechanisms each) +
+- **Cognitive processing** (heuristics, legitimacy dimensions) +
+- **Coordination economics** (tipping points, dependencies) +
+- **Distributed learning** (before and after action)
+
+...into one **explicit, testable, micro-to-meso causal loop**.
+
+**What this enables:**
+
+1. **Mechanism specification:** Not just "legitimacy matters" but HOW legitimacy is learned from WHICH cues
+2. **Prediction of decoupling:** WHEN coordination and legitimacy separate (domain misalignment → contested equilibrium)
+3. **Within-organization diagnosis:** WHERE to intervene (domain-level analysis) to shift patterns
+4. **Practitioner operationalization:** WHAT to observe and measure to understand pattern persistence
+
+**Relationship to institutional theory:**
+- **Institutional theory explains:** WHAT persists (institutions) and WHY (legitimacy)
+- **ICT explains:** HOW legitimacy is learned, WHERE cues come from, WHEN decoupling occurs, at organizational level
+
+**Not a competing theory—a mechanistic specification** for organizational contexts.
 
 **Measurement methods transfer directly from Institutional Theory:**
 - Tolbert & Zucker's (1996) three-stage framework
@@ -1117,6 +1281,70 @@ Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangl
 
 Most organizational theory assumes behavioral stability implies legitimacy ("if people keep doing it, they must accept it"). Both ICT and Haack et al. (2021) demonstrate this is false. Contested equilibrium is not failed institutionalization or a transitional state—it is a predictable and potentially durable structural condition when enforcement mechanisms sustain coordination while cue environments prevent interpretive convergence.
 
+**Boundary Clarifications: Contested Equilibrium vs. Related Constructs**
+
+Contested equilibrium exists in proximity to several established organizational theory constructs. These boundaries clarify what makes contested equilibrium distinctive:
+
+**Contested Equilibrium vs. Decoupling (Meyer & Rowan, 1977)**
+
+**Decoupling:**
+- **Definition:** Symbolic adoption of formal policies/structures with weak coupling to actual operational practices
+- **Gap:** Formal structure exists ≠ Practice is enacted
+- **Example:** Policy manual says "conduct quarterly reviews" but reviews rarely happen
+- **Key characteristic:** FORM without SUBSTANCE
+
+**Contested Equilibrium:**
+- **Definition:** Operationally real enactment with contested legitimacy
+- **Gap:** Practice IS enacted ≠ Legitimacy consensus exists
+- **Example:** Quarterly reviews happen consistently but participants believe "it's compliance theater"
+- **Key characteristic:** SUBSTANCE (enacted) without CONSENSUS (legitimacy)
+
+**Distinguishing prediction:**
+- **Decoupling occurs when:** Enforcement is weak AND legitimacy is low → symbolic adoption, minimal enactment
+- **Contested equilibrium occurs when:** Enforcement/dependencies are strong BUT legitimacy remains low → full enactment, persistent contestation
+
+**Contested Equilibrium vs. Organized Hypocrisy (Brunsson, 1989)**
+
+**Organized Hypocrisy:**
+- **Definition:** Systematic divergence among talk, decisions, and actions to satisfy conflicting institutional demands
+- **Mechanism:** Organizations manage contradictory pressures by separating rhetoric, formal decisions, and actual behavior
+- **Function:** Allows organizations to appear responsive to multiple constituencies with incompatible expectations
+
+**Contested Equilibrium:**
+- May be one stable pattern that results from organized hypocrisy
+- When talk-decision-action divergences persist, they can create domain misalignment
+- This misalignment produces contested legitimacy interpretations
+- Contested equilibrium describes the INTERNAL STATE (coordination without consensus) that can result from managing external contradictions
+
+**Relationship:** Organized hypocrisy can PRODUCE contested equilibrium when external contradictions get internalized as contradictory domain cues.
+
+**Contested Equilibrium vs. Legitimacy Facades (MacLean & Behnam, 2010)**
+
+**Legitimacy Facades:**
+- **Definition:** Symbolic structures maintained primarily for external legitimacy with limited operational substance
+- **Purpose:** Project legitimacy to external stakeholders while core operations remain unchanged
+- **Emphasis:** EXTERNAL presentation for legitimacy management
+
+**Contested Equilibrium:**
+- **Focus:** INTERNAL state where practice is fully enacted but legitimacy remains divided
+- **Not primarily symbolic:** The practice is operationally real and substantive
+- **Contestation:** Internal participants disagree about value, not external observers
+
+**Key distinction:** Facades are about external presentation; contested equilibrium is about internal legitimacy divergence despite real enactment.
+
+**When Each Occurs (Predictive Distinctions):**
+
+| Condition | Predicted Outcome |
+|-----------|------------------|
+| Weak enforcement + Low legitimacy | **Decoupling** - Symbolic adoption, minimal enactment |
+| Strong enforcement + Low legitimacy | **Contested Equilibrium** - Full enactment, persistent contestation |
+| Contradictory external demands | **Organized Hypocrisy** - Talk/decision/action divergence (may produce contested equilibrium internally) |
+| External legitimacy concern + Internal resistance | **Legitimacy Facade** - Symbolic external presentation (may be decoupled or contested internally) |
+
+**Why These Distinctions Matter:**
+
+Each construct describes a different way behavioral patterns and legitimacy beliefs can be misaligned. Contested equilibrium is distinctive in describing SUSTAINED, OPERATIONAL ENACTMENT paired with PERSISTENT LEGITIMACY CONTESTATION—a pattern that is neither symbolic (decoupling, facades) nor primarily about managing external contradictions (organized hypocrisy), though it can coexist with or result from these other patterns.
+
 **Examples**
 
 Open office plans, performance reviews, return-to-office mandates, compliance training—widely adopted, persistently contested. These ARE structures being continuously enacted. They just contain the contestation as part of what's being structurated.
@@ -1227,6 +1455,30 @@ Formal and informal mechanisms that shape how work is done. Systems, workflows, 
 * **Signaling:** What receives tooling investment signals priorities; what's automated vs. manual signals value
 * **Cognitive:** Tools provide language, categories, and mental models (Jira: "stories/epics/sprints"; kanban: "flow/WIP limits/cycle time"). Tools shape what concepts are available, what breakdowns feel natural, what people can easily visualize.
 
+**Sociomaterial Note: Tools and Practice are Mutually Constituted**
+
+Tools are not merely external constraints or inputs. They are enacted in practice and co-constitute organizational routines (Orlikowski, 2007).
+
+**In ICT's recursive framework:**
+- Tools shape action (tools constrain what's possible, suggest what's appropriate)
+- Action shapes how tools are used (workarounds, novel applications, abandonment)
+- Use creates new conditions for future action
+- Continuous mutual constitution through enactment
+
+**Why ICT separates "Tools" analytically:**
+
+The separation into domains is for **diagnostic purposes**, not an ontological claim about separability. In practice, tools, work, and organizing are inseparable—tools exist only through use, work requires tools, organizing happens through both.
+
+**The analytical separation enables:**
+- Identifying which domain cues are misaligned (tool signals contradict capacity signals)
+- Diagnosing where intervention might shift legitimacy judgments
+- Measuring domain consistency empirically
+
+**But in reality:** Tools and practice co-evolve through recursive enactment. This is consistent with ICT's process ontology (continuous enactment, no static structures).
+
+**Source:**
+Orlikowski, W. J. (2007). Sociomaterial practices: Exploring technology at work. *Organization Studies, 28*(9), 1435-1448.
+
 ---
 
 ### Capacity
@@ -1262,6 +1514,34 @@ What the environment makes learnable, transferable, and usable. What training is
 
 **Definition**
 What the system rewards, discourages, or makes meaningful. What leads to advancement, bonuses, recognition, or punishment.
+
+**CRITICAL CLARIFICATION: Institutionalized Consequences, Not Private Values**
+
+This domain refers to **observable, institutionalized signals about what matters**, NOT individuals' private motivations or personal values.
+
+**What this domain includes (observable):**
+- Consequence systems: Who gets promoted, recognized, rewarded, sanctioned
+- Advancement patterns: What behaviors lead to career progression
+- Recognition systems: What gets celebrated publicly
+- Meaning signals: What leadership emphasizes as "important work"
+- Value statements: What's codified in policies, announcements, mission statements
+
+**What this domain does NOT include (not observable):**
+- Individuals' private values or beliefs
+- Internal motivations or personal goals
+- What people "really care about" inside their heads
+
+**Why this matters:**
+
+ICT treats conditions as external and observable. "Motivation & Values" could be misread as referring to internal psychological states. It does not.
+
+The domain captures what the SYSTEM signals as valued, not what PEOPLE privately value. The gap between system signals and private beliefs is precisely what creates contested legitimacy.
+
+**Example:**
+- System signals (observable): Performance reviews determine promotions
+- Individual interpretation: "Reviews are what matters here" (safe, acceptable)
+- Individual private belief (not observable): "But reviews are superficial" (not worthwhile)
+- Result: Contested equilibrium (compliance without legitimacy)
 
 **Three Mechanisms**
 
@@ -1433,17 +1713,46 @@ The capacity of some actors to shape the conditions others respond to, without b
 
 **What Stewards Cannot Do**
 
-* Mandate legitimacy (even powerful actors cannot simply impose taken-for-grantedness)
+* Mandate legitimacy (even powerful actors cannot reliably impose taken-for-grantedness through coercion alone)
 * Control Norms & Expectations directly (can only influence indirectly)
 * Guarantee coordination or legitimacy convergence (people still interpret and respond)
 
 **Power's Role**
+
 Power matters most in determining:
 * What gets monitored and enforced (affecting coordination tipping points)
 * What becomes visible or invisible (affecting cue availability)
 * Whose interpretations get amplified or suppressed (affecting coordination around which pattern)
 
-But power cannot directly create taken-for-grantedness. That requires coordinated enactment and distributed learning over time.
+**Power and Internalization:**
+
+Power cannot reliably create taken-for-grantedness through coercion alone. However, under certain conditions, sustained compliance can lead to internalization:
+
+**The process (when it occurs):**
+1. Power produces initial compliance (behavior without belief)
+2. Repeated compliance creates experience with the practice
+3. If cues across domains become consistent over time (not just enforcement)
+4. And if the practice connects to identity or values
+5. Then compliance can shift toward identification or internalization
+
+**This is not guaranteed and follows the legitimacy learning mechanisms ICT describes:**
+- Requires consistent cues across domains (not just enforcement)
+- Requires repeated enactment (distributed learning through experience)
+- Requires time for distributed memory to form
+- Can be interrupted if contradictory cues persist
+
+**What determines whether power produces internalization:**
+- Duration of consistent enactment (longer → more likely)
+- Cue consistency across domains (more consistent → more likely)
+- Identity relevance (practice aligns with self-concept → more likely)
+- Procedural fairness (fair processes signal legitimacy → more likely)
+- Social context (peer acceptance → more likely)
+
+**This is an empirical question, not a normative claim.** ICT describes the conditions under which power-induced compliance becomes internalized legitimacy, without claiming this is desirable or undesirable.
+
+**Sources on compliance-identification-internalization:**
+- Kelman, H. C. (1958). Compliance, identification, and internalization: Three processes of attitude change. *Journal of Conflict Resolution, 2*(1), 51-60.
+- Tyler, T. R. (1990). *Why people obey the law.* Yale University Press.
 
 ---
 
@@ -1540,9 +1849,29 @@ Standard deviation across respondents
 - Variance decomposition (within vs. between groups)
 
 **Institutional Level (Validity):**
-- Leadership endorsement
-- Policy inclusion
-- Widespread adoption
+
+Validity is a social fact about generalized acceptance (Haack et al., 2021), not reducible to any single indicator. Measure through **multi-indicator triangulation**:
+
+**Indicators (proxies requiring convergence):**
+- Leadership endorsement (observable authorization)
+- Policy inclusion (formal codification)
+- Widespread adoption (social endorsement)
+- Lack of alternatives considered (taken-for-grantedness)
+
+**These are PROXIES, not direct measures.** Validity is the underlying social fact; these are observable signals. Convergence across multiple indicators increases confidence that validity exists.
+
+**Triangulation approach:**
+- If all indicators present → Strong evidence of validity
+- If some present, some absent → Investigate which aspects of validity are established
+- If all absent → Validity has not been achieved
+
+**Example - Contested equilibrium detection:**
+- Leadership endorsement: ✓ Present (leaders promote practice)
+- Policy inclusion: ✓ Present (codified in procedures)
+- Widespread adoption: ✓ Present (high coordination)
+- Lack of alternatives: ✓ Present (no competing practices visible)
+- **BUT consensus is low** (high SD in legitimacy beliefs)
+- Result: Validity exists, consensus does not → Contested equilibrium
 
 **METHOD 2: Behavioral Variance Analysis**
 
@@ -2607,6 +2936,22 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Transparency improvement:** Acknowledged domains categorization as practical heuristic over continuum; clarified when "legitimacy" is singular vs. multi-dimensional
 * **Addressed: Internal consistency gaps** identified in comprehensive review - no contradictions found, but ambiguities clarified to prevent confusion
 
+**Version 2.2** (January 2026)
+* **MAJOR: Addressed external critique - boundary clarifications and theoretical positioning**
+* **CRITICAL FIX: Scope clarification** - Added explicit distinction between ontological scope (mechanisms operate at all levels) and theoretical scope (ICT explains within-org, treats field-level as exogenous context). Resolves apparent contradiction.
+* **Added: Distinctive contribution statement** - Explicit articulation that ICT provides explanatory leverage by binding cue sources + cognitive processing + coordination economics into testable micro-to-meso loop; not competing with IT but mechanistic specification
+* **Added: Contested equilibrium boundaries** - Formal boundary statements distinguishing from decoupling (form without enactment), organized hypocrisy (talk/decision/action divergence), legitimacy facades (external presentation). Includes predictive distinctions table.
+* **CRITICAL FIX: Power and internalization** - Softened absolute "cannot" claim; added conditions under which power-induced compliance can become internalization (Kelman framework); maintained non-teleological stance describing process without claiming desirability
+* **Added: Fairness/procedural justice** - Explicit statement that fairness functions as cue shaping legitimacy dimensions (safe, acceptable); cited Tyler; maintained non-teleological description of mechanism
+* **Added: Habits and automaticity** - Legitimacy judgments can be encoded in habitual responses; automatic enactment indicates prior learning, not absence of interpretation; taken-for-grantedness explained through habit formation
+* **Added: Institutional work relationship** - Complementary positioning: institutional work explains forms of action, ICT explains conditions for success/failure; agency-side vs. structural-interpretive analysis
+* **MINOR FIX: Motivation & Values clarification** - Explicit statement that domain refers to institutionalized consequences (observable), not private values (internal states)
+* **Added: Sociomateriality note** - Tools and practice mutually constituted; analytical separation for diagnosis, not ontological separability claim; consistent with process ontology
+* **MINOR FIX: Validity measurement** - Clarified as multi-indicator triangulation using proxies, not direct measures; convergence across indicators provides evidence
+* **All fixes maintained non-teleological stance** - Describing how things work, not how they should be; no normative claims about fairness, power, or legitimacy being "good" or "bad"
+* **Key insight:** ICT's scope is a choice about explanatory focus (within-org pattern persistence), not a claim about where mechanisms don't operate (they do at all levels)
+* **Addressed: High-quality external critique** identifying scope contradiction, contribution ambiguity, boundary gaps with established constructs, overly absolute power claim, missing literatures
+
 ---
 
-## End of Concept Ledger v2.1
+## End of Concept Ledger v2.2
