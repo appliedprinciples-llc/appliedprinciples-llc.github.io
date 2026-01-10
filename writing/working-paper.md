@@ -1001,13 +1001,344 @@ It offers a non-deterministic account of leadership responsibility oriented towa
 
 ---
 
+## Empirical Operationalization
+
+A process ontology—where structures exist only in continuous enactment—might appear to create a measurement paradox: How can we empirically identify and measure something that has no independent existence?
+
+Institutional theory solved this problem decades ago. Tolbert and Zucker (1996) demonstrated that "institutionalization is both a property variable and a process" (p. 182). We can measure the degree of institutionalization at any moment (property variable) while acknowledging that institutions exist only through continuous reproduction (process).
+
+ICT adopts this same framework: **Structuration is both a property variable (measurable degree at a moment) and a process (continuous enactment over time).**
+
+This resolves the apparent paradox. We don't ask "Is this a structure?" (binary question). Instead, we ask "To what degree has this pattern become structurated?" (continuous variable measured along multiple dimensions).
+
+### What We Measure: Four Dimensions of Structuration
+
+All continuous enactment involves structuring. What varies is the **character** of that structuring along four dimensions:
+
+**1. Coordination Level (Behavioral Convergence)**
+
+The degree to which people respond similarly to similar conditions.
+
+- **Low:** High variance in responses; many different behaviors observed
+- **Moderate:** Decreasing variance; most people respond similarly
+- **High:** Minimal variance; nearly everyone responds the same way
+
+**Measured through:** Coefficient of variation in observed behaviors, inter-rater reliability of "what we do here," number of distinct response types
+
+**2. Legitimacy Consensus (Interpretive Convergence)**
+
+The degree to which people agree about whether the pattern is safe, acceptable, and worthwhile.
+
+- **Low:** High variance in legitimacy beliefs (SD > 1.5 on 1-7 scale) = Contested
+- **Moderate:** Moderate consensus (SD 0.8-1.5) = Routine
+- **High:** Very high consensus (SD < 0.8) = Taken-for-granted
+
+**Measured through:** Standard deviation of individual legitimacy judgments across three dimensions (Tost, 2011; Haack et al., 2021):
+- "Attempting [practice] is safe here"
+- "Attempting [practice] is acceptable here"  
+- "Attempting [practice] is worthwhile here"
+
+**3. Stability (Resistance to Change)**
+
+The degree to which the pattern persists when challenged or disrupted.
+
+- **Low:** Easily disrupted; doesn't self-restore
+- **Moderate:** Requires active maintenance; weakens without reinforcement
+- **High:** Resists disruption; automatically restores
+
+**Measured through:** Disruption experiments (remove enforcement, introduce contradictory cues, change championing leadership), survival across member turnover, restoration speed after disruption
+
+**4. Taken-for-Grantedness (Cognitive Pillar Strength)**
+
+The degree to which the pattern is automatic versus requiring deliberation.
+
+- **Low:** Requires explicit deliberation and justification
+- **Moderate:** Becoming habitual but still requires explanation
+- **High:** Automatic; questioning it seems strange
+
+**Measured through:** Time-to-decision, length of explanations to new members, frequency of debates about whether/how to do it, presence/absence of justification demands
+
+### The Three-Stage Framework Plus Contested Equilibrium
+
+Building on Tolbert and Zucker's (1996) framework, all stages involve structuring (continuous enactment). They differ in character:
+
+**Stage 1: Pre-Institutionalization (Habitualization)**
+- Coordination: Low (high behavioral variance)
+- Consensus: Low (contested, SD > 1.5)
+- Stability: Low (easily disrupted)
+- Taken-for-grantedness: Low (requires deliberation)
+- **Example:** "Some teams are trying stand-up meetings"
+
+**Stage 2: Semi-Institutionalization (Objectification)**  
+- Coordination: Moderate (standardizing)
+- Consensus: Moderate (SD 0.8-1.5)
+- Stability: Moderate (requires monitoring)
+- Taken-for-grantedness: Moderate (becoming routine)
+- **Example:** "Most teams do stand-ups, each a bit differently"
+
+**Stage 3: Full Institutionalization (Sedimentation)**
+- Coordination: High (minimal variance)
+- Consensus: High (SD < 0.8)
+- Stability: High (self-perpetuating)
+- Taken-for-grantedness: High (automatic, unquestioned)
+- **Example:** "Of course we do stand-ups—everyone does"
+
+**Contested Equilibrium (Coordination-Legitimacy Misalignment)**
+- Coordination: High (everyone does it)
+- Consensus: Low (contested, SD > 1.5)
+- Stability: Moderate to high (enforcement-maintained)
+- Taken-for-grantedness: Low (requires justification: "it's required")
+- **Example:** "Everyone does performance reviews, but no one believes they work"
+
+### Six Measurement Methods
+
+ICT uses measurement methods from institutional theory with one ICT-specific addition (domain cue consistency):
+
+**METHOD 1: Multi-Level Legitimacy Surveys**
+
+Following Haack et al. (2021) and Tost (2011), measure legitimacy at three levels:
+
+**Individual Level (Propriety):**
+Survey items on 1-7 scale:
+- "Attempting [practice] is safe here"
+- "Attempting [practice] is acceptable here"
+- "Attempting [practice] is worthwhile here"
+
+Calculate standard deviation across respondents:
+- SD > 1.5 = Contested (low consensus)
+- SD 0.8-1.5 = Moderate consensus  
+- SD < 0.8 = High consensus (taken-for-granted)
+
+**Collective Level (Consensus):**
+- Measure agreement between individual beliefs
+- Variance decomposition (within-group vs. between-group)
+- r_wg(j) or similar agreement indices
+
+**Institutional Level (Validity):**
+- Leadership endorsement (explicit support in communications)
+- Policy inclusion (formalized in official documents)
+- Widespread adoption (proportion of units/teams implementing)
+- Authorization indicators (budget allocated, time protected)
+
+**METHOD 2: Behavioral Variance Analysis**
+
+Track coordination over time by measuring variance in how people respond to similar conditions:
+
+- Observe multiple instances of the same situation
+- Code response types
+- Calculate coefficient of variation
+- Track variance over time (decreasing = increasing coordination)
+
+**Indicators:**
+- High variance → Low coordination (emerging pattern)
+- Decreasing variance → Increasing coordination (routinizing)
+- Minimal variance → High coordination (taken-for-granted)
+
+**METHOD 3: Effort Tracking (Deliberation to Automatic)**
+
+Measure cognitive and social effort required to enact the pattern:
+
+**Emerging pattern indicators:**
+- Requires explicit deliberation before each instance
+- Needs detailed explanation to newcomers (>5 minutes)
+- Justification frequently demanded ("Why do we do this?")
+- Active debate in meetings about whether/how to do it
+
+**Routinizing indicators:**
+- Becoming habitual (less deliberation needed)
+- Simplified explanations ("We usually do X because...")
+- Some justification still needed
+- Occasional debates
+
+**Taken-for-granted indicators:**
+- Automatic (no deliberation needed)
+- No explanation needed ("Obviously we do X")
+- Justification seems weird ("Why would we NOT do X?")
+- No debate (questioning it is strange)
+
+**Measures:**
+- Time-to-decision metrics
+- Length/detail of explanations to new members
+- Frequency of "why" questions in meetings
+- Presence/absence of debate
+
+**METHOD 4: Disruption Resistance Tests**
+
+Introduce controlled disruptions and measure pattern resilience:
+
+**Test scenarios:**
+- Remove enforcement mechanisms (stop monitoring/requiring it)
+- Introduce contradictory cues (leadership signals different priorities)
+- Change championing leadership (transfer advocates to different roles)
+- Reduce supporting resources (cut budget, time, or tools)
+
+**Measure:**
+- How quickly does behavior change?
+- How many people deviate?
+- How quickly does pattern restore if disruption is removed?
+- How much resistance to the disruption (complaints, workarounds)?
+
+**Indicators:**
+- Emerging: Easy to disrupt, doesn't restore, little resistance
+- Routine: Moderate disruption resistance, partial restoration through social pressure
+- Taken-for-granted: Very difficult to disrupt, automatic restoration, strong resistance
+
+**METHOD 5: Survival Across Turnover Studies**
+
+Track whether patterns persist when key members leave:
+
+**Longitudinal observation:**
+- Does pattern continue when original champions leave?
+- Do new members automatically adopt the pattern?
+- How much active socialization is required?
+- Does pattern weaken with multiple generations of turnover?
+
+**Indicators:**
+- Emerging: Doesn't survive turnover, dies when champions leave
+- Routine: Survives some turnover, requires active socialization, weakens without reinforcement
+- Taken-for-granted: Survives complete turnover, new members absorb automatically, self-perpetuating
+
+**METHOD 6: Domain Cue Consistency Analysis** *(ICT-specific contribution)*
+
+Measure alignment of cues across the six domains of influence.
+
+For the pattern in question, assess each domain on whether cues support the pattern:
+
+| Domain | Assessment Questions | Score |
+|--------|---------------------|-------|
+| **Capacity** | Resources allocated? Time available? Authority granted? | 0 = No, 1 = Partial, 2 = Full |
+| **Tools** | Systems encode pattern? Workflows support? | 0 = No, 1 = Partial, 2 = Full |
+| **Data** | Metrics measure this? Feedback visible? | 0 = No, 1 = Partial, 2 = Full |
+| **Skills** | Training provided? Competence developed? | 0 = No, 1 = Partial, 2 = Full |
+| **Motivation** | Consequences aligned? Values supported? | 0 = No, 1 = Partial, 2 = Full |
+| **Norms** | Stories reinforce? Expectations clear? | 0 = No, 1 = Partial, 2 = Full |
+
+**Calculate consistency score:**
+Sum across domains / Maximum possible (12) = % consistency
+
+**Interpretation:**
+- < 50% = Low consistency (emerging or contested)
+- 50-80% = Moderate consistency (routinizing)
+- > 80% = High consistency (likely taken-for-granted)
+
+**Domain consistency predicts coordination-legitimacy alignment:**
+- **Low consistency + High coordination** = Contested equilibrium (enforcement-based, regulative pillar dominant)
+- **High consistency + Low coordination** = Emerging consensus (conditions aligned but pattern hasn't tipped)
+- **High consistency + High coordination** = Taken-for-granted (aligned structuration)
+
+### Integrated Measurement Strategy
+
+**Minimum viable approach (practical research):**
+1. Legitimacy survey (consensus measurement via SD)
+2. Behavioral observation (coordination measurement via variance)
+3. Domain cue assessment (consistency measurement)
+
+This three-method minimum can distinguish:
+- Emerging (low coordination, low consensus, low consistency)
+- Routinizing (moderate on all three)
+- Taken-for-granted (high on all three)
+- Contested equilibrium (high coordination, low consensus, moderate consistency with regulative-heavy pattern)
+
+**Comprehensive approach (rigorous research):**
+1. Multi-level legitimacy survey (propriety, consensus, validity)
+2. Behavioral variance analysis over time
+3. Effort tracking (deliberation vs. automatic)
+4. Disruption resistance tests
+5. Survival across turnover studies
+6. Domain cue consistency analysis
+7. Longitudinal diffusion analysis (if tracking spread)
+
+### Detecting Contested Equilibrium Empirically
+
+Contested equilibrium shows a specific pattern across measurements:
+
+**Coordination:** 
+- High (>80% compliance rate)
+- Low behavioral variance
+- But high implementation variance (checkbox vs. substantive)
+
+**Legitimacy:**
+- Low consensus (SD > 1.5)
+- Often bimodal distribution (some view as legitimate, others as theater)
+- Means may appear moderate while hiding deep disagreement
+
+**Stability:**
+- Moderate to high (continues over time)
+- But drops sharply if enforcement removed
+- Enforcement-dependent rather than self-sustaining
+
+**Domain Patterns:**
+- HIGH scores in regulative domains (Capacity: time allocated, Tools: systems enforce, Data: completion tracked)
+- LOW scores in cultural-cognitive domains (Skills: minimal training, Norms: stories mock process)
+- Moderate scores on Motivation (consequences for completion, not quality)
+
+**Disruption Test:**
+- Pattern disrupts when enforcement removed
+- Doesn't self-restore
+- People express relief when requirement lifted
+
+**Typical narrative:**
+- Newcomers ask: "Why do we do this?"
+- Veterans answer: "It's required" (not "It's valuable")
+- Distributed memory: "We do X, and it's compliance theater"
+
+### Example: Performance Reviews in Contested Equilibrium
+
+**Legitimacy Survey Results:**
+- Safe: M=4.2, SD=1.9 (contested - people disagree on safety)
+- Acceptable: M=5.0, SD=1.6 (moderate consensus on acceptability)
+- Worthwhile: M=3.8, SD=2.1 (contested - people disagree on value)
+- **Diagnosis:** Low consensus (SD > 1.5 on 2 of 3 dimensions)
+
+**Behavioral Variance:**
+- Completion rate: 95% (high coordination)
+- Quality variance: Very high (ranges from checkbox to substantive)
+- **Diagnosis:** High coordination, high implementation variance
+
+**Domain Cue Consistency:**
+- Capacity: Time allocated in calendar (2)
+- Tools: HRIS enforces completion (2)
+- Data: Completion rate tracked and reported to leadership (2)
+- Skills: Minimal training on conducting reviews (0)
+- Motivation: No consequences for quality, only completion (1)
+- Norms: Stories mock the process as "compliance theater" (0)
+- **Score: 7/12 = 58% consistency (moderate, regulative-heavy)**
+
+**Disruption Test:**
+- Pilot: Remove requirement in one division
+- Result: Reviews drop to 30% completion within 3 months
+- **Diagnosis:** Enforcement-dependent, not self-sustaining
+
+**Narrative Evidence:**
+- Managers explain to new hires: "You have to do reviews, it's in the system"
+- Not: "Reviews help us develop people"
+- Distributed memory: "We do performance reviews, and it's required compliance theater"
+
+**Conclusion:** Performance reviews ARE a structure (continuous enactment happening), specifically a contested equilibrium structure with high coordination but low legitimacy consensus, maintained through enforcement rather than taken-for-grantedness.
+
+### Relationship to Institutional Theory Measurement
+
+Because structures (ICT) and institutions (IT) refer to the same phenomenon—patterns maintained through legitimacy-based continuous enactment—measurement methods transfer directly from institutional theory:
+
+- **Tolbert & Zucker (1996):** Three-stage framework, property + process approach
+- **Tolbert & Zucker (1983):** Longitudinal diffusion analysis, driver shifts over time
+- **Haack et al. (2021):** Multi-level legitimacy measurement (propriety, consensus, validity)
+- **Scott (2001):** Three pillars (regulative, normative, cultural-cognitive) as empirical variation
+- **Tost (2011):** Individual legitimacy judgment process and measurement
+
+ICT's specific contribution is the **domain cue consistency method**, which operationalizes Gilbert's (1978) environmental analysis for organizational contexts and specifies WHERE to look for cue signals and HOW to assess alignment.
+
+This measurement framework provides empirical methods fully consistent with ICT's process ontology while enabling rigorous research on structuration, contested equilibrium, and the conditions under which legitimacy converges or remains durably contested.
+
+---
+
 ## Theory Comparison
 
 *Interpretive Conditions Theory synthesizes and reorders core mechanisms from Institutional Theory, Structuration Theory, and process organization studies to foreground how interpretation, legitimacy, and memory jointly shape persistent patterns of action in human systems through continuous coordinated enactment, and to illuminate where changes in lived action are likely—or unlikely—to endure.*
 
 | Theory | Primary focus | How behavior is explained | View of structure | View of change | What it explains well | Common limits / where it's less explicit |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Interpretive Conditions Theory (ICT)** | Persistence and change in patterned behavior via *interpretation of conditions* and *legitimacy cues*, with stabilization through continuous coordinated enactment. | People respond to what the environment makes seem safe/expected/worthwhile (via consistent cues across six domains). Repeated coordinated responses create patterns that persist only through ongoing reenactment. | "Structures" are patterns continuously recreated through coordinated action; they exist as distributed memory, not stored objects. | Change persists when conditions shift enough that different responses become legitimate/possible AND enough people enact the new response that coordination emerges; declarations alone are insufficient. | Why patterns persist after intentions change; why initiatives revert; how risk-avoidance, silence, and workarounds become "normal"; why compliance ≠ legitimacy; why capacity constraints block change; how tools shape cognition. | Deliberately focused on within-org dynamics; doesn't explain field-level diffusion; under-specifies some power mechanisms; requires qualitative methods to assess legitimacy vs. just measuring compliance. |
+| **Interpretive Conditions Theory (ICT)** | Persistence and change in patterned behavior via *interpretation of conditions* and *legitimacy cues*, with stabilization through continuous coordinated enactment. | People respond to what the environment makes seem safe/expected/worthwhile (via consistent cues across six domains). Repeated coordinated responses create patterns that persist only through ongoing reenactment. | "Structures" are patterns continuously recreated through coordinated action; they exist as distributed memory, not stored objects. | Change persists when conditions shift enough that different responses become legitimate/possible AND enough people enact the new response that coordination emerges; declarations alone are insufficient. | Why patterns persist after intentions change; why initiatives revert; how risk-avoidance, silence, and workarounds become "normal"; why compliance ≠ legitimacy; why capacity constraints block change; how tools shape cognition; contested equilibrium (coordination without legitimacy). | Deliberately focused on within-org dynamics; doesn't explain field-level diffusion; under-specifies some power mechanisms. Measurement methods transfer from institutional theory (legitimacy surveys, behavioral variance, disruption tests) with ICT-specific addition (domain cue consistency). |
 | **Structuration Theory (Giddens, 1984)** | Reciprocal constitution of agency and structure (duality). | Action draws on rules/resources and, through repetition, reproduces or alters those same structures. | Structure is both medium and outcome of practice (enabling and constraining). | Change occurs when ongoing practices shift; reproduction and transformation are continuous possibilities. | How everyday practices reproduce social systems; how constraint and enablement are intertwined; recursiveness of structure-action. | High level of abstraction; often offers limited operational guidance for measurement/diagnosis without additional applied frameworks. ICT operationalizes structuration insights. |
 | **Neo-Institutional Theory (Meyer & Rowan, 1977; DiMaggio & Powell, 1983)** | Legitimacy, diffusion, and institutionalization within organizational fields (regulative/normative/cognitive pressures). | Organizations adopt and maintain practices partly to secure legitimacy under field pressures; decoupling can occur between formal structures and practice. | Institutions/fields shape what forms are legitimate; organizational structures may be symbolic, substantive, or both. | Change occurs as field-level logics, standards, regulations, or legitimacy criteria shift; also via entrepreneurship, shocks, and contestation. | Convergence/isomorphism, diffusion, decoupling; why "rationalized" forms spread across orgs; field-level dynamics. | Often stronger at field/macro explanation than micro-process accounts of day-to-day enactment. ICT specifies within-org mechanisms of how legitimacy is learned and enacted. |
 | **Practice Diffusion & Adoption Studies (Westphal et al., 1997)** | How practices spread across organizations; symbolic vs. substantive adoption | Organizations adopt practices in response to institutional pressures (legitimacy-seeking) and/or technical needs (problem-solving). Adoption varies from symbolic conformity to deep customization. | Adopted practices as organizational features that may be coupled or decoupled from core operations depending on adoption motivations. | Practices diffuse through fields via mimicry, coercion, or normative pressure; early adopters customize more; late adopters conform more. | Inter-organizational variation in adoption timing, depth, and customization; why practices spread despite uncertain efficacy; symbolic vs. substantive implementation. | Focused on adoption decisions and initial implementation; less emphasis on long-term persistence mechanisms or within-org micro-processes of enactment. ICT specifies how adopted practices persist (or fail to persist) through continuous coordinated enactment and distributed learning. |
