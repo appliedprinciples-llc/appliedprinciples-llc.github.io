@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 1.3 | January 2026**
+**Version 1.4 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -189,13 +189,151 @@ Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangl
 ## Interpretation
 
 **Canonical Definition**
-The sensemaking process through which individuals assess cues and determine what actions make sense within the system.
+The process through which individuals assess environmental cues and form legitimacy judgments about what actions are safe, acceptable, and worthwhile.
+
+**Theoretical Positioning**
+
+ICT is not a theory OF interpretation. ICT is a theory that USES interpretation as a mechanism. Just as ICT borrows "legitimacy" from institutional theory, ICT borrows "interpretation" from existing psychological and organizational research on judgment and decision-making.
+
+**Interpretation Mechanisms (Imported)**
+
+ICT uses **cue-based heuristic processing** as specified in:
+- **Tost (2011):** Passive mode legitimacy judgments using heuristics
+- **Chaiken (1987):** Heuristic-systematic model of information processing  
+- **Bitektine (2011); Deephouse et al. (2017):** Cue-based legitimacy assessment
+
+**How Interpretation Works in ICT**
+
+**Five-Step Process:**
+
+1. **Cue Observation:** People encounter observable signals from environmental conditions across six domains
+2. **Heuristic Application:** Simple decision rules are triggered automatically (authority, consensus, consequence, consistency, feasibility heuristics)
+3. **Legitimacy Judgment:** Assessment forms along three dimensions (safe/risky, acceptable/unacceptable, worthwhile/not worthwhile)
+4. **Response:** Behavior is shaped by legitimacy judgment (enact, avoid, hesitate)
+5. **New Conditions Created:** Responses become observable to others, creating new cues (recursive loop)
+
+**Two Processing Modes**
+
+**Passive/Heuristic Mode (Primary):**
+- Low cognitive effort
+- Quick, quasi-automatic processing
+- Uses simple decision rules triggered by environmental cues
+- Operates in most day-to-day organizational situations
+- Example: "Leaders emphasize X → X must be important" (authority heuristic activated without deliberation)
+
+**Evaluative/Systematic Mode (Secondary):**
+- High cognitive effort  
+- Deliberate, careful analysis
+- Occurs when: high personal stakes, contradictory cues, novel situations, prompted to justify
+- Example: Carefully weighing career implications of speaking up in meeting
+
+**Both modes can operate simultaneously**—people may use heuristics while also engaging in some systematic processing.
+
+**Specific Heuristics People Use**
+
+**Authority Heuristic:**
+- "What leaders prioritize is legitimate"
+- "Leadership endorsement signals safety"
+- Triggered by: Leadership attention, public statements, what gets emphasized
+
+**Consensus/Social Proof Heuristic:**
+- "What everyone does is safe"
+- "People like me do X"
+- Triggered by: Peer behavior, stories about others, visible norms
+
+**Consequence Heuristic:**
+- "What gets rewarded is legitimate"
+- "What gets punished is risky"
+- Triggered by: Observed outcomes (promotions, sanctions, recognition)
+
+**Consistency Heuristic:**
+- "Consistency signals what truly matters"
+- "Alignment between words and actions is trustworthy"
+- Triggered by: Cross-domain cue alignment or misalignment
+
+**Feasibility Heuristic:**
+- "If it's structurally possible, it might be expected"
+- "If it's impossible despite words, it's not really legitimate"
+- Triggered by: Capacity availability, tool capabilities, authority boundaries
+
+**Anchoring on "Normal":**
+- "Assess by comparing to what's typical"
+- "High deviation from normal triggers scrutiny"
+- Triggered by: Observing average, most common, or most recent patterns
+
+**Three Legitimacy Dimensions**
+
+Drawing on Tost's (2011) instrumental/relational/moral framework, ICT assesses legitimacy along three dimensions reframed for organizational application:
+
+**1. Safe? (Instrumental + Relational)**
+- "Will I be punished for attempting this?"
+- "Will this harm my standing or relationships?"
+- "Is this risky given what I've observed happen to others?"
+
+**2. Acceptable? (Relational + Moral)**
+- "Is this what people like me do here?"
+- "Will I be excluded or sanctioned if I don't comply?"
+- "Does this fit with how we work?"
+
+**3. Worthwhile? (Instrumental + Moral)**
+- "Is this worth the effort given competing demands?"
+- "Does this align with what I believe is meaningful?"
+- "Is this real work or compliance theater?"
+
+**How Interpretations Converge (or Don't)**
+
+**Convergence → Consensus:**
+
+When many people encounter **similar cues** and apply **similar heuristics**, interpretations converge:
+- Most observe "speaking up leads to criticism" (similar cues)
+- Most apply consequence heuristic: "risky actions are illegitimate" (similar heuristic)
+- Most interpret "speaking up is risky here" (convergent judgment)
+- Most avoid speaking up (coordinated response)
+- **Distributed memory forms:** "We don't speak up here"
+
+**Divergence → Contested Legitimacy:**
+
+When people encounter **contradictory cues** OR weight **different heuristics**, interpretations diverge:
+- Leaders SAY "speak up" (authority cue: legitimate)
+- Peers WHO speak up get criticized (consequence cue: illegitimate)
+- Some weight authority cues more → judge "legitimate"
+- Some weight consequence cues more → judge "illegitimate"
+- **No consensus forms** → Legitimacy remains contested
+
+**Why Cue Consistency Across Domains Matters:**
+
+When domains align (send consistent cues):
+- All heuristics point same direction
+- Authority + Consequence + Consensus + Feasibility + Consistency cues all signal same legitimacy judgment
+- Interpretations converge quickly → High consensus → Taken-for-granted status emerges
+
+When domains contradict (send inconsistent cues):
+- Heuristics trigger conflicting judgments
+- Authority says one thing, consequences show another, feasibility limits third option
+- Interpretations remain divergent → Low consensus → Contested legitimacy persists
 
 **Key Properties**
 
-* Often implicit (not always conscious deliberation)
-* Socially situated (shaped by interaction with others)
-* Precedes deliberate choice (shapes what options feel available)
+* **Often implicit** - Not conscious deliberation; heuristics operate automatically
+* **Socially situated** - Shaped by observable peer behavior, stories, and interaction
+* **Precedes deliberate choice** - Shapes what feels possible before weighing options
+* **Operates through heuristics** - Simple decision rules triggered by environmental cues
+* **Creates recursive loop** - Responses become new conditions that others interpret
+
+**What's Distinctive About ICT's Use of Interpretation**
+
+1. **Specifies cue sources:** Cues come from six specific domains, each operating through three mechanisms (structural, signaling, cognitive)
+2. **Explains persistent contestation:** Contradictory cues across domains can sustain contested legitimacy indefinitely (not just temporary ambiguity)
+3. **Distinguishes cue-based from outcome-based learning:** Learning about legitimacy BEFORE trying (from cues) vs. AFTER trying (from results)
+4. **Makes domain consistency testable:** Measure cue consistency across domains; predict legitimacy convergence
+5. **Connects interpretation to coordination:** Behavioral compliance (coordination) can persist even when legitimacy interpretations remain contested
+
+**Sources**
+
+- Tost, L. P. (2011). An integrative model of legitimacy judgments. *Academy of Management Review, 36*(4), 686-710.
+- Chaiken, S. (1987). The heuristic model of persuasion. In M. P. Zanna, J. M. Olson, & C. P. Herman (Eds.), *Social influence: The Ontario Symposium* (Vol. 5, pp. 3–39). Hillsdale, NJ: Lawrence Erlbaum.
+- Bitektine, A. (2011). Toward a theory of social judgments of organizations: The case of legitimacy, reputation, and status. *Academy of Management Review, 36*(1), 151-179.
+- Deephouse, D. L., Bundy, J., Tost, L. P., & Suchman, M. C. (2017). Organizational legitimacy: Six key questions. In R. Greenwood, C. Oliver, T. B. Lawrence, & R. E. Meyer (Eds.), *The SAGE Handbook of Organizational Institutionalism* (2nd ed., pp. 27-54). SAGE.
 
 ---
 
@@ -742,6 +880,104 @@ Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangl
 
 ---
 
+## Legitimacy Judgment Process
+
+**Source:** Tost (2011)
+
+**Used by ICT**
+
+* Two processing modes: Passive/heuristic (low effort) and Evaluative/systematic (high effort)
+* Three legitimacy dimensions: Instrumental, relational, moral (ICT translates as safe, acceptable, worthwhile)
+* Cue-based judgment formation process
+* Insight that most organizational legitimacy judgments occur in passive mode using heuristics
+
+**What ICT Directly Adopts**
+
+ICT uses Tost's passive/heuristic mode as the primary interpretation mechanism:
+- People observe environmental cues
+- Cues trigger simple decision rules (heuristics)
+- Heuristics produce quick legitimacy judgments
+- Judgments guide behavior without extensive deliberation
+
+ICT adopts the three-dimensional framework but reframes for organizational application:
+- Instrumental → "Is this safe?" (risk assessment)
+- Relational → "Is this acceptable?" (social fit)
+- Moral → "Is this worthwhile?" (meaningful vs. compliance theater)
+
+**What ICT Extends**
+
+1. **Cue sources:** ICT specifies six domains from which legitimacy cues arise
+2. **Domain mechanisms:** ICT explains how domains signal legitimacy through structural, signaling, and cognitive mechanisms
+3. **Convergence/divergence:** ICT explains when interpretations converge (similar cues, similar heuristics) vs. remain contested (contradictory cues)
+4. **Contested equilibrium:** ICT shows how coordination can persist when legitimacy judgments remain divided
+
+**Not Claimed by ICT**
+
+* Full three-stage legitimacy judgment cycle (formation, evaluation, behavioral consequence)
+* Individual differences in judgment tendency
+* Legitimacy judgments about entities other than practices/actions
+
+**Boundary**
+
+Tost (2011) provides the micro-level cognitive mechanism for how individuals form legitimacy judgments. ICT specifies the environmental conditions (six domains) that provide cues for those judgments and explains how individual judgments aggregate into organizational patterns through distributed memory.
+
+**Citation:**
+Tost, L. P. (2011). An integrative model of legitimacy judgments. *Academy of Management Review, 36*(4), 686-710.
+
+---
+
+## Heuristic Processing & Cue-Based Assessment
+
+**Source:** Chaiken (1987); Bitektine (2011); Deephouse et al. (2017)
+
+**Used by ICT**
+
+* **Heuristic-systematic model (Chaiken):** Dual-process framework distinguishing quick heuristic processing from effortful systematic processing
+* **Cue-based legitimacy assessment (Bitektine; Deephouse et al.):** People assess organizational legitimacy by reading environmental cues rather than comprehensive information processing
+* **Specific heuristics:** Authority ("experts can be trusted"), consensus ("what everyone does is normal"), consistency ("alignment signals reliability")
+
+**What ICT Directly Adopts**
+
+ICT uses the heuristic processing framework to explain how people form legitimacy judgments:
+
+**Heuristics ICT emphasizes:**
+1. Authority heuristic: Leadership endorsement signals legitimacy
+2. Consensus heuristic: Widespread practice signals safety
+3. Consequence heuristic: Rewards/punishments signal what's legitimate
+4. Consistency heuristic: Cross-domain alignment signals true priorities
+5. Feasibility heuristic: Structural possibility signals expectations
+6. Anchoring: Comparison to "normal" determines deviation assessment
+
+**Process:**
+- Environmental conditions provide cues
+- Cues trigger heuristics (often automatically, without conscious awareness)
+- Heuristics produce quick legitimacy assessments
+- Assessments guide responses
+
+**What ICT Extends**
+
+1. **Domain specification:** ICT identifies six specific domains that provide legitimacy cues
+2. **Cross-domain consistency:** ICT explains why cue consistency across domains accelerates legitimacy convergence
+3. **Contradictory cues:** ICT shows how domain misalignment creates enduring contested legitimacy
+4. **Cue-based vs. outcome-based learning:** ICT distinguishes learning from cues (before action) from learning from results (after action)
+
+**Not Claimed by ICT**
+
+* Full dual-process models of persuasion or attitude change
+* Individual differences in processing tendencies
+* Motivated reasoning or defensive processing
+
+**Boundary**
+
+Chaiken, Bitektine, and Deephouse et al. provide the cognitive mechanisms (heuristics, cue processing) for how individuals assess legitimacy. ICT specifies (1) where organizational cues come from (six domains), (2) when cue-based interpretations converge vs. remain contested, and (3) how cue-based learning differs from outcome-based learning in explaining organizational patterns.
+
+**Citations:**
+- Chaiken, S. (1987). The heuristic model of persuasion. In M. P. Zanna, J. M. Olson, & C. P. Herman (Eds.), *Social influence: The Ontario Symposium* (Vol. 5, pp. 3–39). Hillsdale, NJ: Lawrence Erlbaum.
+- Bitektine, A. (2011). Toward a theory of social judgments of organizations: The case of legitimacy, reputation, and status. *Academy of Management Review, 36*(1), 151-179.
+- Deephouse, D. L., Bundy, J., Tost, L. P., & Suchman, M. C. (2017). Organizational legitimacy: Six key questions. In R. Greenwood, C. Oliver, T. B. Lawrence, & R. E. Meyer (Eds.), *The SAGE Handbook of Organizational Institutionalism* (2nd ed., pp. 27-54). SAGE.
+
+---
+
 ## Organizational Learning & Memory
 
 **Source:** Levitt & March (1988); Walsh & Ungson (1991); Cyert & March (1963)
@@ -887,6 +1123,19 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Citation added:** Haack, P., Schilke, O., & Zucker, L. G. (2021). Legitimacy revisited: Disentangling propriety, validity, and consensus. Journal of Management Studies, 58(3), 749-781.
 * **Addressed: Peer review vulnerabilities** on legitimacy measurement, operationalization gaps, and theoretical tensions
 
+**Version 1.4** (January 2026)
+* **MAJOR: Fully specified Interpretation mechanisms** - Replaced brief placeholder definition with comprehensive specification of cue-based heuristic processing
+* **Added: Legitimacy Judgment Process** as imported supporting concept (Tost, 2011)
+* **Added: Heuristic Processing & Cue-Based Assessment** as imported supporting concept (Chaiken, 1987; Bitektine, 2011; Deephouse et al., 2017)
+* **Specified: Two processing modes** - Passive/heuristic (primary) and Evaluative/systematic (secondary)
+* **Specified: Six heuristics** - Authority, consensus, consequence, consistency, feasibility, anchoring
+* **Specified: Five-step interpretation process** - Cue observation → Heuristic application → Legitimacy judgment → Response → New conditions (recursive loop)
+* **Specified: Convergence/divergence mechanisms** - How interpretations converge (similar cues + similar heuristics) or remain contested (contradictory cues)
+* **Specified: Three legitimacy dimensions** - Safe, acceptable, worthwhile (adapted from Tost's instrumental/relational/moral)
+* **Clarified: ICT is not a theory OF interpretation** - ICT uses interpretation mechanisms from existing research
+* **Citations added:** Tost (2011), Chaiken (1987), Bitektine (2011), Deephouse et al. (2017)
+* **Addressed: Peer review vulnerability** on interpretation underdevelopment and theoretical thinness
+
 ---
 
-## End of Concept Ledger v1.3
+## End of Concept Ledger v1.4
