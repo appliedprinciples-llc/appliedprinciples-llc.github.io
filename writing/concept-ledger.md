@@ -1,6 +1,6 @@
 # Interpretive Conditions Theory
 ## Concept Ledger (Canonical, Private)
-**Version 2.0 | January 2026**
+**Version 2.1 | January 2026**
 
 **Purpose of this document**
 This ledger is the authoritative semantic contract for Interpretive Conditions Theory (ICT).
@@ -116,6 +116,55 @@ Conditions include norms (which are socially constructed), but norms become cond
 
 **Canonical Definition**
 The shared sense of what actions are acceptable, safe, or worth the effort within a system, shaping what people feel able to do regardless of formal permission.
+
+**CRITICAL CLARIFICATION: Legitimacy is Multi-Dimensional**
+
+Legitimacy is not a single construct but has **three distinct dimensions** (Tost, 2011). Patterns can have:
+
+**The Three Dimensions:**
+1. **Safe:** Is attempting this action safe here? (Will I be punished? Will this harm my standing?)
+2. **Acceptable:** Is this action acceptable here? (Is this what people like me do? Will I be excluded?)
+3. **Worthwhile:** Is this action worthwhile here? (Is this worth the effort? Does this matter?)
+
+**These dimensions can vary independently:**
+
+**Example - Contested Equilibrium Profile:**
+- Safe: High consensus (SD = 0.6) - "It's safe to comply"
+- Acceptable: High consensus (SD = 0.7) - "It's socially acceptable, even required"
+- Worthwhile: Low consensus (SD = 1.8) - "But is it actually valuable?" (contested)
+
+**Result:** High coordination (everyone does it because it's safe and required) but contested legitimacy (people disagree about value). This is contested equilibrium.
+
+**Example - Fear-Based Compliance:**
+- Safe: Low consensus (SD = 1.9) - "Is it safe to do this?" (contested/risky)
+- Acceptable: High consensus (SD = 0.5) - "It's socially acceptable"
+- Worthwhile: High consensus (SD = 0.6) - "It's valuable work"
+
+**Result:** People want to do it (acceptable, worthwhile) but fear prevents it (safety contested). Pattern may not form despite legitimacy on two dimensions.
+
+**Language Usage in This Ledger:**
+
+When this ledger uses **"legitimacy" singular**, it typically refers to:
+- **Composite across all three dimensions** (unless otherwise specified), OR
+- **The dimension most relevant to the specific claim**
+
+**When assessing legitimacy empirically:**
+- Measure all three dimensions separately (three survey items)
+- Calculate SD for each dimension independently  
+- Examine profiles (which dimensions show consensus vs. contestation)
+- Different profiles create different structural characters
+
+**Example interpretation:**
+- "Legitimacy consensus is high" = High consensus on all three dimensions (or composite)
+- "Legitimacy on 'worthwhile' is contested" = Specific dimension identified
+- "Legitimacy convergence" = Typically refers to convergence across all dimensions
+
+**Why the multi-dimensional view matters:**
+
+1. **Explains different types of contested equilibrium** - Can be contested on value while consensus on safety
+2. **Enables precise diagnosis** - Which dimension(s) are contested reveals intervention points
+3. **Predicts behavior patterns** - Different dimension profiles predict different responses
+4. **Avoids oversimplification** - "Legitimate" vs. "not legitimate" is too binary; reality is more nuanced
 
 **Key Properties**
 
@@ -761,6 +810,57 @@ Institutional Theory (Scott, 1995, 2001) identifies three pillars of institution
 - **Contested equilibrium:** Regulative/normative dominant, cultural-cognitive weak
 - **Taken-for-granted:** Cultural-cognitive dominant, minimal enforcement needed
 
+**How Three Pillars Relate to Two Aspects of Structuration**
+
+The three pillars framework and the two aspects framework describe different properties of the same phenomenon. Understanding their relationship prevents confusion:
+
+**Scott's Three Pillars describe BASES OF SUPPORT** (what sustains the structure):
+- **Regulative:** Enforcement through rules, authority, sanctions
+- **Normative:** Social obligation through values, expectations, norms
+- **Cultural-Cognitive:** Taken-for-granted beliefs, shared understandings
+
+**ICT's Two Aspects describe MEASURABLE PROPERTIES** (what we observe and measure):
+- **Behavioral Aspect (Structure):** Coordination level, observable pattern
+- **Cognitive Aspect (Distributed Memory):** Legitimacy consensus, collective learning
+
+**How They Intersect:**
+
+The three pillars produce effects in both aspects:
+
+| Pillar | Effect on Behavioral Aspect | Effect on Cognitive Aspect |
+|--------|---------------------------|--------------------------|
+| **Regulative** | Can produce HIGH coordination through enforcement | Does NOT produce legitimacy consensus (can create contested beliefs) |
+| **Normative** | Produces coordination through social pressure | Produces MODERATE legitimacy (obligation, not taken-for-granted) |
+| **Cultural-Cognitive** | Produces coordination automatically | Produces HIGH legitimacy consensus (taken-for-granted) |
+
+**Contested Equilibrium Explained Through Both Frameworks:**
+
+**Three Pillars View:**
+- Regulative pillar is STRONG (enforcement through domains)
+- Cultural-cognitive pillar is WEAK (not taken-for-granted)
+- Structure persists through enforcement, not belief
+
+**Two Aspects View:**
+- Behavioral aspect shows HIGH coordination (everyone does it)
+- Cognitive aspect shows LOW consensus (people disagree about value)
+- Structure exists with contested character
+
+**Same phenomenon, different analytical lenses.**
+
+**Why ICT Uses Both Frameworks:**
+
+**Three Pillars** help explain:
+- WHAT sustains the structure (enforcement vs. belief)
+- WHERE to intervene (strengthen cultural-cognitive or accept regulative)
+- WHY patterns can persist without legitimacy (regulative pillar sufficient)
+
+**Two Aspects** help explain:
+- WHAT to measure (coordination and legitimacy separately)
+- HOW to detect contested equilibrium (high on one, low on other)
+- WHERE the analytical distinction matters (behavioral ≠ cognitive)
+
+**Both frameworks are necessary and complementary.**
+
 **Key Clarifications**
 
 * Structures are not charts, policies, org designs, or stored entities
@@ -772,7 +872,7 @@ Institutional Theory (Scott, 1995, 2001) identifies three pillars of institution
 * **Structure (ICT) = Institution (IT): same phenomenon, different vocabulary and emphasis**
 * **Structuring operates at ALL levels simultaneously: no scope restriction**
 * **Individuals exist within layered, overlapping structures (palimpsest)**
-* **Structure and distributed memory are not two separate phenomena—they are two analytically distinguishable aspects of structuration:** Structure is the behavioral aspect (observable coordination), distributed memory is the cognitive aspect (collective learning about legitimacy). The distinction is analytical (for measurement and explanation), not ontological (they're not two things that co-occur).
+* **Structure and distributed memory are not two separate phenomena—they are two analytically distinguishable aspects of structuration:** Structure is the behavioral aspect (observable coordination), distributed memory is the cognitive aspect (collective learning about legitimacy). The distinction is analytical (for measurement and explanation), not ontological (they're not two things that co-occur). **See Coordination-Legitimacy Distinction for the empirical manifestation of this theoretical framework.**
 
 ---
 
@@ -928,6 +1028,17 @@ A conceptual distinction between behavioral convergence driven by coordination d
 **Core Insight**
 Behavioral stability does not imply legitimacy convergence. Practices can achieve coordination stability (everyone does it) without legitimacy convergence (everyone accepts it).
 
+**Relationship to Structure-Memory Framework**
+
+The coordination-legitimacy distinction is the **empirical manifestation** of the structure-distributed memory relationship:
+
+**Coordination** = degree of behavioral convergence → measurable as **Structure (behavioral aspect)**
+**Legitimacy consensus** = degree of interpretive convergence → measurable as **Distributed Memory (cognitive aspect)**
+
+When these decouple (high coordination, low legitimacy consensus), the result is **contested equilibrium**.
+
+See Structures section for theoretical framework explaining why these can decouple as two aspects of structuration.
+
 **Two Tipping Points**
 
 **Coordination Tipping Point:** The threshold at which a practice becomes the cheapest or easiest way to coordinate work, independent of legitimacy. People comply because dependencies, tools, or enforcement make alternatives costly.
@@ -1046,13 +1157,49 @@ Cues gain force through cross-domain consistency. A single cue might be ambiguou
 **Canonical Definition**
 Analytically distinct categories of environmental and social cues through which legitimacy is signaled and learned. People interpret legitimacy by reading signals across all domains simultaneously.
 
-**Two Levels**
+**Domain Categorization by Degree of Direct Control**
 
-### Structural / Environmental Domains (5)
-Organizational-level domains that can be directly designed, allocated, and controlled by those with authority.
+The six domains vary in how directly they can be shaped by organizational stewards. This is best understood as a **continuum of controllability**, not a binary distinction:
 
-### Collective Domain (1)
-Social/peer-level domain that emerges from collective interpretation through social interaction and cannot be directly controlled.
+### High Control Domains (3)
+
+Stewards can directly design, allocate, and change these domains through positional authority:
+
+**Data & Feedback:** What gets measured, tracked, reviewed, and made visible (direct control)
+**Tools & Processes:** What systems, workflows, and procedures exist (direct control)
+**Capacity:** What time, authority, and resources are allocated (direct control)
+
+**Characteristic:** Changes can be implemented quickly through executive decision or policy change.
+
+### Moderate Control Domains (2)
+
+Stewards can shape the conditions but cannot control the outcomes; effectiveness depends on individual uptake:
+
+**Skills & Knowledge:** Training and development can be offered (controllable), but actual skill acquisition requires individual participation and effort (emergent). You can mandate attendance but not learning.
+
+**Motivation & Values:** Consequences and incentive systems can be designed (controllable), but how people interpret and internalize values is emergent. You can control what gets rewarded but not what people actually value.
+
+**Characteristic:** Stewards influence through design but outcomes depend on distributed individual responses.
+
+### Low Control Domain (1)
+
+**Norms & Expectations:** Emerges from collective interpretation through social interaction and storytelling. Can be influenced indirectly but cannot be directly mandated or controlled. Stories about "what happened when..." cannot be scripted.
+
+**Characteristic:** Stewards can attempt to influence (model behavior, celebrate examples) but cannot directly control what becomes normative through social processes.
+
+**Why This Matters for Intervention:**
+
+**High control domains:** Can be changed quickly but may produce contested equilibrium if changed without legitimacy
+**Moderate control domains:** Changes require individual engagement; resistance manifests as non-uptake
+**Low control domain:** Changes emerge slowly through social process; attempting direct control often backfires
+
+**Practical Implication:**
+
+Leaders often focus intervention efforts on high-control domains (tools, metrics, policies) because they're controllable. But sustainable change requires alignment across all six, including the domains that are only moderately or weakly controllable. This explains why purely structural interventions often fail to produce legitimacy convergence.
+
+**Note on Categorization:**
+
+This three-level categorization (high/moderate/low control) is a practical heuristic for stewardship decisions. The underlying reality is a continuum—even "high control" domains face constraints (e.g., resource limitations, existing dependencies), and even the "low control" domain can be influenced indirectly. The categories indicate where direct intervention is most vs. least feasible.
 
 ---
 
@@ -2446,6 +2593,20 @@ When academic papers cite ICT, they should reference the ledger version used to 
 * **Key insight:** Observable behaviors provide robust evidence of contested vs. taken-for-granted legitimacy without relying on self-reports, making measurement more defensible against social desirability bias concerns
 * **Addressed: Peer review vulnerability** on empirical challenges distinguishing coordination from legitimacy, social desirability bias in self-reports, and threshold ambiguity
 
+**Version 2.1** (January 2026)
+* **MAJOR: Internal consistency improvements** - Comprehensive review and clarification of relationships between core concepts
+* **Added: "How Three Pillars Relate to Two Aspects" section** - Explicit reconciliation showing how Scott's three pillars (regulative, normative, cultural-cognitive) and ICT's two aspects (behavioral, cognitive) are different but complementary analytical lenses on same phenomenon
+* **Added: Table showing pillar effects on aspects** - Regulative produces coordination without legitimacy; cultural-cognitive produces both; normative produces moderate legitimacy
+* **Added: "Legitimacy is Multi-Dimensional" clarification** - Extensive section explaining that legitimacy has three independent dimensions (safe, acceptable, worthwhile) that can vary independently
+* **Added: Dimension profile examples** - Contested equilibrium can be contested on "worthwhile" while consensus on "safe/acceptable"; different profiles create different structural characters
+* **Clarified: Language usage** - When ledger uses "legitimacy" singular, it refers to composite across dimensions or most relevant dimension
+* **Revised: Domains categorization** - Changed from binary (5 structural, 1 collective) to continuum with three levels: High Control (Data, Tools, Capacity), Moderate Control (Skills, Motivation), Low Control (Norms)
+* **Added: Practical implications** - Why Leaders focusing on high-control domains alone often fails; sustainable change requires alignment across all controllability levels
+* **Added: Cross-references** - Coordination-Legitimacy ↔ Structure-Memory linked with explicit statements showing they're same distinction (empirical vs. theoretical framing)
+* **Key insight:** Three pillars and two aspects aren't competing frameworks—pillars describe bases of support (what sustains), aspects describe measurable properties (what we observe); both necessary
+* **Transparency improvement:** Acknowledged domains categorization as practical heuristic over continuum; clarified when "legitimacy" is singular vs. multi-dimensional
+* **Addressed: Internal consistency gaps** identified in comprehensive review - no contradictions found, but ambiguities clarified to prevent confusion
+
 ---
 
-## End of Concept Ledger v2.0
+## End of Concept Ledger v2.1
