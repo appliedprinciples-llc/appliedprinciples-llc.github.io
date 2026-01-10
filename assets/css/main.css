@@ -857,6 +857,8 @@ input, select, textarea {
 
 		dl dd {
 			margin-left: 2rem;
+			padding-bottom: 15px; /* Adjust value as needed */
+			margin-bottom: 0; /* Prevent default margin from conflicting */
 		}
 
 /* Actions */
